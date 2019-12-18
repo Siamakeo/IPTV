@@ -1,0 +1,96 @@
+#EXTINF:0,Manoto HD
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:0,Bazme Asheghan
+https://593aed234297b.streamlock.net/saeed_nl/saeed_nl/playlist.m3u8
+#EXTINF:0,24 BOX TV
+http://51.158.190.97/hls/stream.m3u8
+#EXTINF:0,Maxx
+http://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
+#EXTINF:0,Cine Film
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Cine Series
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0,ICC
+http://mn-nl.mncdn.com/ezcdn_icc/icc_1/chunklist.m3u8?
+#EXTINF:0,Gem Classic
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
+#EXTINF:0,Gem Drama
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+#EXTINF:0,Gem Series
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
+#EXTINF:0,Gem TV
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
+#EXTINF:0,Gem USA
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
+#EXTINF:0,River
+http://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
+#EXTINF:0,Rubix
+http://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
+#EXTINF:0,4U TV
+http://5.9.153.199:1935/4utv/live/chunklist_w581053882.m3u8
+#EXTINF:0,Oxir TV
+http://51.158.77.153/hls/stream.m3u8
+#EXTINF:0,AMG
+https://ir3.live21.ir/hls2/AMG_high.m3u8
+#EXTINF:0,EBC1
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:0,MTC mellitv
+http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
+#EXTINF:0,Royal TV
+http://stream.rtimetv.com/rtimetv/playlist.m3u8
+#EXTINF:0,PBC Tapesh
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:0,Persiana1
+http://51.15.229.209/hls/stream.m3u8
+#EXTINF:0,Andisheh
+http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
+#EXTINF:0,YourTime
+https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:0,Nat Geo Farsi
+https://bozztv.com/36bay2/gin/giniko_tvbox-natgeofarsi_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0,Radio Javan
+https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1457425685_b2892000.m3u8
+#EXTINF:0,MIFA
+http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+#EXTINF:0,Caltex Music
+http://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:0,Iraninternational
+https://live.playstop.live/LS-63503-1/index.m3u8
+#EXTINF:0,RadioFarda
+http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTINF:0,VOA PNN
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:0,Trace Naija
+http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:0,MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:0,M2O TV
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:0,NRJ Hits
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist.m3u8
+#EXTINF:0,mbc2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
+#EXTINF:0,mbc MAX
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
+#EXTINF:0,Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:0,Retro TV
+http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
+#EXTINF:0,Rai Movie
+https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0,H2
+http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
+#EXTINF:0,Nat Geo HD
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+#EXTINF:0,Nat Geo people HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:0,Nat Geo WILD HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0,NRK1
+https://nrk-nrk1.akamaized.net/21/1/hls/nrk_1/1955020115-123787468-prog_index.m3u8
+#EXTINF:0,NRK2
+https://nrk-nrk2.akamaized.net/22/1/hls/nrk_2/1955020115-123787468-prog_index.m3u8
+#EXTINF:0,NRK3
+https://nrk-nrk3.akamaized.net/23/1/hls/nrk_3/1955020115-123787468-prog_index.m3u8
+#EXTINF:0,Fatstone.TV
+http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
