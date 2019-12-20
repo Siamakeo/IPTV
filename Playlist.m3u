@@ -39,7 +39,7 @@ http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
 #EXTINF:0,Royal TV
 http://stream.rtimetv.com/rtimetv/playlist.m3u8
 #EXTINF:0,PBC Tapesh
-http://iptv.tapesh.tv/tapesh/playlist.m3u8
+http://66.160.192.250:8080/tapeshweb/TVBOX/Motarjemi/high/5654545sfaf8665fs/tracks-v1a1/mono.m3u8
 #EXTINF:0,Persiana1
 http://51.15.229.209/hls/stream.m3u8
 #EXTINF:0,Andisheh
@@ -86,6 +86,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:0,Nat Geo WILD HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0,Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 #EXTINF:0,NRK1
 https://nrk-nrk1.akamaized.net/21/1/hls/nrk_1/1955020115-123787468-prog_index.m3u8
 #EXTINF:0,NRK2
