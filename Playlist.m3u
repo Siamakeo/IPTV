@@ -39,7 +39,7 @@ http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
 #EXTINF:0,Royal TV
 http://stream.rtimetv.com/rtimetv/playlist.m3u8
 #EXTINF:0,PBC Tapesh
-http://66.160.192.250:8080/tapeshweb/TVBOX/Motarjemi/high/5654545sfaf8665fs/tracks-v1a1/mono.m3u8
+http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 #EXTINF:0,Persiana1
 http://51.15.229.209/hls/stream.m3u8
 #EXTINF:0,Andisheh
@@ -68,6 +68,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:0,NRJ Hits
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist.m3u8
+#EXTINF:0,CMC TV
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:0,mbc2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
 #EXTINF:0,mbc MAX
