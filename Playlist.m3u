@@ -28,7 +28,7 @@ http://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 #EXTINF:0,4U TV
 http://5.9.153.199:1935/4utv/live/chunklist_w581053882.m3u8
 #EXTINF:0,MTC
-http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist_w807194187.m3u8
+http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
 #EXTINF:0,Oxir TV
 http://212.47.226.211/hls/stream.m3u8
 #EXTINF:0,AMG
