@@ -43,8 +43,6 @@ http://51.15.229.209/hls/stream.m3u8
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
 #EXTINF:0,YourTime
 https://hls.yourtime.live/hls/stream.m3u8
-#EXTINF:0,Nat Geo Farsi
-https://bozztv.com/36bay2/gin/giniko_tvbox-natgeofarsi_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Radio Javan
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1457425685_b2892000.m3u8
 #EXTINF:0,MIFA
