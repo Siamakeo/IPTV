@@ -67,6 +67,8 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist.m3u8
 #EXTINF:0,CMC TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+#EXTINF:0,V2BEAT TV
+https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:0,mbc2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
 #EXTINF:0,mbc MAX
