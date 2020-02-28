@@ -3,6 +3,8 @@
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:0,24 BOX TV
 http://51.158.190.97/hls/stream.m3u8
+#EXTINF:0,Bazme Asheghan TV
+https://593aed234297b.streamlock.net/saeed_nl/saeed_nl/chunklist_w141263540.m3u8
 #EXTINF:0,Maxx
 http://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
 #EXTINF:0,Cine Film
