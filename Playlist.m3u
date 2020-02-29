@@ -47,7 +47,7 @@ http://212.47.226.211/hls/stream.m3u8
 https://ir3.live21.ir/hls2/AMG.m3u8
 #EXTINF:0,EBC1
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-#EXTINF:0,Royal TV
+#EXTINF:0,Royal Time TV
 http://stream.rtimetv.com/rtimetv/playlist.m3u8
 #EXTINF:0,PBC Tapesh
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
