@@ -5,14 +5,14 @@ https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:0,Bazme Asheghan TV
 https://593aed234297b.streamlock.net/saeed_nl/saeed_nl/chunklist_w141263540.m3u8
-#EXTINF:0,Maxx
-http://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
 #EXTINF:0,Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Cine Series
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0,ICC
 http://mn-nl.mncdn.com/ezcdn_icc/icc_1/chunklist.m3u8?
+#EXTINF:0,Maxx
+http://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
 #EXTINF:0,Gem Classic
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
 #EXTINF:0,Gem Drama
