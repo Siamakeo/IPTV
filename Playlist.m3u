@@ -25,6 +25,12 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
 #EXTINF:0,Rubix
 http://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
+#EXTINF:0,Gem Kids
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist.m3u8
+#EXTINF:0,Gem Junior
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist.m3u8
+#EXTINF:0,Persiana Junior
+http://51.158.74.129/hls/stream.m3u8
 #EXTINF:0,Persiana1
 http://51.15.229.209/hls/stream.m3u8
 #EXTINF:0,Persiana2
