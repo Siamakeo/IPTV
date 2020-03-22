@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,Manoto HD
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:0,Manoto Reserve
+https://nrpus.bozztv.com/36bay2/gin/giniko_manoto1_700kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0,24 BOX TV
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:0,Bazme Asheghan TV
