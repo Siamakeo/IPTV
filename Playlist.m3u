@@ -71,7 +71,7 @@ http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/i
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:0,Radio Javan
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1457425685_b2892000.m3u8
-#EXTINF:0,MIFA
+#EXTINF:0,Gem MIFA
 http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 #EXTINF:0,Caltex Music
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
