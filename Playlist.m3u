@@ -11,6 +11,8 @@ https://58e4d59f4ba2c.streamlock.net/saeed_nl/saeed_nl/chunklist_w636154459.m3u8
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0,Cine Series
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0,GHM Cinema
+http://hopecitygroup.ddns.net:8080/hls/ghmcinema.m3u8
 #EXTINF:0,Gem Onyx
 http://nimlive3.giniko.com/gemonyx/gemonyx/chunklist_w427899216.m3u8?nimblesessionid=42180346&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIwIDEyOjQwOjQ4IFBNJmhhc2hfdmFsdWU9SXdick1uWXp6RkpxQ0VNMW42K2N3Zz09JnZhbGlkbWludXRlcz0xNDQw
 #EXTINF:0,Gem Maxx
@@ -99,6 +101,8 @@ https://de1se01.v2beat.live/playlist.m3u8
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
 #EXTINF:0,mbc MAX
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
+#EXTINF:0,Dubai one
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:0,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:0,Retro TV
