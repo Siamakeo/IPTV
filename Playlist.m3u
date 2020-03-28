@@ -14,7 +14,7 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/
 #EXTINF:0,GHM Cinema
 http://hopecitygroup.ddns.net:8080/hls/ghmcinema.m3u8
 #EXTINF:0,Gem Onyx
-http://nimplus3eu1.giniko.com/gemonyx/gemonyx/chunklist_w1152694691.m3u8?nimblesessionid=791007&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIwIDEwOjA5OjI5IFBNJmhhc2hfdmFsdWU9UDBXVW15L0lYb210SkVKbHBVcFFZUT09JnZhbGlkbWludXRlcz0xNDQw#EXTINF:0,Gem Maxx
+https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist.m3u8
 #EXTINF:0,Gem Maxx
 http://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
 #EXTINF:0,Gem Classic
@@ -77,6 +77,8 @@ https://hls.yourtime.live/hls/stream.m3u8
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1457425685_b2892000.m3u8
 #EXTINF:0,Gem MIFA
 http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+#EXTINF:0,Gem 24B
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/chunklist.m3u8
 #EXTINF:0,Caltex Music
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:0,Iraninternational
