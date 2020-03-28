@@ -87,8 +87,6 @@ https://live.playstop.me/LS-63503-4/tracks-v1a1/mono.m3u8
 http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 #EXTINF:0,VOA PNN
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
-#EXTINF:0,BBC Persian
-https://vs-dash-ww-live.bbcfmt.hs.llnwd.net/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/pc_hd_abr_v2_dash.mpd
 #EXTINF:0,Trace Naija
 http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 #EXTINF:0,MTV Live
