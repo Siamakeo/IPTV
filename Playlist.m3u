@@ -14,7 +14,9 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/
 #EXTINF:0,GHM Cinema
 http://hopecitygroup.ddns.net:8080/hls/ghmcinema.m3u8
 #EXTINF:0,Gem Onyx
-http://nimlive3.giniko.com/gemonyx/gemonyx/chunklist_w427899216.m3u8?nimblesessionid=42180346&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIwIDEyOjQwOjQ4IFBNJmhhc2hfdmFsdWU9SXdick1uWXp6RkpxQ0VNMW42K2N3Zz09JnZhbGlkbWludXRlcz0xNDQw
+http://nimlive3.giniko.com/gemonyx/gemonyx/chunklist_w427899216.m3u8
+#EXTINF:0,Gem Onyx b
+http://nimlive3.giniko.com/gemonyx/gemonyx/chunklist_w761830835.m3u8?nimblesessionid=42182910&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIwIDEwOjA0OjM1IFBNJmhhc2hfdmFsdWU9QkUyd24wUWJWbEVweEhNZitESG9LQT09JnZhbGlkbWludXRlcz0xNDQw
 #EXTINF:0,Gem Maxx
 http://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
 #EXTINF:0,Gem Classic
