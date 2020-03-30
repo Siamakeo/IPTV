@@ -51,6 +51,8 @@ http://51.158.66.44/hls/stream.m3u8
 http://51.158.176.190/hls/stream.m3u8
 #EXTINF:0,Varzesh TV3
 http://51.15.236.137/hls/stream.m3u8
+#EXTINF:0,Varzesh TV4
+http://163.172.138.186/hls/stream.m3u8
 #EXTINF:0,Poker TV
 http://51.15.254.60/hls/stream.m3u8
 #EXTINF:0,4U TV
