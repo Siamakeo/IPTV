@@ -65,8 +65,6 @@ http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
 http://212.47.226.211/hls/stream.m3u8
 #EXTINF:0,AMG
 https://nl.live21.ir/hls2/AMG_src.m3u8
-#EXTINF:0,EBC1
-https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:0,Royal Time TV
 http://stream.rtimetv.com/rtimetv/playlist.m3u8
 #EXTINF:0,PBC Tapesh
@@ -75,26 +73,26 @@ http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
 #EXTINF:0,YourTime
 https://hls.yourtime.live/hls/stream.m3u8
+#EXTINF:0,Iraninternational
+https://live.playstop.me/LS-63503-4/tracks-v1a1/mono.m3u8
+#EXTINF:0,VOA PNN
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:0,RadioFarda
+http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 #EXTINF:0,Radio Javan
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1457425685_b2892000.m3u8
-#EXTINF:0,Gem MIFA
-http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
-#EXTINF:0,Gem 24B
-https://d2e40kvaojifd6.cloudfront.net/stream/24b/chunklist.m3u8
 #EXTINF:0,Navahang
 http://163.172.134.85/hls/stream.m3u8
 #EXTINF:0,Caltex Music
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:0,Iraninternational
-https://live.playstop.me/LS-63503-4/tracks-v1a1/mono.m3u8
-#EXTINF:0,RadioFarda
-http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
-#EXTINF:0,VOA PNN
-https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:0,EBC1
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:0,Gem MIFA
+http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+#EXTINF:0,Gem 24B
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/chunklist.m3u8
 #EXTINF:0,Trace Naija
 http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
-#EXTINF:0,MTV Live
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0,M2O TV
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:0,NRJ Hits
@@ -123,6 +121,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:0,Nat Geo WILD HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0,MTV Live
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0,NRK1
 https://nrk-nrk1.akamaized.net/21/1/hls/nrk_1/1955020115-123787468-prog_index.m3u8
 #EXTINF:0,NRK2
@@ -133,5 +133,5 @@ https://nrk-nrk3.akamaized.net/23/1/hls/nrk_3/1955020115-123787468-prog_index.m3
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 #EXTINF:0,Earth TV
 https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/chunklist.m3u8
-#EXTINF:0,Manoto Reserve
+#EXTINF:0,Manoto
 https://nrpus.bozztv.com/36bay2/gin/giniko_manoto1_700kb_36bay2/tracks-v1a1/mono.m3u8
