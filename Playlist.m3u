@@ -81,6 +81,8 @@ https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1457425685_b2892000.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 #EXTINF:0,Gem 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/chunklist.m3u8
+#EXTINF:0,Navahang
+http://163.172.134.85/hls/stream.m3u8
 #EXTINF:0,Caltex Music
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:0,Iraninternational
