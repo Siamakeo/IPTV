@@ -64,7 +64,7 @@ http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
 #EXTINF:0,Oxir TV
 http://212.47.226.211/hls/stream.m3u8
 #EXTINF:0,AMG
-https://ir3.live21.ir/hls2/AMG.m3u8
+https://nl.live21.ir/hls2/AMG_src.m3u8
 #EXTINF:0,EBC1
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:0,Royal Time TV
