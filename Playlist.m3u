@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0,Manoto HD
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:0,Manoto
+https://nrpus.bozztv.com/36bay2/gin/giniko_manoto1_700kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0,24 BOX TV
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:0,Bazme Asheghan TV
@@ -133,5 +135,3 @@ https://nrk-nrk3.akamaized.net/23/1/hls/nrk_3/1955020115-123787468-prog_index.m3
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 #EXTINF:0,Earth TV
 https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/chunklist.m3u8
-#EXTINF:0,Manoto
-https://nrpus.bozztv.com/36bay2/gin/giniko_manoto1_700kb_36bay2/tracks-v1a1/mono.m3u8
