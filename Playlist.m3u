@@ -65,6 +65,8 @@ http://vps.parsiland.net/hls/ParsiLand.m3u8
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
 #EXTINF:0,Oxir TV
 http://212.47.226.211/hls/stream.m3u8
+#EXTINF:0,OX Film
+http://51.158.103.244/hls/stream.m3u8
 #EXTINF:0,AMG
 https://nl.live21.ir/hls2/AMG_src.m3u8
 #EXTINF:0,Royal Time TV
@@ -79,6 +81,8 @@ https://hls.yourtime.live/hls/stream.m3u8
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b3096000.m3u8
 #EXTINF:0,VOA PNN
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:0,BBC Persian
+https://vs-dash-ww-live.bbcfmt.hs.llnwd.net/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/pc_hd_abr_v2_dash.mpd
 #EXTINF:0,RadioFarda
 http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 #EXTINF:0,Radio Javan
