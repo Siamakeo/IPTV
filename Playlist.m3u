@@ -76,8 +76,6 @@ http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/i
 #EXTINF:0,YourTime
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:0,Iraninternational
-https://live.livetvstream.co.uk/LS-63503-4/tracks-v1a1/mono.m3u8
-#EXTINF:0,Iraninternational
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b3096000.m3u8
 #EXTINF:0,VOA PNN
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
@@ -126,7 +124,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:0,Nat Geo WILD HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:0,MTV Live
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:0,NRK1
 https://nrk-nrk1.akamaized.net/21/1/hls/nrk_1/1955020115-123787468-prog_index.m3u8
 #EXTINF:0,NRK2
