@@ -131,6 +131,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:0,Nat Geo WILD HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+#EXTINF:0,Discovery channel
+http://84.22.33.210/DiscoveryCH/tracks-v1a1/mono.m3u8
 #EXTINF:0,MTV Live
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:0,NRK1
