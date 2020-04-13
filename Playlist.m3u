@@ -47,6 +47,10 @@ http://51.15.229.209/hls/stream.m3u8
 http://51.15.193.156/hls/stream.m3u8
 #EXTINF:0,Persiana 4
 http://51.158.97.214/hls/stream.m3u8
+#EXTINF:0,Persiana 5
+http://163.172.174.60/hls/stream.m3u8
+#EXTINF:0,Persiana 6
+http://163.172.147.113/hls/stream.m3u8
 #EXTINF:0,Salamat tube
 http://51.158.116.146/hls/stream.m3u8
 #EXTINF:0,Varzesh TV1
