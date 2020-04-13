@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/e1pnIr2.png" ,Manoto HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/dNB92lj.png" ,Manoto HD
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/e1pnIr2.png" ,Manoto
@@ -12,37 +12,37 @@ http://51.158.190.97/hls/stream.m3u8
 #EXTINF:0,Bazme Asheghan TV
 https://58e4d59f4ba2c.streamlock.net/saeed_nl/saeed_nl/chunklist_w636154459.m3u8
 
-#EXTINF:0,Cine Film
+#EXTINF:0 tvg-logo="https://i.imgur.com/wWKyJDs.png" ,Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,Cine Series
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iz8re8Z.png" ,Cine Series
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/CnoXL01.png" ,GHM
 http://hopecitygroup.ddns.net:8080/hls/ghm.m3u8
 
-#EXTINF:0,GHM Cinema
+#EXTINF:0 tvg-logo="http://hopecity.com.co/storage/news_media/ClS5EeJIHB98IjsMFIqB3AerRvUnG3TKI3Ux1ldX.png",GHM Cinema
 http://hopecitygroup.ddns.net:8080/hls/ghmcinema.m3u8
 
-#EXTINF:0,Gem Onyx
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/onyx-icon.png" ,Gem Onyx
 https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist.m3u8
 
-#EXTINF:0,Gem Maxx
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/maxx-icon.png" ,Gem Maxx
 http://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/9KzCokk.png" ,Gem Classic
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
 
-#EXTINF:0,Gem Drama
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemdrama-icon.png" ,Gem Drama
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/9KzCokk.png" ,Gem Series
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemseries-icon.png" ,Gem Series
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/9KzCokk.png" ,Gem TV
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemtv-icon.png" ,Gem TV
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 
-#EXTINF:0,Gem USA
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemusa-icon.png" ,Gem USA
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4XHP60L.png" ,Gem River
@@ -51,25 +51,25 @@ http://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/bDaWOQs.png" ,Gem Rubix
 http://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 
-#EXTINF:0,Gem Kids
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemkids-icon.png" ,Gem Kids
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist.m3u8
 
-#EXTINF:0,Gem Junior
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemjunior-icon.png" ,Gem Junior
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" ,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 
-#EXTINF:0,Persiana Junior
+#EXTINF:0 tvg-logo="https://i.imgur.com/tpcfX6F.png" ,Persiana Junior
 http://51.158.74.129/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Ti8Oryn.png" ,Persiana 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/XdtlYXz.png" ,Persiana 1
 http://51.15.229.209/hls/stream.m3u8
 
-#EXTINF:0,Persiana 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/Gr1bvHW.png" ,Persiana 2
 http://51.15.193.156/hls/stream.m3u8
 
-#EXTINF:0,Persiana 4
+#EXTINF:0 tvg-logo="https://i.imgur.com/NMSRSYt.png" ,Persiana 4
 http://51.158.97.214/hls/stream.m3u8
 
 #EXTINF:0,Persiana 5
@@ -78,16 +78,16 @@ http://163.172.174.60/hls/stream.m3u8
 #EXTINF:0,Persiana 6
 http://163.172.147.113/hls/stream.m3u8
 
-#EXTINF:0,Salamat tube
+#EXTINF:0 tvg-logo="https://i.imgur.com/2Ka4Ins.png" ,Salamat tube
 http://51.158.116.146/hls/stream.m3u8
 
-#EXTINF:0,Varzesh TV1
+#EXTINF:0 tvg-logo="https://i.imgur.com/dSYJdEJ.png" ,Varzesh TV1
 http://51.158.66.44/hls/stream.m3u8
 
-#EXTINF:0,Varzesh TV2
+#EXTINF:0 tvg-logo="https://i.imgur.com/a9QcLWY.png" ,Varzesh TV2
 http://51.158.176.190/hls/stream.m3u8
 
-#EXTINF:0,Varzesh TV3
+#EXTINF:0 tvg-logo="https://i.imgur.com/mnAodqf.png" ,Varzesh TV3
 http://51.15.236.137/hls/stream.m3u8
 
 #EXTINF:0,Varzesh TV4
@@ -96,7 +96,7 @@ http://163.172.138.186/hls/stream.m3u8
 #EXTINF:0,Poker TV
 http://51.15.254.60/hls/stream.m3u8
 
-#EXTINF:0,4U TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/Icob3E3.jpg",4U TV
 http://5.9.153.199:1935/4utv/live/chunklist_w581053882.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/sAGo6Pd.png" ,ParsiLand TV
@@ -105,13 +105,13 @@ http://vps.parsiland.net/hls/ParsiLand.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ol3HSWB.png" ,MTC
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
 
-#EXTINF:0,Oxir TV
+#EXTINF:0 tvg-logo="https://telegramindex.com/assets/telegram/chat/OXIRTV",Oxir TV
 http://212.47.226.211/hls/stream.m3u8
 
-#EXTINF:0,OX Film
+#EXTINF:0 tvg-logo="https://i.imgur.com/97ATQV7.png" ,OX Film
 http://51.158.103.244/hls/stream.m3u8
 
-#EXTINF:0,AMG
+#EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-9776.jpg" ,AMG
 https://nl.live21.ir/hls2/AMG_src.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/M0eRDMg.png" ,Royal Time TV
@@ -120,9 +120,9 @@ http://stream.rtimetv.com/rtimetv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/BNvZiiu.png" ,PBC Tapesh
 http://66.160.192.219:8080/tapeshweb/TVBOX/Motarjemi/high/5654545sfaf8665fs/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/mTRFwLf.png" ,Andisheh
+#EXTINF:0 tvg-logo="https://i.imgur.com/UFV7YVy.jpg" ,Andisheh
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
-
+ 
 #EXTINF:0 tvg-logo="https://i.imgur.com/kcFrMog.png" ,YourTime
 https://hls.yourtime.live/hls/stream.m3u8
 
@@ -135,10 +135,10 @@ https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_1080_av-p.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/c9ULtK3.png" ,RadioFarda
 http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/fM4KCk9.png" ,Radio Javan
+#EXTINF:0 tvg-logo="https://i.imgur.com/4XTyMST.jpg" ,Radio Javan
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1457425685_b2892000.m3u8
 
-#EXTINF:0,Navahang
+#EXTINF:0 tvg-logo="https://www.navahang.com/assets/logo/Navahang-Logo-Home.jpg" ,Navahang
 http://163.172.134.85/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/zIF1h5X.png" ,Caltex Music
@@ -150,7 +150,7 @@ https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/ogZIpuc.png" ,Gem MIFA
 http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 
-#EXTINF:0,Gem 24B
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/24b-icon.png" ,Gem 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" ,Trace Naija
@@ -201,19 +201,19 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/h0NNZ2U.png" ,Nat Geo WILD HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
-#EXTINF:0,Discovery channel
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/fe/DiscoveryChannel.png" ,Discovery channel
 http://84.22.33.210/DiscoveryCH/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/FOiUOeW.png" ,MTV Live
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
-#EXTINF:0,NRK1
+#EXTINF:0 tvg-logo="https://i.imgur.com/0mkeEOE.png" ,NRK1
 https://nrk-nrk1.akamaized.net/21/1/hls/nrk_1/1955020115-123787468-prog_index.m3u8
 
-#EXTINF:0,NRK2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/NRK2-Logo.svg/360px-NRK2-Logo.svg.png" ,NRK2
 https://nrk-nrk2.akamaized.net/22/1/hls/nrk_2/1955020115-123787468-prog_index.m3u8
 
-#EXTINF:0,NRK3
+#EXTINF:0 tvg-logo="https://i.imgur.com/hqTRDdf.png" ,NRK3
 https://nrk-nrk3.akamaized.net/23/1/hls/nrk_3/1955020115-123787468-prog_index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/BO9f3sD.png" ,Fatstone TV
