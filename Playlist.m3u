@@ -74,7 +74,7 @@ https://nl.live21.ir/hls2/AMG_src.m3u8
 #EXTINF:0,Royal Time TV
 http://stream.rtimetv.com/rtimetv/playlist.m3u8
 #EXTINF:0,PBC Tapesh
-http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
+http://66.160.192.219:8080/tapeshweb/TVBOX/Motarjemi/high/5654545sfaf8665fs/tracks-v1a1/mono.m3u8
 #EXTINF:0,Andisheh
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
 #EXTINF:0,YourTime
