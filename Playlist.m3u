@@ -39,7 +39,7 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/9KzCokk.png" ,Gem Series
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
 
-#EXTINF:0,Gem TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/9KzCokk.png" ,Gem TV
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 
 #EXTINF:0,Gem USA
@@ -57,7 +57,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist.m3u8
 #EXTINF:0,Gem Junior
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist.m3u8
 
-#EXTINF:0,Boomerang
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" ,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 
 #EXTINF:0,Persiana Junior
@@ -153,55 +153,58 @@ http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 #EXTINF:0,Gem 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/chunklist.m3u8
 
-#EXTINF:0,Trace Naija
+#EXTINF:0 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" ,Trace Naija
 http://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 
-#EXTINF:0,M2O TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/ghLKlHs.png" ,M2O TV
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 
-#EXTINF:0,NRJ Hits
+#EXTINF:0 tvg-logo="https://i.imgur.com/WJPvVdm.png" ,NRJ Hits
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist.m3u8
 
-#EXTINF:0,CMC TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/9TbpsS0.png" ,CMC TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 
-#EXTINF:0,V2BEAT TV
+#EXTINF:0 tvg-logo="https://www.vibee.tv/wp-content/uploads/2018/08/logo_v2beat_page_small.png" ,V2BEAT TV
 https://de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:0,mbc 2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" ,mbc 2
 http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
 
-#EXTINF:0,mbc MAX
+#EXTINF:0 tvg-logo="https://i.imgur.com/X4iT4EU.png" ,mbc MAX
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
 
-#EXTINF:0,Dubai one
+#EXTINF:0 tvg-logo="https://i.imgur.com/WjJ8MHC.png" ,Dubai one
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
-#EXTINF:0,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" ,Star Movies
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
-#EXTINF:0,Retro TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/HnS8paQ.png" ,Star World
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/8f4fv5U.png" ,Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 
-#EXTINF:0,Rai Movie
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1280px-Rai_Movie_-_Logo_2017.svg.png",Rai Movie
 https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
-#EXTINF:0,H2
+#EXTINF:0 tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" ,H2
 http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 
-#EXTINF:0,Nat Geo HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/bUepAp5.png" ,Nat Geo HD
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
 
-#EXTINF:0,Nat Geo people HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/Wfqt9BS.png" ,Nat Geo people HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
-#EXTINF:0,Nat Geo WILD HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/h0NNZ2U.png" ,Nat Geo WILD HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 #EXTINF:0,Discovery channel
 http://84.22.33.210/DiscoveryCH/tracks-v1a1/mono.m3u8
 
-#EXTINF:0,MTV Live
+#EXTINF:0 tvg-logo="https://i.imgur.com/FOiUOeW.png" ,MTV Live
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
 #EXTINF:0,NRK1
@@ -213,7 +216,7 @@ https://nrk-nrk2.akamaized.net/22/1/hls/nrk_2/1955020115-123787468-prog_index.m3
 #EXTINF:0,NRK3
 https://nrk-nrk3.akamaized.net/23/1/hls/nrk_3/1955020115-123787468-prog_index.m3u8
 
-#EXTINF:0,Fatstone TV
+#EXTINF:0 tvg-logo="https://i.imgur.com/BO9f3sD.png" ,Fatstone TV
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 
 #EXTINF:0,Earth TV
