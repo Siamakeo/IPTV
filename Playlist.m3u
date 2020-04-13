@@ -219,3 +219,5 @@ https://nrk-nrk3.akamaized.net/23/1/hls/nrk_3/1955020115-123787468-prog_index.m3
 #EXTINF:0 tvg-logo="https://i.imgur.com/BO9f3sD.png" group-title="TV" ,Fatstone TV
 http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 
+#EXTINF:0 tvg-logo="https://marruda3.files.wordpress.com/2017/08/annabelle_creation_poster.jpg" group-title="MOVIES",Annabelle: Creation (2017)
+http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
