@@ -201,7 +201,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/h0NNZ2U.png" ,Nat Geo WILD HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/fe/DiscoveryChannel.png" ,Discovery channel
+#EXTINF:0 tvg-logo="https://i2.wp.com/www.busiweek.com/wp-content/uploads/2018/07/DiscoveryBusinessWeek.png?fit=700%2C509&ssl=1" ,Discovery channel
 http://84.22.33.210/DiscoveryCH/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/FOiUOeW.png" ,MTV Live
