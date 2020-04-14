@@ -221,7 +221,7 @@ http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 
 
 
-#EXTINF:0 tvg-logo="https://www.livefarsi.com/uploads/video_thumb/152.jpg" group-title="MOVIES",Padeshah (2019)
+#EXTINF:0 tvg-logo="https://www.livefarsi.com/uploads/video_thumb/152.jpg" group-title="MOVIES" ,Padeshah (2019)
 https://cdn5.vidaneh.com/vidaneh/videos/94c98b0f69874a56ad3e8517d0c764c0_360/94c98b0f69874a56ad3e8517d0c764c0_720_720_replaced.m3u8
 
 #EXTINF:0 tvg-logo="https://marruda3.files.wordpress.com/2017/08/annabelle_creation_poster.jpg" group-title="MOVIES",Annabelle: Creation (2017)
