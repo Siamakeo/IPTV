@@ -223,6 +223,11 @@ http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 
 
 
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Breakfast_at_Tiffany%27s_%281961_poster%29.jpg/330px-Breakfast_at_Tiffany%27s_%281961_poster%29.jpg" group-title="MOVIES" ,Breakfast at Tiffany's (1961)
+https://dlny.biatamasha.me/Nostalgiktv.com/FilmKh/SobhaneT.mp4
+
 #EXTINF:0 tvg-logo="https://www.livefarsi.com/uploads/video_thumb/152.jpg" group-title="MOVIES" ,Padeshah (2019)
 https://cdn5.vidaneh.com/vidaneh/videos/94c98b0f69874a56ad3e8517d0c764c0_360/94c98b0f69874a56ad3e8517d0c764c0_720_720_replaced.m3u8
 
