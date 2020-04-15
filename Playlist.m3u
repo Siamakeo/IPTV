@@ -97,7 +97,7 @@ http://163.172.138.186/hls/stream.m3u8
 http://51.15.254.60/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="TV" ,4U TV
-http://5.9.153.199:1935/4utv/live/chunklist_w581053882.m3u8
+http://live.4ulive.ir/
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/sAGo6Pd.png" group-title="TV" ,ParsiLand TV
 http://vps.parsiland.net/hls/ParsiLand.m3u8
