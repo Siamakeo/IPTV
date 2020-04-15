@@ -225,6 +225,10 @@ http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 
 
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/27/310_to_Yuma_%282007_film%29.jpg" group-title="MOVIES" ,3:10 to yuma (2007)
+http://s.23.petashare.net/1627480/a97u5e9761e00d77b/310_to_Yuma_2007_720p_Farsi_Dubbed_%28TikFilm%29.mkv
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Breakfast_at_Tiffany%27s_%281961_poster%29.jpg/330px-Breakfast_at_Tiffany%27s_%281961_poster%29.jpg" group-title="MOVIES" ,Breakfast at Tiffany's (1961)
 https://dlny.biatamasha.me/Nostalgiktv.com/FilmKh/SobhaneT.mp4
 
