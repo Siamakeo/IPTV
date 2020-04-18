@@ -10,7 +10,7 @@ https://nrpus.bozztv.com/36bay2/gin/giniko_manoto1_700kb_36bay2/tracks-v1a1/mono
 http://51.158.190.97/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/bazme-asheghan-tv.jpg" group-title="TV" ,Bazme Asheghan TV
-https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w1553926916_tkdG9rZW5fZW5kdGltZT0xNTg3MDMzMzkwJnRva2VuX3N0YXJ0dGltZT0wJnRva2VuX2hhc2g9N1hndEdzQjlyZ3IwYWQ3M3VYVDBJa1hTRE1nLVV1dHRWclVxS2hDTkE0QT0=.m3u8
+https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w70868085_tkdG9rZW5fZW5kdGltZT0xNTg3MjM0NTMxJnRva2VuX3N0YXJ0dGltZT0wJnRva2VuX2hhc2g9d0t3TWhGc3hrMnU0U3NIQUhfNElUakFaaGVIYzdqZVZJNkxkTU1mTnJfQT0=.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wWKyJDs.png" group-title="TV" ,Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
@@ -35,6 +35,9 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemdrama-icon.png" group-title="TV" ,Gem Drama
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-comedy-ae.png" group-title="TV" ,Gem Comedy
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/chunklist_w727660652.m3u8
 
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemseries-icon.png" group-title="TV" ,Gem Series
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
