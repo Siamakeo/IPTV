@@ -96,6 +96,9 @@ http://51.15.236.137/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/vv/varzesh-tv-farsi-4-fr.png" group-title="TV" ,Varzesh TV4
 http://163.172.138.186/hls/stream.m3u8
 
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/olympic_channel_es.png" group-title="TV" ,Olympic Channel
+https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/pp/poker-tv-fr.png" group-title="TV" ,Poker TV
 http://51.15.254.60/hls/stream.m3u8
 
