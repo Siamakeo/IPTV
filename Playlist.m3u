@@ -150,6 +150,9 @@ https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1457425685_b2892000.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/navahang.png" group-title="TV" ,Navahang
 http://163.172.134.85/hls/stream.m3u8
 
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pmc-ae.png" group-title="TV" ,PMC
+https://soltaan.com/iptv/pmc.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/zIF1h5X.png" group-title="TV" ,Caltex Music
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
 
