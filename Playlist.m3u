@@ -21,12 +21,6 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mo
 #EXTINF:0 tvg-logo="https://i.imgur.com/Iz8re8Z.png" group-title="TV" ,Cine Series
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/CnoXL01.png" group-title="TV" ,GHM
-http://hopecitygroup.ddns.net:8080/hls/ghm.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/ghm-cinema.png" group-title="TV",GHM Cinema
-http://hopecitygroup.ddns.net:8080/hls/ghmcinema.m3u8
-
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem_ae_onyx.png" group-title="TV" ,Gem Onyx
 https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist.m3u8
 
