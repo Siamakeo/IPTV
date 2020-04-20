@@ -127,7 +127,7 @@ https://nl.live21.ir/hls2/AMG_src.m3u8
 http://stream.rtimetv.com/rtimetv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/BNvZiiu.png" group-title="TV" ,PBC Tapesh
-http://66.160.192.219:8080/tapeshweb/TVBOX/Motarjemi/high/5654545sfaf8665fs/tracks-v1a1/mono.m3u8
+http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/UFV7YVy.jpg" group-title="TV" ,Andisheh
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
@@ -155,6 +155,9 @@ https://soltaan.com/iptv/pmc.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/zIF1h5X.png" group-title="TV" ,Caltex Music
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
+
+#EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-tapesh-2-1413.jpg" group-title="TV" ,Tapesh 2
+http://66.160.192.250:8080/t2_secure_tvboxhd.com_3fde4da1-3f31-434e-bd12-0e172c1315a8/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Z6pYF3V.png" group-title="TV" ,EBC1
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
