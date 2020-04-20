@@ -13,7 +13,7 @@ http://51.158.190.97/hls/stream.m3u8
 https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w718313083_tkdG9rZW5fZW5kdGltZT0xNTg3MjQ1NDAxJnRva2VuX3N0YXJ0dGltZT0wJnRva2VuX2hhc2g9Sk5TSk1xMkVkSkZ3U3FVelE5X05yT3BFdWJyV0k4SWpNd0VKdkFHczYydz0=.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="TV" ,MBC Persia
-https://soltaan.com/iptv/mbc-hd.m3u8
+https://soltaan.com/iptv/mbcpersiahd.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/wWKyJDs.png" group-title="TV" ,Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
