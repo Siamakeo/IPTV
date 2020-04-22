@@ -75,7 +75,7 @@ http://51.158.97.214/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/pp/perrsiana-5-documentary-fr.png" group-title="TV" ,Persiana 5
 http://163.172.174.60/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://imgur.com/a/LKkRPOt" group-title="TV" ,Persiana 6
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy11FJnoHtRXwGcO_2pzptdVoVfvp2sqGwmCsWY-JwTG2xStEfCA&s" group-title="TV" ,Persiana 6
 http://163.172.147.113/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/2Ka4Ins.png" group-title="TV" ,Salamat tube
