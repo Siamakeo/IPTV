@@ -13,8 +13,7 @@ http://51.158.190.97/hls/stream.m3u8
 https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w329822543_tkdG9rZW5fZW5kdGltZT0xNTg3NjQ3MDI5JnRva2VuX3N0YXJ0dGltZT0wJnRva2VuX2hhc2g9NllscmJSTXNVX0tSVGZWb2JTRUtZcHJ4RXdxWFVxd0UyLWlDVkdvZGo5MD0=.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="TV" ,MBC Persia
-http://184.104.200.43:7777/MBCPersia/MBCPersia_Low.m3u8?user=sglsxkmey1gtgqyzuwmm44xixtgh&session=b5914ca649af88e4d79ab69c6fbf7f65beae47312b595f66fef21ee33f4d9f2a2d77f6f640be63cadf8571b9ff38b8021345eadd83e9469a07fd117ae6dc9cc4&hlsid=HTTP_ID_336687&starttime=20200416T152934.827722
-
+http://184.104.200.50:7777/MBCPersia/MBCPersia_Low.m3u8?user=sglsghzo4xau4evqn4nmpdhvtmla&session=9741a9f3454171647311b1363746189dd0cfef21d1af632fb65901dc7f4e72abd5582bef842b3f5847cad19b386c4c67d5eec4c3a0329f3cac4906a44f7f0b6d&hlsid=HTTP_ID_188603&starttime=20200416T164359.316370
 #EXTINF:0 tvg-logo="https://i.imgur.com/wWKyJDs.png" group-title="TV" ,Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 
