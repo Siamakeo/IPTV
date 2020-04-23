@@ -22,40 +22,40 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mo
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem_ae_onyx.png" group-title="TV" ,Gem Onyx
-https://soltaan.com/iptv/onyx.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/maxx-ae.png" group-title="TV" ,Gem Maxx
-https://soltaan.com/iptv/maxx.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/9KzCokk.png" group-title="TV" ,Gem Classic
-https://soltaan.com/iptv/gemclassic.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemdrama-icon.png" group-title="TV" ,Gem Drama
-https://soltaan.com/iptv/gemdrama.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-comedy-ae.png" group-title="TV" ,Gem Comedy
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/chunklist_w727660652.m3u8
 
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemseries-icon.png" group-title="TV" ,Gem Series
-https://soltaan.com/iptv/gemseries.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemtv-icon.png" group-title="TV" ,Gem TV
-https://soltaan.com/iptv/gemtv.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemusa-icon.png" group-title="TV" ,Gem USA
-https://soltaan.com/iptv/gemusa.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4XHP60L.png" group-title="TV" ,Gem River
-https://soltaan.com/iptv/river.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/bDaWOQs.png" group-title="TV" ,Gem Rubix
-https://soltaan.com/iptv/rubix.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemkids-icon.png" group-title="TV" ,Gem Kids
-https://soltaan.com/iptv/gemkids.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemjunior-icon.png" group-title="TV" ,Gem Junior
-https://soltaan.com/iptv/gemjunior.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="TV" ,Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
@@ -157,7 +157,7 @@ http://66.160.192.250:8080/t2_secure_tvboxhd.com_3fde4da1-3f31-434e-bd12-0e172c1
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ogZIpuc.png" group-title="TV" ,Gem MIFA
-https://soltaan.com/iptv/mifa.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24_beat_tv.png" group-title="TV" ,Gem 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/chunklist.m3u8
