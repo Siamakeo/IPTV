@@ -94,7 +94,7 @@ http://51.15.236.137/hls/stream.m3u8
 http://163.172.138.186/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/olympic_channel_es.png" group-title="TV" ,Olympic Channel
-https://ott-dr01-olympicchannel.akamaized.net/linear/hls/pa/event/onLv29SuSWKUAry_Z7h-Qg/stream/80be0c9e-7afa-4309-a663-804d98fbcb99:GRQ/variant/bffe6cf5c12842a280db7e18110e3f6f/bandwidth/hdntl=exp=1587856740~acl=%2f*~id=38a5c0b0-5901-433e-af43-c7eb54e67f7a~data=hdntl~hmac=d46fb0b08f4716065df0454b795c06becbd14a3cdeefe3cc02014bbd86df878b/6671189.m3u8
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/pp/poker-tv-fr.png" group-title="TV" ,Poker TV
 http://51.15.254.60/hls/stream.m3u8
