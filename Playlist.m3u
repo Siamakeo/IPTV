@@ -226,6 +226,9 @@ http://bgo1.cdn.s3m.no/fs/live/ngrp:live_all/chunklist_b5196000.m3u8
 
 
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Anna_film_poster.jpg" group-title="MOVIES" ,Anna (2019)
+https://01.google-online.com/Movies/Anna_2019_Dubbed_720p.mp4
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Charade_movieposter.jpg" group-title="MOVIES" ,Charade (1963)
 https://dlny.biatamasha.me/Nostalgiktv.com/FilmKh/Moama.mp4
 
