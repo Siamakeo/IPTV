@@ -15,28 +15,28 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mo
 #EXTINF:0 tvg-logo="https://i.imgur.com/Iz8re8Z.png" group-title="TV" ,Cine Series
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem_ae_onyx.png" group-title="TV" ,Gem Onyx
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/onyx.png?1212" group-title="TV" ,Gem Onyx
 https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/maxx-ae.png" group-title="TV" ,Gem Maxx
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/max.png?1212" group-title="TV" ,Gem Maxx
 http://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/9KzCokk.png" group-title="TV" ,Gem Classic
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemdrama-icon.png" group-title="TV" ,Gem Drama
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-drama.png?1212" group-title="TV" ,Gem Drama
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-comedy-ae.png" group-title="TV" ,Gem Comedy
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-comedy.png?1212" group-title="TV" ,Gem Comedy
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/chunklist_w727660652.m3u8
 
-#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemseries-icon.png" group-title="TV" ,Gem Series
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-series.png?1212" group-title="TV" ,Gem Series
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemtv-icon.png" group-title="TV" ,Gem TV
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-tv.png?1212" group-title="TV" ,Gem TV
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemusa-icon.png" group-title="TV" ,Gem USA
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-usa.png?1212" group-title="TV" ,Gem USA
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4XHP60L.png" group-title="TV" ,Gem River
@@ -45,10 +45,10 @@ http://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/bDaWOQs.png" group-title="TV" ,Gem Rubix
 http://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemkids-icon.png" group-title="TV" ,Gem Kids
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-kids.png?1212" group-title="TV" ,Gem Kids
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemjunior-icon.png" group-title="TV" ,Gem Junior
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-junior.png?1212" group-title="TV" ,Gem Junior
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="TV" ,Boomerang
@@ -139,10 +139,13 @@ https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1457425685_b2892000.m3u8
 http://163.172.134.85/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-tapesh-2-1413.jpg" group-title="TV" ,Tapesh 2
-http://66.160.192.250:8080/t2_secure_tvboxhd.com_3fde4da1-3f31-434e-bd12-0e172c1315a8/tracks-v1a1/mono.m3u8
+http://66.160.192.249:8080/secured/tvboxhd/worldlock/t2ultrahd/tracks-v1a1/mono.m3u8?token=7a264745c4dda4a6464b0df5f9ecfa307c87d1c7-a53275b7e84131ef24730f975d0638ae-1589881342-1589879542
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/Z6pYF3V.png" group-title="TV" ,EBC1
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/zIF1h5X.png" group-title="TV" ,Caltex Music
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ogZIpuc.png" group-title="TV" ,Gem MIFA
 http://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
@@ -197,9 +200,6 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="TV" ,Nat Geo WILD HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" group-title="TV" ,Discovery channel
-http://84.22.33.210/DiscoveryCH/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="TV" ,MTV Live
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
