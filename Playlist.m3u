@@ -51,9 +51,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-junior.png?1212" group-title="TV" ,Gem Junior
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="TV" ,Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/tpcfX6F.png" group-title="TV" ,Persiana Junior
 http://51.158.74.129/hls/stream.m3u8
 
@@ -138,9 +135,6 @@ https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1457425685_b2892000.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/navahang.png" group-title="TV" ,Navahang
 http://163.172.134.85/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-tapesh-2-1413.jpg" group-title="TV" ,Tapesh 2
-http://66.160.192.249:8080/secured/tvboxhd/worldlock/t2ultrahd/tracks-v1a1/mono.m3u8?token=7a264745c4dda4a6464b0df5f9ecfa307c87d1c7-a53275b7e84131ef24730f975d0638ae-1589881342-1589879542
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/Z6pYF3V.png" group-title="TV" ,EBC1
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 
@@ -168,38 +162,14 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.
 #EXTINF:0 tvg-logo="https://www.vibee.tv/wp-content/uploads/2018/08/logo_v2beat_page_small.png" group-title="TV" ,V2BEAT TV
 https://de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="TV" ,mbc 2
-http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8?fluxustv.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/X4iT4EU.png" group-title="TV" ,mbc MAX
-http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8?fluxustv.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="TV" ,Dubai one
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-
-#EXTINF:0 tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="TV" ,Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/HnS8paQ.png" group-title="TV" ,Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8f4fv5U.png" group-title="TV" ,Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rai_movie.png" group-title="TV" ,Rai Movie
 https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:0 tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="TV" ,H2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="TV" ,Nat Geo HD
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="TV" ,Nat Geo people HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="TV" ,Nat Geo WILD HD
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="TV" ,MTV Live
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
