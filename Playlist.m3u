@@ -45,6 +45,9 @@ http://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/bDaWOQs.png" group-title="TV" ,Gem Rubix
 http://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-bollywood.png?1212" group-title="TV" ,Gem Bollywood
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/chunklist_w623084925.m3u8
+
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-kids.png?1212" group-title="TV" ,Gem Kids
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist.m3u8
 
