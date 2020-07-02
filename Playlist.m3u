@@ -117,7 +117,7 @@ http://212.47.226.211/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/ox-film.png" group-title="TV" ,OX Film
 http://51.158.103.244/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-9776.jpg" group-title="TV" ,AMG
+#EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-2335.jpg" group-title="TV" ,AMG
 https://nl.live21.ir/hls2/AMG_src.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/M0eRDMg.png" group-title="TV" ,Royal Time TV
