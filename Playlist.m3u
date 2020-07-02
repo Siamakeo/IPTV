@@ -12,6 +12,9 @@ http://51.158.190.97/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/bazme-asheghan-tv.jpg" group-title="TV" ,Bazme Asheghan TV
 https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w889600788.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="TV" ,MBC Persia
+https://shls-mbcpersia-prod.shahid.net/mbcpersia-prod.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/wWKyJDs.png" group-title="TV" ,Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 
@@ -176,6 +179,12 @@ https://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="TV" ,Dubai one
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="TV" ,mbc 2
+https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/X4iT4EU.png" group-title="TV" ,mbc MAX
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/8f4fv5U.png" group-title="TV" ,Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
