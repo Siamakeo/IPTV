@@ -15,6 +15,15 @@ https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w889600788.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="TV" ,MBC Persia
 https://shls-mbcpersia-prod.shahid.net/mbcpersia-prod.m3u8
 
+#EXTINF:0 tvg-logo="https://highvision.tv/wp-content/uploads/2018/11/0001.jpg" group-title="TV" ,HIGHVISION
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-family.png" group-title="TV" ,AVA Family
+http://51.15.115.123/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-series.png" group-title="TV" ,AVA Series
+http://163.172.131.60/hls/stream.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/wWKyJDs.png" group-title="TV" ,Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 
@@ -140,6 +149,9 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="TV" ,Radio Javan
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1457425685_b2892000.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/aa/avang-tv-us.png" group-title="TV" ,Avang TV
+https://cdn3.wowza.com/1/OGQ3eXNHMkxxSzdi/ZTZOOVdI/hls/ys8kkf3s/4128/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/navahang.png" group-title="TV" ,Navahang
 http://163.172.134.85/hls/stream.m3u8
