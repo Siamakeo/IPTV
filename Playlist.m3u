@@ -15,9 +15,6 @@ https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w889600788.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="TV" ,MBC Persia
 https://shls-mbcpersia-prod.shahid.net/mbcpersia-prod.m3u8
 
-#EXTINF:0 tvg-logo="https://highvision.tv/wp-content/uploads/2018/11/0001.jpg" group-title="TV" ,HIGHVISION
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-family.png" group-title="TV" ,AVA Family
 http://51.15.115.123/hls/stream.m3u8
 
@@ -128,6 +125,9 @@ http://51.158.103.244/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-2335.jpg" group-title="TV" ,AMG
 https://nl.live21.ir/hls2/AMG_src.m3u8
+
+#EXTINF:0 tvg-logo="https://highvision.tv/wp-content/uploads/2018/11/0001.jpg" group-title="TV" ,HIGHVISION
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/BNvZiiu.png" group-title="TV" ,PBC Tapesh
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
