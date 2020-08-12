@@ -66,25 +66,31 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-junior.png?1212" group-title="TV" ,Gem Junior
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/chunklist.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/tpcfX6F.png" group-title="TV" ,Persiana Junior
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-junior-fr.png" group-title="TV" ,Persiana Junior
 http://51.158.74.129/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/XdtlYXz.png" group-title="TV" ,Persiana 1 FAMILY
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-family-fr.png" group-title="TV" ,Persiana FAMILY
 http://51.15.229.209/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/Gr1bvHW.png" group-title="TV" ,Persiana 2 CINEMA
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-cinema-fr.png" group-title="TV" ,Persiana CINEMA
 http://51.15.193.156/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/NMSRSYt.png" group-title="TV" ,Persiana 4 IRANIAN
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-iranian-fr.png" group-title="TV" ,Persiana IRANIAN
 http://51.158.97.214/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/pp/perrsiana-5-documentary-fr.png" group-title="TV" ,Persiana 5 DOCUMENTARY
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-classic-fr.png" group-title="TV" ,Persiana CLASSIC
+http://163.172.138.186/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-game-and-tech-fr.png" group-title="TV" ,Persiana GAME & TECH
+http://51.15.113.183/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-documentary-fr.png" group-title="TV" ,Persiana DOCUMENTARY
 http://163.172.174.60/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-6-music-fr.png" group-title="TV" ,Persiana 6 MUSIC
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-music-fr.png" group-title="TV" ,Persiana MUSIC
 http://163.172.147.113/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-nostalgia-fr.png" group-title="TV" ,Persiana Nostalgia
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-nostalgia-fr.png" group-title="TV" ,Persiana Nostalgia
 http://163.172.128.92/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/2Ka4Ins.png" group-title="TV" ,Salamat tube
@@ -98,12 +104,6 @@ http://51.158.176.190/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/mnAodqf.png" group-title="TV" ,Varzesh TV3
 http://51.15.236.137/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/f1e6M2L.png" group-title="TV" ,Varzesh TV4
-http://163.172.138.186/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/olympic_channel_es.png" group-title="TV" ,Olympic Channel
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/pp/poker-tv-fr.png" group-title="TV" ,Poker TV
 http://51.15.254.60/hls/stream.m3u8
