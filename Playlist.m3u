@@ -147,6 +147,9 @@ https://voavvideo-i.akamaihd.net/hls/live/850899/VOAV_TVMC7_MRG/master_1.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/c9ULtK3.png" group-title="TV" ,RadioFarda
 http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 
+#EXTINF:0 tvg-logo="http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg" group-title="TV" ,BBC Persian
+https://vs-dash-ww-live.bbcfmt.hs.llnwd.net/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/pc_hd_abr_v2_dash.mpd
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="TV" ,Radio Javan
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1457425685_b2892000.m3u8
 
