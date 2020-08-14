@@ -45,7 +45,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_1280x720_5000k.
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-series.png?1212" group-title="TV" ,Gem Series+
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_1920x1080_8000k.m3u8
 
-#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-tv.png?1212" group-title="TV" ,Gem TV
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-tv.png?1212" group-title="TV" ,Gem TV+
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_1920x1080_8000k.m3u8
 
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-usa.png?1212" group-title="TV" ,Gem USA
