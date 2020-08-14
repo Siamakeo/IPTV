@@ -75,6 +75,9 @@ http://51.15.229.209/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-cinema-fr.png" group-title="TV" ,Persiana CINEMA
 http://51.15.193.156/hls/stream.m3u8
 
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-comedy-fr.png" group-title="TV" ,Persiana COMEDY
+http://51.158.116.146/hls/stream.m3u8
+
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-iranian-fr.png" group-title="TV" ,Persiana IRANIAN
 http://51.158.97.214/hls/stream.m3u8
 
@@ -90,11 +93,8 @@ http://163.172.174.60/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-music-fr.png" group-title="TV" ,Persiana MUSIC
 http://163.172.147.113/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-nostalgia-fr.png" group-title="TV" ,Persiana Nostalgia
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-nostalgia-fr.png" group-title="TV" ,Persiana NOSTALGIA
 http://163.172.128.92/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/2Ka4Ins.png" group-title="TV" ,Salamat tube
-http://51.158.116.146/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/dSYJdEJ.png" group-title="TV" ,Varzesh TV1
 http://51.158.66.44/hls/stream.m3u8
