@@ -204,7 +204,7 @@ https://nrk-nrk2.akamaized.net/22/1/hls/nrk_2/1955020115-123787468-prog_index.m3
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk3.png" group-title="TV" ,NRK3
 https://nrk-nrk3.akamaized.net/23/1/hls/nrk_3/1955020115-123787468-prog_index.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motors-tv-no.png" group-title="TV" ,Motors TV
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motors-tv-no.png" group-title="TV" ,Canal Motor
 https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
 
 
