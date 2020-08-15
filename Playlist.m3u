@@ -210,6 +210,11 @@ https://nrk-nrk3.akamaized.net/23/1/hls/nrk_3/1955020115-123787468-prog_index.m3
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motors-tv-no.png" group-title="TV" ,Canal Motor
 https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/BO9f3sD.png" group-title="TV" ,Fatstone TV
+https://bgo1-cdn.trippelm.tv/fs/live/ngrp:live_all/chunklist_b8355840.m3u8
+
+
+
 
 
 
