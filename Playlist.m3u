@@ -90,7 +90,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_960x540_2000k.m
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-junior-fr.png" group-title="TV" ,Persiana Junior
 http://51.158.74.129/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="TV" ,Persiana ACTION
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-plushd-fr.png" group-title="TV" ,Persiana ACTION
 http://51.158.106.105/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-cinema-fr.png" group-title="TV" ,Persiana CINEMA
@@ -108,14 +108,14 @@ http://163.172.138.186/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-family-fr.png" group-title="TV" ,Persiana FAMILY
 http://51.15.229.209/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-billboard-fr.png" group-title="TV" ,Persiana BILLBOARD
-http://51.15.140.134/hls/stream.m3u8
-
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-game-and-tech-fr.png" group-title="TV" ,Persiana GAME & TECH
 http://51.15.113.183/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-documentary-fr.png" group-title="TV" ,Persiana DOCUMENTARY
 http://163.172.174.60/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-billboard-fr.png" group-title="TV" ,Persiana BILLBOARD
+http://51.15.140.134/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-music-fr.png" group-title="TV" ,Persiana MUSIC
 http://163.172.147.113/hls/stream.m3u8
