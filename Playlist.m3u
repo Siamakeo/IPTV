@@ -178,7 +178,7 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 https://vs-dash-ww-live.bbcfmt.hs.llnwd.net/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/pc_hd_abr_v2_dash.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="TV" ,Radio Javan
-https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1457425685_b2892000.m3u8
+https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1312860723_b2892000.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/aa/avang-tv-us.png" group-title="TV" ,Avang TV
 https://cdn3.wowza.com/1/OGQ3eXNHMkxxSzdi/ZTZOOVdI/hls/kpkwvymv/4128/chunklist.m3u8
