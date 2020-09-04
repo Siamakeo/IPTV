@@ -193,10 +193,10 @@ https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ogZIpuc.png" group-title="TV" ,Gem MIFA
-https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_8000k.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24_beat_tv.png" group-title="TV" ,Gem 24B
-https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_8000k.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_4500k.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="TV" ,M2O TV
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
