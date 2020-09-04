@@ -28,7 +28,7 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mo
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/onyx.png?1212" group-title="TV" ,Gem Onyx
-https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_8000k.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-film-ca.png" group-title="TV" ,Gem Film
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist_960x540_2000k.m3u8
@@ -90,7 +90,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_960x540_2000k.m
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-junior-fr.png" group-title="TV" ,Persiana Junior
 http://51.158.74.129/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-plushd-fr.png" group-title="TV" ,Persiana ACTION
+#EXTINF:0 tvg-logo="http://persianagroup.tv/wp-content/uploads/2020/08/Persiana.png" group-title="TV" ,Persiana ACTION
 http://51.158.106.105/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-cinema-fr.png" group-title="TV" ,Persiana CINEMA
