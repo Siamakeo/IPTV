@@ -43,19 +43,19 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist_960x540_2000k.
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m3u8
 
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-drama.png?1212" group-title="TV" ,Gem Drama+
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_1920x1080_8000k.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_1920x1080_4500k.m3u8
 
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-series.png?1212" group-title="TV" ,Gem Series+
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_1920x1080_8000k.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_1920x1080_4500k.m3u8
 
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-tv.png?1212" group-title="TV" ,Gem TV+
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_1920x1080_8000k.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_1920x1080_4500k.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4XHP60L.png" group-title="TV" ,Gem River+
-https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist_1920x1080_8000k.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist_1920x1080_4500k.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/bDaWOQs.png" group-title="TV" ,Gem Rubix+
-https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist_1920x1080_8000k.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist_1920x1080_4500k.m3u8
 
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-usa.png?1212" group-title="TV" ,Gem USA
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
@@ -80,6 +80,9 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem_ae.png" group-title="TV" ,Gem Nature
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m3u8
+
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_property.png?13" group-title="TV" ,Gem Property
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
 
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-kids.png?1212" group-title="TV" ,Gem Kids
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u8
