@@ -81,15 +81,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_property.png?13" group-title="TV" ,Gem Property
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
 
-#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-kids.png?1212" group-title="TV" ,Gem Kids
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u8
-
-#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-junior.png?1212" group-title="TV" ,Gem Junior
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_960x540_2000k.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-junior-fr.png" group-title="TV" ,Persiana Junior
-http://51.158.74.129/hls/stream.m3u8
-
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-plushd-fr.png" group-title="TV" ,Persiana +HD
 http://51.158.106.105/hls/stream.m3u8
 
@@ -129,9 +120,6 @@ http://51.158.66.44/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/a9QcLWY.png" group-title="TV" ,Varzesh TV2
 http://51.158.176.190/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/mnAodqf.png" group-title="TV" ,Varzesh TV3
-http://51.15.236.137/hls/stream
-
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/pp/poker-tv-fr.png" group-title="TV" ,Poker TV
 http://51.15.254.60/hls/stream.m3u8
 
@@ -152,9 +140,6 @@ http://51.158.103.244/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-2335.jpg" group-title="TV" ,AMG
 https://nl.live21.ir/hls2/AMG_src.m3u8
-
-#EXTINF:0 tvg-logo="https://highvision.tv/wp-content/uploads/2018/11/0001.jpg" group-title="TV" ,HIGHVISION
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/BNvZiiu.png" group-title="TV" ,PBC Tapesh
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
@@ -236,7 +221,3 @@ https://nrk-nrk3.akamaized.net/23/1/hls/nrk_3/1955020115-123787468-prog_index.m3
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motors-tv-no.png" group-title="TV" ,Canal Motor
 https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/BO9f3sD.png" group-title="TV" ,Fatstone TV
-https://bgo1-cdn.trippelm.tv/fs/live/ngrp:live_all/chunklist_b8355840.m3u8
-
