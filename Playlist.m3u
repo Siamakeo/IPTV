@@ -187,7 +187,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_4500k.m3u8
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/WJPvVdm.png" group-title="TV" ,NRJ Hits
-https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist.m3u8
+https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/chunklist_w1612501747_b3817472.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="TV" ,CMC TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
