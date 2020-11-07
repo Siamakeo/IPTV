@@ -81,6 +81,9 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_property.png?13" group-title="TV" ,Gem Property
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="TV" ,MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-plushd-fr.png" group-title="TV" ,Persiana +HD
 http://51.158.106.105/hls/stream.m3u8
 
@@ -96,8 +99,14 @@ http://51.158.97.214/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-classic-fr.png" group-title="TV" ,Persiana CLASSIC
 http://163.172.138.186/hls/stream.m3u8
 
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-familyplus-fr.png" group-title="TV" ,Persiana FAMILY+
+http://51.210.199.13/hls/stream.m3u8
+
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-family-fr.png" group-title="TV" ,Persiana FAMILY
 http://51.15.229.209/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-entertainment-fr.png" group-title="TV" ,Persiana ENTERTAINMENT
+http://51.210.199.14/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-game-and-tech-fr.png" group-title="TV" ,Persiana GAME & TECH
 http://51.15.113.183/hls/stream.m3u8
@@ -197,6 +206,9 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="TV" ,mbc 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/X4iT4EU.png" group-title="TV" ,mbc MAX
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="TV" ,mbc Action
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
