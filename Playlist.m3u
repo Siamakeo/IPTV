@@ -7,7 +7,7 @@ https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 https://nrpus.bozztv.com/36bay2/gin/giniko_manoto1_700kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/num/24box.png"  group-title="TV" ,24 BOX TV
-http://51.158.190.97/hls/stream.m3u8
+https://hls.247box.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/bazme-asheghan-tv.jpg" group-title="TV" ,Bazme Asheghan TV
 https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w889600788.m3u8
