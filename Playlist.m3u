@@ -136,7 +136,7 @@ http://51.15.254.60/hls/stream.m3u8
 http://vps.parsiland.net/hls/ParsiLand.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ol3HSWB.png" group-title="TV" ,MTC
-http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
+http://mellitv.tulix.tv/mellitv/myStream.sdp/chunklist_w964740685.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oxir.png" group-title="TV" ,Oxir TV
 http://51.210.199.36/hls/stream.m3u8
@@ -175,7 +175,7 @@ https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_p
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1312860723_b2892000.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/aa/avang-tv-us.png" group-title="TV" ,Avang TV
-https://cdn3.wowza.com/1/OGQ3eXNHMkxxSzdi/ZTZOOVdI/hls/kpkwvymv/4128/chunklist.m3u8
+https://cdn3.wowza.com/1/NDM2cHpnd2d6cklJ/ZmZBaWE4/hls/bwfpplpf/4128/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/navahang.png" group-title="TV" ,Navahang
 http://163.172.134.85/hls/stream.m3u8
