@@ -216,9 +216,6 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 #EXTINF:0 tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="TV" ,mbc Action
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/8f4fv5U.png" group-title="TV" ,Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/chunklist_w1193920237_b1928000_sleng.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="TV" ,MTV Live
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 
