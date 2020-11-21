@@ -12,12 +12,6 @@ https://hls.247box.live/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/bazme-asheghan-tv.jpg" group-title="TV" ,Bazme Asheghan TV
 https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w889600788.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-family.png" group-title="TV" ,AVA Family
-http://51.15.115.123/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-series.png" group-title="TV" ,AVA Series
-http://163.172.131.60/hls/stream.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/wWKyJDs.png" group-title="TV" ,Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
 
@@ -84,9 +78,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="TV" ,MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-plushd-fr.png" group-title="TV" ,Persiana +HD
-http://51.158.106.105/hls/stream.m3u8
-
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-cinema-fr.png" group-title="TV" ,Persiana CINEMA
 http://51.210.199.15/hls/stream.m3u8
 
@@ -125,9 +116,6 @@ http://51.210.199.20/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/dSYJdEJ.png" group-title="TV" ,Varzesh TV1
 http://51.210.199.16/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/pp/poker-tv-fr.png" group-title="TV" ,Poker TV
-http://51.15.254.60/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/sAGo6Pd.png" group-title="TV" ,ParsiLand TV
 http://vps.parsiland.net/hls/ParsiLand.m3u8
