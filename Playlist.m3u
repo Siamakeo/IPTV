@@ -172,7 +172,7 @@ http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1312860723_b2892000.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/aa/avang-tv-us.png" group-title="TV" ,Avang TV
-https://cdn3.wowza.com/1/NDM2cHpnd2d6cklJ/ZmZBaWE4/hls/bwfpplpf/4128/chunklist.m3u8
+https://cdn3.wowza.com/1/NDM2cHpnd2d6cklJ/ZmZBaWE4/hls/7ffwhfcr/4128/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ogZIpuc.png" group-title="TV" ,Gem MIFA
 https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
