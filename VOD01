@@ -1,3 +1,5 @@
+#EXT-X-PLAYLIST-TYPE:VOD
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f1/Anna_film_poster.jpg" group-title="MOVIES" ,Anna (2019)
 https://01.google-online.com/Movies/Anna_2019_Dubbed_720p.mp4
 
