@@ -169,7 +169,7 @@ https://vid1.caltexmusic.com/hls/caltextv.m3u8
 http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/aa/avang-tv-us.png" group-title="TV" ,Avang TV
-https://cdn3.wowza.com/1/OGQ3eXNHMkxxSzdi/ZTZOOVdI/hls/cbb5qtp0/4128/chunklist.m3u8
+https://cdn3.wowza.com/1/OGQ3eXNHMkxxSzdi/ZTZOOVdI/hls/vvsf68db/4128/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="TV" ,Radio Javan
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1312860723_b2892000.m3u8
