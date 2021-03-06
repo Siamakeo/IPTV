@@ -90,7 +90,6 @@ http://51.210.199.19/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-familyplus-fr.png" group-title="TV" ,Persiana FAMILY+
 http://51.210.199.13/hls/stream.m3u8
 
-
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-entertainment-fr.png" group-title="TV" ,Persiana ENTERTAINMENT
 http://51.210.199.14/hls/stream.m3u8
 
