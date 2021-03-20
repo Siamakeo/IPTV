@@ -3,6 +3,9 @@
 #EXTINF:0 tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="TV" ,Manoto HD
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/e1pnIr2.png" group-title="TV" ,Manoto
+https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
+
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/num/24box.png"  group-title="TV" ,24 BOX TV
 https://hls.247box.live/hls/stream.m3u8
 
