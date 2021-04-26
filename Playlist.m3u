@@ -114,9 +114,6 @@ http://51.210.199.20/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/dSYJdEJ.png" group-title="TV" ,Varzesh TV1
 http://51.210.199.16/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/sAGo6Pd.png" group-title="TV" ,ParsiLand TV
-http://vps.parsiland.net/hls/ParsiLand.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/ol3HSWB.png" group-title="TV" ,MTC
 http://mellitv.tulix.tv/mellitv/myStream.sdp/chunklist_w964740685.m3u8
 
@@ -151,7 +148,7 @@ http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/bbc_persian_tv-pa4=128000-video=5070016.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/navahang.png" group-title="TV" ,Navahang
-http://163.172.134.85/hls/stream.m3u8
+http://51.210.227.130/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ebc-music-us.png" group-title="TV" ,EBC Music
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
@@ -178,7 +175,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_4500k.m3u8
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/WJPvVdm.png" group-title="TV" ,NRJ Hits
-https://tv.ngroup.be/nrj/ngrp:NRJHitsTV_all/chunklist_w1612501747_b3817472.m3u8
+https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w834990701_b2800435.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="TV" ,CMC TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
