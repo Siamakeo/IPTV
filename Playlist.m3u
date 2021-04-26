@@ -78,6 +78,9 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_property.png?13" group-title="TV" ,Gem Property
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
 
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-entertainment-fr.png" group-title="TV" ,Persiana KOREA
+http://51.210.199.14/hls/stream.m3u8
+
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-cinema-fr.png" group-title="TV" ,Persiana CINEMA
 http://51.210.199.15/hls/stream.m3u8
 
@@ -92,9 +95,6 @@ http://51.210.199.19/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-familyplus-fr.png" group-title="TV" ,Persiana FAMILY+
 http://51.210.199.13/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-entertainment-fr.png" group-title="TV" ,Persiana ENTERTAINMENT
-http://51.210.199.14/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-game-and-tech-fr.png" group-title="TV" ,Persiana GAME & TECH
 http://51.210.199.25/hls/stream.m3u8
