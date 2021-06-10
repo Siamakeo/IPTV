@@ -18,6 +18,12 @@ http://51.210.199.4/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="TV" ,MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/wWKyJDs.png" group-title="TV" ,Cine Film
+https://gintna100.tulix.tv/gin_live/cine-film/c3474c27aeacb88825291afab05fc874/60c3a5e7/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Iz8re8Z.png" group-title="TV" ,Cine Series
+https://gintna100.tulix.tv/gin_live/cine-series/850adecdf0611b2a9c686a47e9272198/60c3a641/index.m3u8
+
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-korea-fr.png" group-title="TV" ,Persiana KOREA
 http://51.210.199.14/hls/stream.m3u8
 
@@ -60,8 +66,14 @@ http://51.210.199.16/hls/stream.m3u8
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/onyx.png?1212" group-title="TV" ,Gem Onyx
 https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
 
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/onyx.png?1212" group-title="TV" ,Gem Onyx (backup)
+https://gintna100.tulix.tv/gin_live/gemonyx/c5e2cd846abcbe51c9fad7dc29fc8d17/60c3a78f/index.m3u8
+
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-film-ca.png" group-title="TV" ,Gem Film
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist_960x540_2000k.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-film-ca.png" group-title="TV" ,Gem Film (backup)
+https://gintna100.tulix.tv/gin_live/gemfilmhd/ee776413568f5dbda6fd8f827f6f2313/60c3a72e/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/max.png?1212" group-title="TV" ,Gem Maxx
 https://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist_960x540_2000k.m3u8
@@ -75,8 +87,14 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-drama.png?1212" group-title="TV" ,Gem Drama+
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_1920x1080_4500k.m3u8
 
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-drama.png?1212" group-title="TV" ,Gem Drama+ (backup)
+https://gintna100.tulix.tv/gin_live/gemdramahd/f3268d2c0e27da2a1a6ed3ff874fb86a/60c3a6a7/index.m3u8
+
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-series.png?1212" group-title="TV" ,Gem Series+
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_1920x1080_4500k.m3u8
+
+#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-series.png?1212" group-title="TV" ,Gem Series+ (backup)
+https://gintna100.tulix.tv/gin_live/gemserieshd/a2969f2f2dcd9bd5552986db06cbd632/60c3a85d/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-tv.png?1212" group-title="TV" ,Gem TV+
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_1920x1080_4500k.m3u8
@@ -84,8 +102,14 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_1920x1080_4500k.m3u
 #EXTINF:0 tvg-logo="https://i.imgur.com/4XHP60L.png" group-title="TV" ,Gem River+
 https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist_1920x1080_4500k.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/4XHP60L.png" group-title="TV" ,Gem River+ (backup)
+https://gintna100.tulix.tv/gin_live/gemriverhd/0051ac9cb79902fa15b32d594a4902b9/60c3a7ca/index.m3u8
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/bDaWOQs.png" group-title="TV" ,Gem Rubix+
 https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist_1920x1080_4500k.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/bDaWOQs.png" group-title="TV" ,Gem Rubix+ (backup)
+https://gintna100.tulix.tv/gin_live/gemrubixhd/70e312d7da5fa82502310d7cee826b20/60c3a802/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-usa.png?1212" group-title="TV" ,Gem USA
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
@@ -145,7 +169,7 @@ https://voavvideo-i.akamaihd.net/hls/live/850899/VOAV_TVMC7_MRG/master_1.m3u8
 http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 
 #EXTINF:0 tvg-logo="http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg" group-title="TV" ,BBC Persian
-https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/bbc_persian_tv-pa4=128000-video=5070016.m3u8
+https://gintna100.tulix.tv/gin_live/bbcpersian/8685c978f90b4251831e8c5c4f355939/60c3a670/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/navahang.png" group-title="TV" ,Navahang
 http://51.210.227.130/hls/stream.m3u8
@@ -213,3 +237,5 @@ https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/e1pnIr2.png" group-title="TV" ,Manoto
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/e1pnIr2.png" group-title="TV" ,Manoto (backup)
+https://gintna100.tulix.tv/gin_live/manoto1/aaf10916add1c46986916e9b54030efc/60c3a8c7/index.m3u8
