@@ -21,6 +21,45 @@ http://51.210.199.4/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="TV" ,MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-korea-fr.png" group-title="TV" ,Persiana KOREA
+http://51.210.199.14/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-cinema-fr.png" group-title="TV" ,Persiana CINEMA
+http://51.210.199.15/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-plushd-fr.png" group-title="TV" ,Persiana PLUS
+http://51.210.199.21/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-comedy-fr.png" group-title="TV" ,Persiana COMEDY
+http://51.210.199.27/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-iranian-fr.png" group-title="TV" ,Persiana IRANIAN
+http://51.210.199.22/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-family-fr.png" group-title="TV" ,Persiana FAMILY
+http://51.210.199.19/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-familyplus-fr.png" group-title="TV" ,Persiana FAMILY+
+http://51.210.199.13/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-game-and-tech-fr.png" group-title="TV" ,Persiana GAME & TECH
+http://51.210.199.25/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-documentary-fr.png" group-title="TV" ,Persiana DOCUMENTARY
+http://51.210.199.23/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-billboard-fr.png" group-title="TV" ,Persiana BILLBOARD
+http://51.210.199.10/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-music-fr.png" group-title="TV" ,Persiana MUSIC
+http://51.210.199.24/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-nostalgia-fr.png" group-title="TV" ,Persiana NOSTALGIA
+http://51.210.199.20/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/dSYJdEJ.png" group-title="TV" ,Varzesh TV1
+http://51.210.199.16/hls/stream.m3u8
+
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/onyx.png?1212" group-title="TV" ,Gem Onyx
 https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
 
@@ -78,45 +117,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_property.png?13" group-title="TV" ,Gem Property
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-korea-fr.png" group-title="TV" ,Persiana KOREA
-http://51.210.199.14/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-cinema-fr.png" group-title="TV" ,Persiana CINEMA
-http://51.210.199.15/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-plushd-fr.png" group-title="TV" ,Persiana PLUS
-http://51.210.199.21/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-comedy-fr.png" group-title="TV" ,Persiana COMEDY
-http://51.210.199.27/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-iranian-fr.png" group-title="TV" ,Persiana IRANIAN
-http://51.210.199.22/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-family-fr.png" group-title="TV" ,Persiana FAMILY
-http://51.210.199.19/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-familyplus-fr.png" group-title="TV" ,Persiana FAMILY+
-http://51.210.199.13/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-game-and-tech-fr.png" group-title="TV" ,Persiana GAME & TECH
-http://51.210.199.25/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-documentary-fr.png" group-title="TV" ,Persiana DOCUMENTARY
-http://51.210.199.23/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-billboard-fr.png" group-title="TV" ,Persiana BILLBOARD
-http://51.210.199.10/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-music-fr.png" group-title="TV" ,Persiana MUSIC
-http://51.210.199.24/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-nostalgia-fr.png" group-title="TV" ,Persiana NOSTALGIA
-http://51.210.199.20/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/dSYJdEJ.png" group-title="TV" ,Varzesh TV1
-http://51.210.199.16/hls/stream.m3u8
-
 #EXTINF:0 tvg-logo="https://i.imgur.com/ol3HSWB.png" group-title="TV" ,MTC
 http://mellitv.tulix.tv/mellitv/myStream.sdp/chunklist_w964740685.m3u8
 
@@ -166,7 +166,7 @@ https://vid1.caltexmusic.com/hls/caltextv.m3u8
 http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="TV" ,Radio Javan
-https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1312860723_b2892000.m3u8
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1710758088_b2892000.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ogZIpuc.png" group-title="TV" ,Gem MIFA
 https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
@@ -199,7 +199,7 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/FOiUOeW.png" group-title="TV" ,MTV Live
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+https://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk1.png" group-title="TV" ,NRK1
 https://nrk-nrk1.akamaized.net/21/1/hls/nrk_1/1955020115-123787468-prog_index.m3u8
