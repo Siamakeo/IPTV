@@ -82,7 +82,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_1920x1080_4500k.
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-series.png?1212" group-title="TV" ,Gem Series+
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_1920x1080_4500k.m3u8
 
-
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-tv.png?1212" group-title="TV" ,Gem TV+
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_1920x1080_4500k.m3u8
 
@@ -118,6 +117,18 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m
 
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_property.png?13" group-title="TV" ,Gem Property
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-1.png" group-title="TV" ,SL1
+http://51.210.199.3/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-2.png" group-title="TV" ,SL2
+http://51.210.199.2/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-1.png" group-title="TV" ,VOX1
+http://51.210.199.8/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-2.png" group-title="TV" ,VOX2
+http://51.210.199.9/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ol3HSWB.png" group-title="TV" ,MTC
 http://mellitv.tulix.tv/mellitv/myStream.sdp/chunklist_w964740685.m3u8
