@@ -45,9 +45,6 @@ http://51.210.199.13/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-game-and-tech-fr.png" group-title="TV" ,Persiana GAME & TECH
 http://51.210.199.25/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-documentary-fr.png" group-title="TV" ,Persiana DOCUMENTARY
-http://51.210.199.23/hls/stream.m3u8
-
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-billboard-fr.png" group-title="TV" ,Persiana BILLBOARD
 http://51.210.199.10/hls/stream.m3u8
 
@@ -65,7 +62,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-film-ca.png" group-title="TV" ,Gem Film
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist_960x540_2000k.m3u8
-
 
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/max.png?1212" group-title="TV" ,Gem Maxx
 https://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist_960x540_2000k.m3u8
@@ -152,7 +148,7 @@ http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/i
 https://hls.yourtime.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/6qeC6rI.png" group-title="TV" ,Iraninternational
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b2796000.m3u8
+https://live.playstop.me/LS-63503-4/chunklist_b2796000.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/dBoqyM4.png" group-title="TV" ,VOA PNN
 https://voavvideo-i.akamaihd.net/hls/live/850899/VOAV_TVMC7_MRG/master_1.m3u8
@@ -169,9 +165,6 @@ https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/PMC.png" group-title="TV" ,PMC
 https://hls.pmchd.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/zIF1h5X.png" group-title="TV" ,Caltex Music
-https://vid1.caltexmusic.com/hls/caltextv.m3u8
-
 #EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-tapesh-2-1413.jpg" group-title="TV" ,Tapesh 2
 http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 
@@ -186,9 +179,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_4500k.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="TV" ,M2O TV
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/WJPvVdm.png" group-title="TV" ,NRJ Hits
-https://tv.ngroup.be/live/ngrp:nrj_all/chunklist_w834990701_b2800435.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/9TbpsS0.png" group-title="TV" ,CMC TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
