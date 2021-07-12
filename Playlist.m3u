@@ -57,6 +57,99 @@ http://51.210.199.20/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/dSYJdEJ.png" group-title="TV" ,Varzesh TV1
 http://51.210.199.16/hls/stream.m3u8
 
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/poker-tv-fr.png" group-title="TV" , PokerTV
+http://51.210.199.17/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-1.png" group-title="TV" ,SL1
+http://51.210.199.3/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-2.png" group-title="TV" ,SL2
+http://51.210.199.2/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-1.png" group-title="TV" ,VOX1
+http://51.210.199.8/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-2.png" group-title="TV" ,VOX2
+http://51.210.199.9/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sepanj.png" group-title="TV" , Sepanj TV
+http://51.210.199.30/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/maah-tv-my.png" group-title="TV" , maahtv
+http://51.210.199.33/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV" , ecran TV
+http://51.210.199.40/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/solh-tv.png" group-title="TV" , Solh TV
+http://51.210.199.42/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tapesh-2-movies-us.png" group-title="TV" , Tapeh2 Movie TV
+http://51.210.199.44/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx-tv.png" group-title="TV" , FX TV
+http://51.210.199.52/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oxir.png" group-title="TV" ,Oxir TV
+http://51.210.199.36/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tehran-tv-24.png" group-title="TV" , TEHRAN TV24
+http://51.210.227.132/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persian-film.png" group-title="TV" , Persian Film TV
+http://51.210.227.135/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mono.png" group-title="TV" , Mono TV
+http://51.210.227.137/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ol3HSWB.png" group-title="TV" ,MTC
+http://mellitv.tulix.tv/mellitv/myStream.sdp/chunklist_w964740685.m3u8
+
+#EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-2335.jpg" group-title="TV" ,AMG
+https://nl.livekadeh.com/hls2/AMG_src.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="TV" ,4U TV
+http://116.202.255.113:1935/4utv/livesd/chunklist_w648259601.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/BNvZiiu.png" group-title="TV" ,PBC Tapesh
+http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/UFV7YVy.jpg" group-title="TV" ,Andisheh
+http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
+ 
+#EXTINF:0 tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="TV" ,YourTime
+https://hls.yourtime.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/6qeC6rI.png" group-title="TV" ,Iraninternational
+https://live.playstop.me/LS-63503-4/chunklist_b2796000.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/radio/ii/iran-international-radio-uk.png" group-title="TV" , Iranintl.radio
+http://51.210.199.46/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/dBoqyM4.png" group-title="TV" ,VOA PNN
+https://voavvideo-i.akamaihd.net/hls/live/850899/VOAV_TVMC7_MRG/master_1.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/c9ULtK3.png" group-title="TV" ,RadioFarda
+http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/navahang.png" group-title="TV" ,Navahang
+http://51.210.227.130/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ebc-music-us.png" group-title="TV" ,EBC Music
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/PMC.png" group-title="TV" ,PMC
+https://hls.pmchd.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pmc-ae.png" group-title="TV" , PMC ROYALE TV
+http://51.210.199.29/hls/stream.m3u8
+
+#EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-tapesh-2-1413.jpg" group-title="TV" ,Tapesh 2
+http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="TV" ,Radio Javan
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1699797994_b2892000.m3u8
+
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/onyx.png?1212" group-title="TV" ,Gem Onyx
 https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
 
@@ -113,63 +206,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m
 
 #EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_property.png?13" group-title="TV" ,Gem Property
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-1.png" group-title="TV" ,SL1
-http://51.210.199.3/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-2.png" group-title="TV" ,SL2
-http://51.210.199.2/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-1.png" group-title="TV" ,VOX1
-http://51.210.199.8/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-2.png" group-title="TV" ,VOX2
-http://51.210.199.9/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/ol3HSWB.png" group-title="TV" ,MTC
-http://mellitv.tulix.tv/mellitv/myStream.sdp/chunklist_w964740685.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oxir.png" group-title="TV" ,Oxir TV
-http://51.210.199.36/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-2335.jpg" group-title="TV" ,AMG
-https://nl.livekadeh.com/hls2/AMG_src.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="TV" ,4U TV
-http://116.202.255.113:1935/4utv/livesd/chunklist_w648259601.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/BNvZiiu.png" group-title="TV" ,PBC Tapesh
-http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/UFV7YVy.jpg" group-title="TV" ,Andisheh
-http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
- 
-#EXTINF:0 tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="TV" ,YourTime
-https://hls.yourtime.live/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/6qeC6rI.png" group-title="TV" ,Iraninternational
-https://live.playstop.me/LS-63503-4/chunklist_b2796000.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/dBoqyM4.png" group-title="TV" ,VOA PNN
-https://voavvideo-i.akamaihd.net/hls/live/850899/VOAV_TVMC7_MRG/master_1.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/c9ULtK3.png" group-title="TV" ,RadioFarda
-http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/navahang.png" group-title="TV" ,Navahang
-http://51.210.227.130/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ebc-music-us.png" group-title="TV" ,EBC Music
-https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/PMC.png" group-title="TV" ,PMC
-https://hls.pmchd.live/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-tapesh-2-1413.jpg" group-title="TV" ,Tapesh 2
-http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="TV" ,Radio Javan
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1699797994_b2892000.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ogZIpuc.png" group-title="TV" ,Gem MIFA
 https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
