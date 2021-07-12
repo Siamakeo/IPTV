@@ -81,9 +81,6 @@ http://51.210.199.33/hls/stream.m3u8
 #EXTINF:0 tvg-logo="" group-title="TV" , ecran TV
 http://51.210.199.40/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/solh-tv.png" group-title="TV" , Solh TV
-http://51.210.199.42/hls/stream.m3u8
-
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tapesh-2-movies-us.png" group-title="TV" , Tapeh2 Movie TV
 http://51.210.199.44/hls/stream.m3u8
 
