@@ -54,12 +54,6 @@ http://51.210.199.24/hls/stream.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-nostalgia-fr.png" group-title="TV" ,Persiana NOSTALGIA
 http://51.210.199.20/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/dSYJdEJ.png" group-title="TV" ,Varzesh TV1
-http://51.210.199.16/hls/stream.m3u8
-
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/poker-tv-fr.png" group-title="TV" , PokerTV
-http://51.210.199.17/hls/stream.m3u8
-
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-1.png" group-title="TV" ,SL1
 http://51.210.199.3/hls/stream.m3u8
 
@@ -209,6 +203,9 @@ https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24_beat_tv.png" group-title="TV" ,Gem 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_4500k.m3u8
+
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/poker-tv-fr.png" group-title="TV" , PokerTV
+http://51.210.199.17/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="TV" ,M2O TV
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
