@@ -99,22 +99,22 @@ https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-film-ca.png" group-title="TV" ,Gem Film
 https://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8
 
-#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/max.png?1212" group-title="TV" ,Gem Maxx
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/channels-box/maxx.png?14" group-title="TV" ,Gem Maxx
 https://stream-cdn.gemonline.tv/live/gemmaxx/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/9KzCokk.png" group-title="TV" ,Gem Classic
 https://stream-cdn.gemonline.tv/live/gemclassic/index.m3u8
 
-#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-comedy.png?1212" group-title="TV" ,Gem Comedy
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_comedy.png?14" group-title="TV" ,Gem Comedy
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m3u8
 
-#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-drama.png?1212" group-title="TV" ,Gem Drama+
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemdrama.png?14" group-title="TV" ,Gem Drama+
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_1920x1080_4500k.m3u8
 
-#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-series.png?1212" group-title="TV" ,Gem Series+
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemseries.png?14" group-title="TV" ,Gem Series+
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_1920x1080_4500k.m3u8
 
-#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-tv.png?1212" group-title="TV" ,Gem TV+
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png?14" group-title="TV" ,Gem TV+
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_1920x1080_4500k.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/4XHP60L.png" group-title="TV" ,Gem River
@@ -126,7 +126,7 @@ https://stream-cdn.gemonline.tv/live/rubix/index.m3u8
 #EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-usa.png?1212" group-title="TV" ,Gem USA
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
 
-#EXTINF:0 tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-bollywood.png?1212" group-title="TV" ,Gem Bollywood
+#EXTINF:0 tvg-logo="https://www.gemonline.tv/Assets/channels-box/gembollywood.png?14" group-title="TV" ,Gem Bollywood
 https://stream-cdn.gemonline.tv/live/gembollywood/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-life-ca.png" group-title="TV" ,Gem Life
