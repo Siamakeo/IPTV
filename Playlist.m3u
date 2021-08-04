@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:0 tvg-id="manototv.com" tvg-name="Manoto HD" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment" ,Manoto HD
+#EXTINF:0 tvg-id="manototv.uk" tvg-name="Manoto HD" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment" ,Manoto HD
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 
 #EXTINF:0 tvg-id="24BOXTV.ir" tvg-name="24 BOX TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/num/24box.png"  group-title="Movies" ,24 BOX TV
