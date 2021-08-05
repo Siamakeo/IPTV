@@ -76,7 +76,7 @@ http://51.210.199.33/hls/stream.m3u8
 #EXTINF:0 tvg-id="1TvPersian.ir" tvg-name="1TvPersian" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/1tv-persian.png" group-title="Entertainment",1TvPersian
 https://11778-1.b.cdn13.com/onetvpersia001.m3u8?bandwidth=3196&playlistlength=5&shift=0&v=2
 
-#EXTINF:0 tvg-id="EcranTV.ir" tvg-name="Ecran TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movies" ,Ecran TV
+#EXTINF:0 tvg-id="EcranTV.ir" tvg-name="Ecran TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://imgur.com/a/AF3l3HJ" group-title="Movies" ,Ecran TV
 http://51.210.199.40/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="EkranMovie.ir" tvg-name="Ekran Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.glwiz.com/Pages/HomePage/Images/PERSIAN/LiveTV-03-PER.png" group-title="Movies",Ekran Movie
