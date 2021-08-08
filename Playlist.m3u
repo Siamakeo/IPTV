@@ -109,9 +109,6 @@ http://51.210.227.137/hls/stream.m3u8
 #EXTINF:0 tvg-id="AMG.ir" tvg-name="AMG" tvg-country="IR" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-2335.jpg" group-title="Movies" ,AMG
 https://nl.livekadeh.com/hls2/AMG_src.m3u8
 
-#EXTINF:0 tvg-id="GemOnyx.ir" tvg-name="Gem Onyx" tvg-country="IR" tvg-language="Persian" tvg-logo="http://www.gemonline.tv/Assets/channels-box/onyx.png?1212" group-title="Movies" ,Gem Onyx
-https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
-
 #EXTINF:0 tvg-id="GemFilm.ir" tvg-name="Gem Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-film-ca.png" group-title="Movies" ,Gem Film
 https://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8
 
@@ -121,17 +118,14 @@ https://stream-cdn.gemonline.tv/live/gemmaxx/index.m3u8
 #EXTINF:0 tvg-id="GemClassic.ir" tvg-name="Gem Classic" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/9KzCokk.png" group-title="Series" ,Gem Classic
 https://stream-cdn.gemonline.tv/live/gemclassic/index.m3u8
 
-#EXTINF:0 tvg-id="GemComedy.ir" tvg-name="Gem Comedy" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_comedy.png?14" group-title="Series" ,Gem Comedy
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m3u8
+#EXTINF:0 tvg-id="GemDrama+.ir" tvg-name="Gem Drama" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemdrama.png?14" group-title="Series" ,Gem Drama+
+https://stream-cdn.gemonline.tv/live/gemdrama/index.m3u8
 
-#EXTINF:0 tvg-id="GemDrama+.ir" tvg-name="Gem Drama+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemdrama.png?14" group-title="Series" ,Gem Drama+
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_1920x1080_4500k.m3u8
+#EXTINF:0 tvg-id="GemSeries+.ir" tvg-name="Gem Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemseries.png?14" group-title="Series" ,Gem Series+
+https://stream-cdn.gemonline.tv/live/gemseries/index.m3u8
 
-#EXTINF:0 tvg-id="GemSeries+.ir" tvg-name="Gem Series+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemseries.png?14" group-title="Series" ,Gem Series+
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_1920x1080_4500k.m3u8
-
-#EXTINF:0 tvg-id="GemTV+.ir" tvg-name="Gem TV+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png?14" group-title="Series" ,Gem TV+
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_1920x1080_4500k.m3u8
+#EXTINF:0 tvg-id="GemTV+.ir" tvg-name="Gem TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png?14" group-title="Series" ,Gem TV+
+https://stream-cdn.gemonline.tv/live/gem/index.m3u8
 
 #EXTINF:0 tvg-id="GemRiver.ir" tvg-name="Gem River" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XHP60L.png" group-title="Series" ,Gem River
 https://stream-cdn.gemonline.tv/live/river/index.m3u8
@@ -139,32 +133,38 @@ https://stream-cdn.gemonline.tv/live/river/index.m3u8
 #EXTINF:0 tvg-id="GemRubix.ir" tvg-name="Gem Rubix" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/bDaWOQs.png" group-title="Series" ,Gem Rubix
 https://stream-cdn.gemonline.tv/live/rubix/index.m3u8
 
-#EXTINF:0 tvg-id="GemUSA.ir" tvg-name="Gem USA" tvg-country="IR" tvg-language="Persian" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-usa.png?1212" group-title="Series" ,Gem USA
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
-
 #EXTINF:0 tvg-id="GemBollywood.ir" tvg-name="Gem Bollywood" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gembollywood.png?14" group-title="Series" ,Gem Bollywood
 https://stream-cdn.gemonline.tv/live/gembollywood/index.m3u8
 
 #EXTINF:0 tvg-id="GemLife.ir" tvg-name="Gem Life" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-life-ca.png" group-title="Entertainment" ,Gem Life
 https://stream-cdn.gemonline.tv/live/gemlife/index.m3u8
 
-#EXTINF:0 tvg-id="GemFood.ir" tvg-name="Gem Food" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-food-ca.png" group-title="Entertainment" ,Gem Food
+#EXTINF:0 tvg-id="GemFood.ir" tvg-name="Gem Food" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-food-ca.png" group-title="Food" ,Gem Food
 https://stream-cdn.gemonline.tv/live/gemfood/index.m3u8
 
-#EXTINF:0 tvg-id="GemFit.ir" tvg-name="Gem Fit" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem_ae.png" group-title="Entertainment" ,Gem Fit
+#EXTINF:0 tvg-id="GemFit.ir" tvg-name="Gem Fit" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem_ae.png" group-title="Sport" ,Gem Fit
 https://stream-cdn.gemonline.tv/live/gemfit/index.m3u8
-
-#EXTINF:0 tvg-id="GemAZ.ir" tvg-name="Gem AZ" tvg-country="IR" tvg-language="Azeri" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-az-ca.png" group-title="Music" ,Gem AZ
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist_960x540_2000k.m3u8
 
 #EXTINF:0 tvg-id="GemTravel.ir" tvg-name="Gem Travel" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-travel-ca.png" group-title="Entertainment" ,Gem Travel
 https://stream-cdn.gemonline.tv/live/gemtravel/index.m3u8
+
+#EXTINF:0 tvg-id="GemOnyx.ir" tvg-name="Gem Onyx" tvg-country="IR" tvg-language="Persian" tvg-logo="http://www.gemonline.tv/Assets/channels-box/onyx.png?1212" group-title="Movies" ,Gem Onyx
+https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
+
+#EXTINF:0 tvg-id="GemUSA.ir" tvg-name="Gem USA" tvg-country="IR" tvg-language="Persian" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-usa.png?1212" group-title="Series" ,Gem USA
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
+
+#EXTINF:0 tvg-id="GemComedy.ir" tvg-name="Gem Comedy" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_comedy.png?14" group-title="Series" ,Gem Comedy
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m3u8
 
 #EXTINF:0 tvg-id="GemNature.ir" tvg-name="Gem Nature" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem_ae.png" group-title="Entertainment" ,Gem Nature
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m3u8
 
 #EXTINF:0 tvg-id="GemProperty.ir" tvg-name="Gem Property" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_property.png?13" group-title="Entertainment" ,Gem Property
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
+
+#EXTINF:0 tvg-id="GemAZ.ir" tvg-name="Gem AZ" tvg-country="IR" tvg-language="Azeri" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-az-ca.png" group-title="Music" ,Gem AZ
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist_960x540_2000k.m3u8
 
 #EXTINF:0 tvg-id="GemMIFA.ir" tvg-name="Gem MIFA" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ogZIpuc.png" group-title="Music" ,Gem MIFA
 https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
@@ -256,5 +256,5 @@ http://159.69.58.154/manoto_plus2/manoto2.m3u8
 #EXTINF:0 tvg-id="ManotoTV.uk" tvg-name="Manoto +1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/orz65Po.png" group-title="General",Manoto +1
 http://159.69.58.154/manoto_plus1/manoto_plus.m3u8
 
-#EXTINF:0 tvg-id="ManotoTV.uk" tvg-name="Manoto Backup" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/e1pnIr2.png" group-title="Entertainment" ,Manoto Backup
+#EXTINF:0 tvg-id="ManotoTV.uk" tvg-name="Manoto Backup" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/e1pnIr2.png" group-title="General" ,Manoto Backup
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
