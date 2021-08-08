@@ -148,30 +148,6 @@ https://stream-cdn.gemonline.tv/live/gemfit/index.m3u8
 #EXTINF:0 tvg-id="GemTravel.ir" tvg-name="Gem Travel" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-travel-ca.png" group-title="Entertainment" ,Gem Travel
 https://stream-cdn.gemonline.tv/live/gemtravel/index.m3u8
 
-#EXTINF:0 tvg-id="GemOnyx.ir" tvg-name="Gem Onyx" tvg-country="IR" tvg-language="Persian" tvg-logo="http://www.gemonline.tv/Assets/channels-box/onyx.png?1212" group-title="Movies" ,Gem Onyx
-https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist_1920x1080_4500k.m3u8
-
-#EXTINF:0 tvg-id="GemUSA.ir" tvg-name="Gem USA" tvg-country="IR" tvg-language="Persian" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-usa.png?1212" group-title="Series" ,Gem USA
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
-
-#EXTINF:0 tvg-id="GemComedy.ir" tvg-name="Gem Comedy" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_comedy.png?14" group-title="Series" ,Gem Comedy
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m3u8
-
-#EXTINF:0 tvg-id="GemNature.ir" tvg-name="Gem Nature" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem_ae.png" group-title="Entertainment" ,Gem Nature
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m3u8
-
-#EXTINF:0 tvg-id="GemProperty.ir" tvg-name="Gem Property" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_property.png?13" group-title="Entertainment" ,Gem Property
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
-
-#EXTINF:0 tvg-id="GemAZ.ir" tvg-name="Gem AZ" tvg-country="IR" tvg-language="Azeri" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-az-ca.png" group-title="Music" ,Gem AZ
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist_960x540_2000k.m3u8
-
-#EXTINF:0 tvg-id="GemMIFA.ir" tvg-name="Gem MIFA" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ogZIpuc.png" group-title="Music" ,Gem MIFA
-https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist_1920x1080_4500k.m3u8
-
-#EXTINF:0 tvg-id="Gem24B.ir" tvg-name="Gem 24B" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/24_beat_tv.png" group-title="Music" ,Gem 24B
-https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_4500k.m3u8
-
 #EXTINF:0 tvg-id="MTC.ir" tvg-name="MTC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ol3HSWB.png" group-title="Entertainment" ,MTC
 http://mellitv.tulix.tv/mellitv/myStream.sdp/chunklist_w964740685.m3u8
 
