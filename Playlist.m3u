@@ -79,20 +79,11 @@ https://11778-1.b.cdn13.com/onetvpersia001.m3u8?bandwidth=3196&playlistlength=5&
 #EXTINF:0 tvg-id="EcranTV.ir" tvg-name="Ecran TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dawtpn6.png" group-title="Movies" ,Ecran TV
 http://51.210.199.40/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="EkranMovie.ir" tvg-name="Ekran Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.glwiz.com/Pages/HomePage/Images/PERSIAN/LiveTV-03-PER.png" group-title="Movies",Ekran Movie
-http://159.69.58.154/ekran/ekrantv.m3u8
-
-#EXTINF:0 tvg-id="Film1.ir" tvg-name="Film 1" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movies",Film 1
-http://159.69.58.154/film1/film1tv.m3u8
-
 #EXTINF:0 tvg-id="FXTV.ir" tvg-name="FX TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx-tv.png" group-title="Movies" ,FX TV
 http://51.210.199.52/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="FarazTV.ir" tvg-name="Faraz TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://faraztv.net/icon.png" group-title="Movies",Faraz TV
 https://faraztv.net/hls/stream.m3u8
-
-#EXTINF:0 tvg-id="Tapesh2Movies.ir" tvg-name="Tapesh 2 Movies" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tapesh-2-movies-us.png" group-title="Movies",Tapesh 2 Movies
-http://159.69.58.154/t2_movies/master.m3u8
 
 #EXTINF:0 tvg-id="Oxir TV" tvg-name="Oxir TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oxir.png" group-title="Movies" ,Oxir TV
 http://51.210.199.36/hls/stream.m3u8
@@ -148,9 +139,6 @@ https://stream-cdn.gemonline.tv/live/gemfit/index.m3u8
 #EXTINF:0 tvg-id="GemTravel.ir" tvg-name="Gem Travel" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gem-travel-ca.png" group-title="Entertainment" ,Gem Travel
 https://stream-cdn.gemonline.tv/live/gemtravel/index.m3u8
 
-#EXTINF:0 tvg-id="MTC.ir" tvg-name="MTC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ol3HSWB.png" group-title="Entertainment" ,MTC
-http://mellitv.tulix.tv/mellitv/myStream.sdp/chunklist_w964740685.m3u8
-
 #EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" ,4U TV
 http://116.202.255.113:1935/4utv/livehd/playlist.m3u8
 
@@ -190,9 +178,6 @@ http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 #EXTINF:0 tvg-id="RadioJavan.ir" tvg-name="Radio Javan" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music" ,Radio Javan
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1699797994_b2892000.m3u8
 
-#EXTINF:0 tvg-id="Music1.ir" tvg-name="Music 1" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Music",Music 1
-http://159.69.58.154/music1/music1_tv.m3u8
-
 #EXTINF:0 tvg-id="PokerTV.fr" tvg-name="PokerTV" tvg-country="IR" tvg-language="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/poker-tv-fr.png" group-title="Sports" ,PokerTV
 http://51.210.199.17/hls/stream.m3u8
 
@@ -225,12 +210,6 @@ https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
 
 #EXTINF:0 tvg-id="CanalMotor.no" tvg-name="Canal Motor" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motors-tv-no.png" group-title="Sports" ,Canal Motor
 https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-id="ManotoTV.uk" tvg-name="Manoto +2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dMtTIfb.png" group-title="General",Manoto +2
-http://159.69.58.154/manoto_plus2/manoto2.m3u8
-
-#EXTINF:0 tvg-id="ManotoTV.uk" tvg-name="Manoto +1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/orz65Po.png" group-title="General",Manoto +1
-http://159.69.58.154/manoto_plus1/manoto_plus.m3u8
 
 #EXTINF:0 tvg-id="ManotoTV.uk" tvg-name="Manoto Backup" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/e1pnIr2.png" group-title="General" ,Manoto Backup
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
