@@ -188,13 +188,13 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS09/master_2400.m3u8
 
 #EXTINF:0 tvg-id="NRK1.no" tvg-name="NRK 1" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk1.png" group-title="General" ,NRK1
-https://nrk-nrk1.akamaized.net/21/1/hls/nrk_1/1955020115-123787468-prog_index.m3u8
+https://nrk-live-no.telenorcdn.net/21/0/hls/nrk_1/1955020115-123787468-prog_index.m3u8
 
 #EXTINF:0 tvg-id="NRK2.no" tvg-name="NRK 2" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk2.png" group-title="General" ,NRK2
-https://nrk-nrk2.akamaized.net/22/1/hls/nrk_2/1955020115-123787468-prog_index.m3u8
+https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/1955020115-123787468-prog_index.m3u8
 
 #EXTINF:0 tvg-id="NRK3.no" tvg-name="NRK 3" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk3.png" group-title="General" ,NRK3
-https://nrk-nrk3.akamaized.net/23/1/hls/nrk_3/1955020115-123787468-prog_index.m3u8
+https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/1955020115-123787468-prog_index.m3u8
 
 #EXTINF:0 tvg-id="frikanalen.no" tvg-name="frikanalen" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://i.imgur.com/EsdDAud.png" group-title="General",frikanalen
 https://frikanalen.no/stream/stream_1.m3u8
