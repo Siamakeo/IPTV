@@ -196,8 +196,8 @@ https://nrk-nrk2.akamaized.net/22/1/hls/nrk_2/1955020115-123787468-prog_index.m3
 #EXTINF:0 tvg-id="NRK3.no" tvg-name="NRK 3" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk3.png" group-title="General" ,NRK3
 https://nrk-nrk3.akamaized.net/23/1/hls/nrk_3/1955020115-123787468-prog_index.m3u8
 
-#EXTINF:0 tvg-id="tvh.no" tvg-name="TV Haugaland" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://i.imgur.com/lHDz1bm.png" group-title="Entertainment",TV Haugaland
-https://900c544ac47302fffd7d3f12b4c745fd-httpcache0-90216-cachelive0.dna.ip-only.net/90216-cachelive0/smil:APPLETV/chunklist_b2372000.m3u8
+#EXTINF:0 tvg-id="tvh.no" tvg-name="frikanalen" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://i.imgur.com/lHDz1bm.png" group-title="General",frikanalen
+https://frikanalen.no/stream/stream_1.m3u8
 
 #EXTINF:0 tvg-id="tv2.no" tvg-name="tv2 - Nyhetsstrømmen" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://i.imgur.com/horCLMX.jpg" group-title="News",tv2 - Nyhetsstrømmen
 https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
