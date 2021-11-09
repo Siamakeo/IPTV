@@ -187,21 +187,6 @@ http://51.210.199.17/hls/stream.m3u8
 #EXTINF:0 tvg-id="DubaiOne.ae" tvg-name="Dubai One" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Movies" ,Dubai one
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
-#EXTINF:0 tvg-id="MBC2.ae" tvg-name="MBC 2" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="Movies" ,mbc 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8
-
-#EXTINF:0 tvg-id="MBCMAX.ae" tvg-name="MBC MAX" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://i.imgur.com/X4iT4EU.png" group-title="Movies" ,mbc MAX
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
-
-#EXTINF:0 tvg-id="MBCAction.ae" tvg-name="MBC Action" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" group-title="Movies" ,mbc Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="&Flix TV " tvg-country="INDIA" tvg-language="English" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="Movies" ,&Flix TV
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="&privé HD " tvg-country="INDIA" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Movies" ,&privé HD
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 tvg-id="MTV.no" tvg-name="MTV Nordic" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" group-title="Music" ,MTV Nordic
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS09/master_2400.m3u8
 
