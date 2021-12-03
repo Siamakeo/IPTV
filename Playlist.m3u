@@ -79,14 +79,8 @@ https://11778-1.b.cdn13.com/onetvpersia001.m3u8?bandwidth=3196&playlistlength=5&
 #EXTINF:0 tvg-id="" tvg-name="Prima TV 1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prima.png" group-title="Movies" ,Prima TV 1
 http://51.210.199.40/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="EkranMovie.ir" tvg-name="Ekran Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.glwiz.com/Pages/HomePage/Images/PERSIAN/LiveTV-03-PER.png" group-title="Movies",Ekran Movie
-http://159.69.58.154/ekran/ekrantv.m3u8
-
 #EXTINF:0 tvg-id="Tapesh2Movies.ir" tvg-name="Tapesh 2 Movies" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tapesh-2-movies-us.png" group-title="Movies",Tapesh 2 Movies
 http://159.69.58.154/t2_movies/master.m3u8
-
-#EXTINF:0 tvg-id="FarazTV.ir" tvg-name="Faraz TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://faraztv.net/icon.png" group-title="Movies",Faraz TV
-https://faraztv.net/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="FXTV.ir" tvg-name="FX TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx-tv.png" group-title="Movies" ,FX TV
 http://51.210.199.52/hls/stream.m3u8
