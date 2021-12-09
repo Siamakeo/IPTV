@@ -7,9 +7,6 @@ https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 #EXTINF:0 tvg-id="24BOXTV.ir" tvg-name="24 BOX TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/num/24box.png"  group-title="Movies" ,24 BOX TV
 https://hls.247box.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="BazmeAsheghan.nl" tvg-name="Bazme Asheghan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/sm/bazme-asheghan-tv.jpg" group-title="Movies" ,Bazme Asheghan TV
-https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist_w1509848615.m3u8
-
 #EXTINF:0 tvg-id="AVAFamily.ir" tvg-name="AVA Family" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-family.png" group-title="Movies" ,AVA Family
 http://51.210.199.5/hls/stream.m3u8
 
@@ -72,9 +69,6 @@ http://51.210.199.33/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Iran Cinama" tvg-country="IR" tvg-language="Persian" tvg-logo="https://w7.pngwing.com/pngs/735/182/png-transparent-film-cinema-logo-graphy-others-angle-text-photography.png" group-title="Movies" ,Iran Cinema TV
 http://51.210.199.57/hls/stream.m3u8
-
-#EXTINF:0 tvg-id="1TvPersian.ir" tvg-name="1TvPersian" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/1tv-persian.png" group-title="Entertainment",1TvPersian
-https://11778-1.b.cdn13.com/onetvpersia001.m3u8?bandwidth=3196&playlistlength=5&shift=0&v=2
 
 #EXTINF:0 tvg-id="" tvg-name="Prima TV 1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prima.png" group-title="Movies" ,Prima TV 1
 http://51.210.199.40/hls/stream.m3u8
