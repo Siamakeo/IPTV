@@ -73,9 +73,6 @@ http://51.210.199.57/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Prima TV 1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prima.png" group-title="Movies" ,Prima TV 1
 http://51.210.199.40/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="Tapesh2Movies.ir" tvg-name="Tapesh 2 Movies" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tapesh-2-movies-us.png" group-title="Movies",Tapesh 2 Movies
-http://159.69.58.154/t2_movies/master.m3u8
-
 #EXTINF:0 tvg-id="FXTV.ir" tvg-name="FX TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx-tv.png" group-title="Movies" ,FX TV
 http://51.210.199.52/hls/stream.m3u8
 
@@ -169,9 +166,6 @@ https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1699797994_b2892000.m3
 #EXTINF:0 tvg-id="PokerTV.fr" tvg-name="PokerTV" tvg-country="IR" tvg-language="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/poker-tv-fr.png" group-title="Sports" ,PokerTV
 http://51.210.199.17/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="DubaiOne.ae" tvg-name="Dubai One" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="Movies" ,Dubai one
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-
 #EXTINF:0 tvg-id="MTV.no" tvg-name="MTV Nordic" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" group-title="Music" ,MTV Nordic
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS09/master_2400.m3u8
 
@@ -185,7 +179,7 @@ https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/1955020115-123787468-prog_index.m3
 https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/1955020115-123787468-prog_index.m3u8
 
 #EXTINF:0 tvg-id="frikanalen.no" tvg-name="frikanalen" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://i.imgur.com/EsdDAud.png" group-title="General",frikanalen
-https://frikanalen.no/stream/stream_1.m3u8
+https://frikanalen.no/stream/stream_2.m3u8
 
 #EXTINF:0 tvg-id="tv2.no" tvg-name="tv2 - Nyhetsstrømmen" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://i.imgur.com/horCLMX.jpg" group-title="News",tv2 - Nyhetsstrømmen
 https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
