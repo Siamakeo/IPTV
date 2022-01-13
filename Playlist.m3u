@@ -163,9 +163,6 @@ http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 #EXTINF:0 tvg-id="RadioJavan.ir" tvg-name="Radio Javan" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music" ,Radio Javan
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1699797994_b2892000.m3u8
 
-#EXTINF:0 tvg-id="PokerTV.fr" tvg-name="PokerTV" tvg-country="IR" tvg-language="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/poker-tv-fr.png" group-title="Sports" ,PokerTV
-http://51.210.199.17/hls/stream.m3u8
-
 #EXTINF:0 tvg-id="MTV.no" tvg-name="MTV Nordic" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" group-title="Music" ,MTV Nordic
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS09/master_2400.m3u8
 
