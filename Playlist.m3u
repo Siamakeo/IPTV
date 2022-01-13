@@ -67,7 +67,7 @@ http://51.210.199.30/hls/stream.m3u8
 #EXTINF:0 tvg-id="maahtv.ir" tvg-name="maahtv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/maah-tv-my.png" group-title="Movies" ,maahtv
 http://51.210.199.33/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Iran Cinama" tvg-country="IR" tvg-language="Persian" tvg-logo="https://w7.pngwing.com/pngs/735/182/png-transparent-film-cinema-logo-graphy-others-angle-text-photography.png" group-title="Movies" ,Iran Cinema TV
+#EXTINF:0 tvg-id="" tvg-name="Iran Beauty" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/iran-beauty.png" group-title="Movies" ,Iran Beauty TV
 http://51.210.199.57/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Prima TV 1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prima.png" group-title="Movies" ,Prima TV 1
