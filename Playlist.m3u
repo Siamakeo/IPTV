@@ -47,7 +47,7 @@ http://51.210.199.26/hls/stream.m3u8
 http://51.210.199.28/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="My Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-movie.png" group-title="Series" ,My Movie
-http://51.210.199.13/hls/stream.m3u8
+http://51.254.225.25/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="SL1.ir" tvg-name="SL1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-1.png" group-title="Movies" ,SL1
 http://51.210.199.3/hls/stream.m3u8
@@ -77,7 +77,7 @@ http://51.210.199.40/hls/stream.m3u8
 http://51.210.199.52/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="Oxir TV" tvg-name="Oxir TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oxir.png" group-title="Movies" ,Oxir TV
-http://51.210.199.36/hls/stream.m3u8
+http://51.254.225.26/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Didar TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/didar-global-tv-us.png" group-title="Movies" ,Didar TV
 http://51.210.227.132/hls/stream.m3u8
