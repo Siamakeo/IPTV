@@ -82,6 +82,9 @@ http://51.254.225.26/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Didar TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/didar-global-tv-us.png" group-title="Movies" ,Didar TV
 http://51.210.227.132/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="Movie Box" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie-box.png" group-title="Movies" ,Movie Box
+http://51.210.227.150/hls/stream.m3u8
+
 #EXTINF:0 tvg-id="PersianFilm.ir" tvg-name="Persian Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persian-film.png" group-title="Movies" ,Persian Film
 http://51.210.227.135/hls/stream.m3u8
 
@@ -114,9 +117,6 @@ https://stream-live.gemonline.tv/live/rubix/index.m3u8
 
 #EXTINF:0 tvg-id="GemBollywood.ir" tvg-name="Gem Bollywood" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemBollywood.png" group-title="Series" ,Gem Bollywood
 https://stream-live.gemonline.tv/live/gembollywood/index.m3u8
-
-#EXTINF:0 tvg-id="GemLife.ir" tvg-name="Gem Life" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemLife.png" group-title="Entertainment" ,Gem Life
-https://stream-live.gemonline.tv/live/gemlife/index.m3u8
 
 #EXTINF:0 tvg-id="GemFood.ir" tvg-name="Gem Food" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemFood.png" group-title="Food" ,Gem Food
 https://stream-live.gemonline.tv/live/gemfood/index.m3u8
