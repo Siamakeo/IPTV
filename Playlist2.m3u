@@ -12,13 +12,13 @@ https://live-par-2.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ontodaytv.com" tvg-name="on today tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/today-tv-us.png" group-title="Moveies", On Today TV-
 https://59d39900ebfb8.streamlock.net/8418/8418/chunklist_w2142775808.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="TV" , Kanal Jadid-
+#EXTINF:0 tvg-logo="" group-title="General" , Kanal Jadid-
 https://livestream.5centscdn.com/newchanneltv/5109ae2a94843b2b333b0a188d5d517f.sdp/chunks.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="TV" , Javanan TV-
+#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/javanan.png" group-title="General" , Javanan TV-
 https://nl2.livekadeh.com/hls2/javanantv_src.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="TV" , Asre Emrooz
+#EXTINF:0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-asre-emrooz-tv-7697-300x225.jpg" group-title="General" , Asre Emrooz-
 https://2nbyjjx7y53k-hls-live.5centscdn.com/cls041017/5c3c8d0acf4b1b1ddb8819f851d7b192.sdp/chunks.m3u8
 
 #EXTINF:0 tvg-id="negahtv.com" tvg-name="Negah tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dFOwxf3.png" group-title="Entertainment", Negah TV
