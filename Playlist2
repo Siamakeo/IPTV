@@ -1,0 +1,36 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="parsilandtv.com" tvg-name="Parsiland tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/sAGo6Pd.png" group-title="Entertainment", Parsiland TV
+http://vps.parsiland.net/hls/ParsiLand.m3u8
+
+#EXTINF:0 tvg-id="live.icc.bz" tvg-name="ICC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/VaZxk65.jpg" group-title="Movies", ICC HD
+https://mn-nl.mncdn.com/ezcdn-nownews/live_1/chunklist.m3u8
+
+#EXTINF:0 tvg-id="khatereh.online" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/khatereh-tv-de.png" group-title="Entertainment", Khatereh TV
+https://live-par-2.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ontodaytv.com" tvg-name="on today tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/sAGo6Pd.png" group-title="Moveies", On Today TV-
+https://59d39900ebfb8.streamlock.net/8418/8418/chunklist_w2142775808.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV" , Kanal Jadid-
+https://livestream.5centscdn.com/newchanneltv/5109ae2a94843b2b333b0a188d5d517f.sdp/chunks.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV" , Javanan TV-
+https://nl2.livekadeh.com/hls2/javanantv_src.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="TV" , Asre Emrooz
+https://2nbyjjx7y53k-hls-live.5centscdn.com/cls041017/5c3c8d0acf4b1b1ddb8819f851d7b192.sdp/chunks.m3u8
+
+#EXTINF:0 tvg-id="negahtv.com" tvg-name="Negah tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dFOwxf3.png" group-title="Entertainment", Negah TV
+https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
+
+
+
+#EXTINF:0 tvg-id="manototv.com" tvg-name="Manoto" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/e1pnIr2.png" group-title="General" , Manoto Backup
+https://gintna100.tulix.tv/gin_live/manoto1/3db94f8fd0d0fe9ebe72998f04a9cf6e/62004773/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Cine Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/wWKyJDs.png" group-title="Movies" , Cine Film
+https://gintna100.tulix.tv/gin_live/cine-film/373bfd9cafaf3177812642da39137d99/620047b2/index.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Cine Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Iz8re8Z.png" group-title="Series" , Cine Series
+https://gintna100.tulix.tv/gin_live/cine-series/7f0c5f39cc1a05cbd3a562191d6eb240/62004801/index.m3u8
