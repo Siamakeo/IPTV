@@ -15,7 +15,7 @@ https://live-par-2.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ontodaytv.com" tvg-name="on today tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/today-tv-us.png" group-title="Moveies", On Today TV-
 https://59d39900ebfb8.streamlock.net/8418/8418/chunklist_w2142775808.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="General" , Kanal Jadid-
+#EXTINF:0 tvg-logo="https://i.imgur.com/1nLldWb.png" group-title="General" , Kanal Jadid-
 https://livestream.5centscdn.com/newchanneltv/5109ae2a94843b2b333b0a188d5d517f.sdp/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/javanan.png" group-title="General" , Javanan TV-
