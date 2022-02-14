@@ -24,7 +24,13 @@ https://nl2.livekadeh.com/hls2/javanantv_src.m3u8
 #EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ii/iran-tourism-tv-ir.png" group-title="Entertainment" , Iran Turism TV-
 http://51.210.199.16/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/me-2.png" group-title="Entertainment" , ME2 TV-
+#EXTINF:0 tvg-id="Sepanj.ir" tvg-name="Sepanj" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sepanj.png" group-title="Movies" , Sepanj
+http://51.210.199.30/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Iran Beauty" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/iran-beauty.png" group-title="Music" , Iran Beauty TV
+http://51.210.199.57/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Movie24" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/UxA3XVY.png" group-title="Movie" , Movie24
 http://51.210.227.151/hls/stream.m3u8
 
 #EXTINF:0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-asre-emrooz-tv-7697-300x225.jpg" group-title="General" , Asre Emrooz-
