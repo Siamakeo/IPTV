@@ -91,7 +91,7 @@ http://51.210.227.135/hls/stream.m3u8
 #EXTINF:0 tvg-id="negahtv.com" tvg-name="Negah tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dFOwxf3.png" group-title="Entertainment", Negah TV
 https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
 
-#EXTINF:0 tvg-id="rtimetv.com" tvg-name="Negah tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ipZBJ3w.jpg" group-title="Entertainment", Royal Time TV
+#EXTINF:0 tvg-id="rtimetv.com" tvg-name="Royal Time TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ipZBJ3w.jpg" group-title="Entertainment", Royal Time TV
 https://iptv.rtimetv.com/rtimetv/playlist1/index.m3u8
 
 #EXTINF:0 tvg-id="AMG.ir" tvg-name="AMG" tvg-country="IR" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-2335.jpg" group-title="Movies" , AMG
