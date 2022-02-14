@@ -61,14 +61,14 @@ http://51.210.199.8/hls/stream.m3u8
 #EXTINF:0 tvg-id="VOX2.ir" tvg-name="VOX2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-2.png" group-title="Movies" , VOX2
 http://51.210.199.9/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="Sepanj.ir" tvg-name="Sepanj" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sepanj.png" group-title="Movies" , Sepanj
+#EXTINF:0 tvg-id="" tvg-name="ME2 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sepanj.png" group-title="Entertainment" , ME2 TV
 http://51.210.199.30/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="maahtv.ir" tvg-name="maahtv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/maah-tv-my.png" group-title="Movies" , maahtv
 http://51.210.199.33/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Iran Beauty" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/iran-beauty.png" group-title="Music" , Iran Beauty TV
-http://51.210.199.57/hls/stream.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Movie24" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/UxA3XVY.png" group-title="Movie" , Movie24
+http://51.210.227.151/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Prima TV 1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prima.png" group-title="Movies" , Prima TV 1
 http://51.210.199.40/hls/stream.m3u8
@@ -88,8 +88,17 @@ http://51.210.227.150/hls/stream.m3u8
 #EXTINF:0 tvg-id="PersianFilm.ir" tvg-name="Persian Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persian-film.png" group-title="Movies" , Persian Film
 http://51.210.227.135/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="negahtv.com" tvg-name="Negah tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dFOwxf3.png" group-title="Entertainment", Negah TV
+https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
+
+#EXTINF:0 tvg-id="rtimetv.com" tvg-name="Negah tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ipZBJ3w.jpg" group-title="Entertainment", Royal Time TV
+https://iptv.rtimetv.com/rtimetv/playlist1/index.m3u8
+
 #EXTINF:0 tvg-id="AMG.ir" tvg-name="AMG" tvg-country="IR" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-2335.jpg" group-title="Movies" , AMG
 https://nl.livekadeh.com/hls2/AMG_src.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="ITT" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iran-tourism-tv-ir.png" group-title="Entertainment" , Iran Turism TV
+http://51.210.199.16/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="GemFilm.ir" tvg-name="Gem Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemFilm.png" group-title="Movies" , Gem Film
 https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
