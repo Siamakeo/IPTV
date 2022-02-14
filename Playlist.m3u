@@ -100,6 +100,15 @@ https://nl.livekadeh.com/hls2/AMG_src.m3u8
 #EXTINF:0 tvg-id="" tvg-name="ITT" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iran-tourism-tv-ir.png" group-title="Entertainment" , Iran Turism TV
 http://51.210.199.16/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" , 4U TV
+http://116.202.255.113:1935/4utv/livehd/playlist.m3u8
+
+#EXTINF:0 tvg-id="PBCTapesh.ir" tvg-name="PBC Tapesh" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/BNvZiiu.png" group-title="Entertainment" , PBC Tapesh
+http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
+
+#EXTINF:0 tvg-id="YourTime.ir" tvg-name="YourTime" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="Entertainment" , YourTime
+https://hls.yourtime.live/hls/stream.m3u8
+
 #EXTINF:0 tvg-id="GemFilm.ir" tvg-name="Gem Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemFilm.png" group-title="Movies" , Gem Film
 https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
 
@@ -132,15 +141,6 @@ https://stream-live.gemonline.tv/live/gemfood/index.m3u8
 
 #EXTINF:0 tvg-id="GemTravel.ir" tvg-name="Gem Travel" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemTravel.png" group-title="Entertainment" , Gem Travel
 https://stream-live.gemonline.tv/live/gemtravel/index.m3u8
-
-#EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" , 4U TV
-http://116.202.255.113:1935/4utv/livehd/playlist.m3u8
-
-#EXTINF:0 tvg-id="PBCTapesh.ir" tvg-name="PBC Tapesh" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/BNvZiiu.png" group-title="Entertainment" , PBC Tapesh
-http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
-
-#EXTINF:0 tvg-id="YourTime.ir" tvg-name="YourTime" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="Entertainment" , YourTime
-https://hls.yourtime.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="Iraninternational.uk" tvg-name="Iraninternational" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/6qeC6rI.png" group-title="News" , Iraninternational
 https://live.playstop.me/LS-63503-4/chunklist_b2796000.m3u8
