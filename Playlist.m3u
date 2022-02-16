@@ -97,9 +97,6 @@ https://iptv.rtimetv.com/rtimetv/playlist1/index.m3u8
 #EXTINF:0 tvg-id="AMG.ir" tvg-name="AMG" tvg-country="IR" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-2335.jpg" group-title="Movies" , AMG
 https://nl.livekadeh.com/hls2/AMG_src.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="ITT" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iran-tourism-tv-ir.png" group-title="Entertainment" , Iran Turism TV
-http://51.210.199.16/hls/stream.m3u8
-
 #EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" , 4U TV
 http://116.202.255.113:1935/4utv/livehd/playlist.m3u8
 
