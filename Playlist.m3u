@@ -109,6 +109,9 @@ https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="live.icc.bz" tvg-name="ICC+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/VaZxk65.jpg" group-title="Movies", ICC+
 https://infigroup.co:3243/live/icctvlive.m3u8
 
+#EXTINF:0 tvg-id="khatereh.online" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/khatereh-tv-de.png" group-title="Entertainment", Khatereh TV
+https://live-par-2.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 tvg-id="GemFilm.ir" tvg-name="Gem Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemFilm.png" group-title="Movies" , Gem Film
 https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
 
