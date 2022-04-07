@@ -190,7 +190,7 @@ https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/1955020115-123787468-prog_index.m3
 #EXTINF:0 tvg-id="tv2.no" tvg-name="tv2 - Nyhetsstrømmen" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://i.imgur.com/horCLMX.jpg" group-title="News", tv2 - Nyhetsstrømmen
 https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="EURONEWS ENGLISH" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="News", EURONEWS ENGLISH
+#EXTINF:0 tvg-id="" tvg-name="EURONEWS ENGLISH" tvg-country="NO" tvg-language="ENGLISH" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="News", EURONEWS ENGLISH
 https://rakuten-euronews-1-no.samsung.wurl.com/manifest/00652820d6946952c6e3002b0e720fff.m3u8
 
 #EXTINF:0 tvg-id="CanalMotor.no" tvg-name="Canal Motor" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motors-tv-no.png" group-title="Sports" , Canal Motor
