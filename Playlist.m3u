@@ -94,6 +94,9 @@ https://nl.livekadeh.com/hls2/AMG_src.m3u8
 #EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" , 4U TV
 http://51.210.227.153/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="Farsi TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/KdcHNrV.png" group-title="Entertainment" , Farsi TV
+
+
 #EXTINF:0 tvg-id="PBCTapesh.ir" tvg-name="PBC Tapesh" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/BNvZiiu.png" group-title="Entertainment" , PBC Tapesh
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
@@ -146,7 +149,7 @@ https://live.playstop.me/LS-63503-4/chunklist_b2796000.m3u8
 http://51.210.199.46/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="ir.voanews.com" tvg-name="VOA PNN" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dBoqyM4.png" group-title="News" , VOA PNN
-https://voa-lh.akamaihd.net/i/voapnn_7@72817/index_1080_av-p.m3u8
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_1080/chunklist.m3u8
 
 #EXTINF:0 tvg-id="RadioFarda.ir" tvg-name="RadioFarda" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/c9ULtK3.png" group-title="News" , RadioFarda
 http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
