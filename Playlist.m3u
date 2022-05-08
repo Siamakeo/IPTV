@@ -55,6 +55,9 @@ http://51.210.199.8/hls/stream.m3u8
 #EXTINF:0 tvg-id="VOX2.ir" tvg-name="VOX2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-2.png" group-title="Movies" , VOX2
 http://51.210.199.9/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="Movie24" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/UxA3XVY.png" group-title="Movie" , Movie24
+http://51.210.227.136/hls/stream.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="ME2 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/me-2.png" group-title="Entertainment" , ME2 TV
 http://51.210.199.30/hls/stream.m3u8
 
