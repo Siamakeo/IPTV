@@ -54,3 +54,9 @@ https://gintna100.tulix.tv/gin_live/cine-series/199b344061c62d6f6ab6d7fd2e28c0f4
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/1got65a.jpg" group-title="Entertainment" , TV Vest Rogaland
 https://live01.delivery.twentythree.com/live/amlst:kq6hqv3efphvijcgdl8639r208:11596818-d53ea5a866639438de94.mp4/chunklist_b2128000.m3u8
+
+#EXTINF:0 tvg-id="GemClassic.ir" tvg-name="Gem Classic" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/9KzCokk.png" group-title="Series" , Gem Classic
+https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
+
+#EXTINF:0 tvg-id="RadioFarda.ir" tvg-name="RadioFarda" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/c9ULtK3.png" group-title="News" , RadioFarda
+http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
