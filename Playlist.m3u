@@ -118,9 +118,6 @@ https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
 #EXTINF:0 tvg-id="GemMaxx.ir" tvg-name="Gem Maxx" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemMaxx.png" group-title="Movies" , Gem Maxx
 https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8
 
-#EXTINF:0 tvg-id="GemClassic.ir" tvg-name="Gem Classic" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/9KzCokk.png" group-title="Series" , Gem Classic
-https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
-
 #EXTINF:0 tvg-id="GemDrama+.ir" tvg-name="Gem Drama" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemDrama.png" group-title="Series" , Gem Drama
 https://stream-live.gemonline.tv/live/gemdrama/index.m3u8
 
@@ -153,9 +150,6 @@ http://51.210.199.46/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="ir.voanews.com" tvg-name="VOA PNN" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dBoqyM4.png" group-title="News" , VOA PNN
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_1080/chunklist.m3u8
-
-#EXTINF:0 tvg-id="RadioFarda.ir" tvg-name="RadioFarda" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/c9ULtK3.png" group-title="News" , RadioFarda
-http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
 
 #EXTINF:0 tvg-id="Navahang.ir" tvg-name="Navahang" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/navahang.png" group-title="Music" , Navahang
 http://51.210.227.130/hls/stream.m3u8
