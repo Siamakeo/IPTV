@@ -104,7 +104,8 @@ https://live.farsitv.de/live/stream_1080p/index.m3u8
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
 #EXTINF:0 tvg-id="YourTime.ir" tvg-name="YourTime" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="Entertainment" , YourTime
-https://hls.yourtime.live/hls/stream.m3u8
+http://51.210.227.157/hls/stream.m3u8
+
 
 #EXTINF:0 tvg-id="live.icc.bz" tvg-name="ICC+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/VaZxk65.jpg" group-title="Movies", ICC+
 https://infigroup.co:3243/live/icctvlive.m3u8
