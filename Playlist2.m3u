@@ -60,3 +60,9 @@ https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
 
 #EXTINF:0 tvg-id="RadioFarda.ir" tvg-name="RadioFarda" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/c9ULtK3.png" group-title="News" , RadioFarda
 http://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+
+#EXTINF:0 tvg-id="YourTime.ir" tvg-name="YourTime" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="Entertainment" , YourTime
+https://hls.yourtime.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="HIGHVISION" tvg-country="IR" tvg-language="Persian" tvg-logo="https://highvision.tv/wp-content/uploads/2018/11/0001.jpg" group-title="Entertainment" ,HIGHVISION
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
