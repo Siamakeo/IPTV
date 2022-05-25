@@ -106,6 +106,8 @@ http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 #EXTINF:0 tvg-id="YourTime.ir" tvg-name="YourTime" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="Entertainment" , YourTime
 http://51.210.227.157/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="HIGHVISION" tvg-country="IR" tvg-language="Persian" tvg-logo="https://highvision.tv/wp-content/uploads/2018/11/0001.jpg" group-title="Entertainment" ,HIGHVISION
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="live.icc.bz" tvg-name="ICC+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/VaZxk65.jpg" group-title="Movies", ICC+
 https://infigroup.co:3243/live/icctvlive.m3u8
