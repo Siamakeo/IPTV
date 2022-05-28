@@ -22,6 +22,9 @@ http://51.210.199.14/hls/stream.m3u8
 #EXTINF:0 tvg-id="PersianaCINEMA.fr" tvg-name="Persiana CINEMA" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-cinema-fr.png" group-title="Movies" , Persiana CINEMA
 http://51.210.199.15/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="PersianaCINEMA.fr" tvg-name="Persiana HD" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-hd-fr.png" group-title="Movies" , Persiana HD
+http://51.210.227.147/hls/stream.m3u8
+
 #EXTINF:0 tvg-id="Persiana1.fr" tvg-name="Persiana ONE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-1-fr.png" group-title="Movies" , Persiana 1
 http://51.210.199.21/hls/stream.m3u8
 
@@ -110,7 +113,7 @@ https://hls.yourtime.live/hls/stream.m3u8
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="live.icc.bz" tvg-name="ICC+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/VaZxk65.jpg" group-title="Movies", ICC+
-https://infigroup.co:3243/live/icctvlive.m3u8
+http://51.210.227.156/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="khatereh.online" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/khatereh-tv-de.png" group-title="Entertainment", Khatereh TV
 https://live-par-2.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8
