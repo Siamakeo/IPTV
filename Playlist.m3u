@@ -37,7 +37,7 @@ http://51.210.199.22/hls/stream.m3u8
 #EXTINF:0 tvg-id="PersianaFAMILY.fr" tvg-name="Persiana FAMILY" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-family-fr.png" group-title="Series" , Persiana FAMILY
 http://51.210.199.19/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Drama TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/drama.png" group-title="Movies" , Drama TV
+#EXTINF:0 tvg-id="" tvg-name="Drama TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://telemetr.io/fa/channels/1567190961/photo.jpeg" group-title="Movies" , Drama TV
 http://51.210.199.26/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="parsilandtv.com" tvg-name="Parsiland tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/sAGo6Pd.png" group-title="Entertainment", Parsiland TV
