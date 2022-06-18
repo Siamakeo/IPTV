@@ -66,3 +66,16 @@ https://hls.yourtime.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="HIGHVISION" tvg-country="IR" tvg-language="Persian" tvg-logo="https://highvision.tv/wp-content/uploads/2018/11/0001.jpg" group-title="Entertainment" ,HIGHVISION
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Drama TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://telemetr.io/fa/channels/1567190961/photo.jpeg" group-title="Movies" , Drama TV
+http://51.210.199.26/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Grand Cinema" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/lYXBSkJ.png" group-title="Movies" , Grand Cinema
+http://51.210.227.150/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Grand Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/QJqsLPQ.jpg" group-title="Series" , Grand Series
+http://51.210.227.160/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Persian Science Network" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Science" , Persian Science Network
+http://51.210.227.161/hls/stream.m3u8
+
