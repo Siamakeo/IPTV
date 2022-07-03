@@ -97,11 +97,8 @@ https://iptv.rtimetv.com/rtimetv/playlist1/index.m3u8
 #EXTINF:0 tvg-id="AMG.ir" tvg-name="AMG" tvg-country="IR" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-2335.jpg" group-title="Movies" , AMG
 https://nl.livekadeh.com/hls2/AMG_src.m3u8
 
-#EXTINF:0 tvg-id="ontodaytv.com" tvg-name="on today tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/today-tv-us.png" group-title="Moveies", On Today TV-
+#EXTINF:0 tvg-id="ontodaytv.com" tvg-name="on today tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/today-tv-us.png" group-title="Moveies", On Today TV
 http://51.210.227.162/hls/stream.m3u8
-
-#EXTINF:0 tvg-id="PBCTapesh.ir" tvg-name="PBC Tapesh" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/BNvZiiu.png" group-title="Entertainment" , PBC Tapesh
-http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
 #EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" , 4U TV
 http://51.210.227.153/hls/stream.m3u8
@@ -115,7 +112,7 @@ https://live-par-2.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="YourTime.ir" tvg-name="YourTime" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="Entertainment" , YourTime
 https://hls.yourtime.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-asre-emrooz-tv-7697-300x225.jpg" group-title="General" , Asre Emrooz-
+#EXTINF:0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-asre-emrooz-tv-7697-300x225.jpg" group-title="General" , Asre Emrooz
 https://2nbyjjx7y53k-hls-live.5centscdn.com/cls041017/5c3c8d0acf4b1b1ddb8819f851d7b192.sdp/chunks.m3u8
 
 #EXTINF:0 tvg-id="GemFilm.ir" tvg-name="Gem Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemFilm.png" group-title="Movies" , Gem Film
