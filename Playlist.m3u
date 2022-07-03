@@ -43,12 +43,6 @@ http://51.210.199.22/hls/stream.m3u8
 #EXTINF:0 tvg-id="PersianaFAMILY.fr" tvg-name="Persiana FAMILY" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-family-fr.png" group-title="Series" , Persiana FAMILY
 http://51.210.199.19/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="parsilandtv.com" tvg-name="Parsiland tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/sAGo6Pd.png" group-title="Entertainment", Parsiland TV
-http://vps.parsiland.net/hls/ParsiLand.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="My Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-movie.png" group-title="Movies" , My Movie
-http://51.254.225.25/hls/stream.m3u8
-
 #EXTINF:0 tvg-id="SL1.ir" tvg-name="SL1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-1.png" group-title="Movies" , SL1
 http://51.210.199.3/hls/stream.m3u8
 
