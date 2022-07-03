@@ -30,6 +30,9 @@ http://51.210.199.30/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Iran Beauty" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/iran-beauty.png" group-title="Music" , Iran Beauty TV
 http://51.210.199.57/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="My Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/my-movie.png" group-title="Movies" , My Movie
+http://51.254.225.25/hls/stream.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="Movie24" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/UxA3XVY.png" group-title="Movie" , Movie24
 http://51.210.227.151/hls/stream.m3u8
 
