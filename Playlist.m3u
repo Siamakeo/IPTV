@@ -82,7 +82,7 @@ http://51.210.227.135/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Farsi TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/KdcHNrV.png" group-title="Entertainment" , Farsi TV
 https://live.farsitv.de/live/stream_1080p/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="HIGHVISION" tvg-country="IR" tvg-language="Persian" tvg-logo="https://highvision.tv/wp-content/uploads/2018/11/0001.jpg" group-title="Entertainment" ,HIGHVISION
+#EXTINF:0 tvg-id="" tvg-name="HIGHVISION" tvg-country="IR" tvg-language="Persian" tvg-logo="https://highvision.tv/wp-content/uploads/2018/11/0001.jpg" group-title="Entertainment" , HIGHVISION
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="live.icc.bz" tvg-name="ICC+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/VaZxk65.jpg" group-title="Movies", ICC+
@@ -97,7 +97,7 @@ https://iptv.rtimetv.com/rtimetv/playlist1/index.m3u8
 #EXTINF:0 tvg-id="AMG.ir" tvg-name="AMG" tvg-country="IR" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-2335.jpg" group-title="Movies" , AMG
 https://nl.livekadeh.com/hls2/AMG_src.m3u8
 
-#EXTINF:0 tvg-id="ontodaytv.com" tvg-name="on today tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/today-tv-us.png" group-title="Moveies", On Today TV
+#EXTINF:0 tvg-id="Todaytv.com" tvg-name="Today TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/today-tv-us.png" group-title="Moveies", Today TV
 http://51.210.227.162/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" , 4U TV
@@ -112,23 +112,26 @@ https://live-par-2.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="YourTime.ir" tvg-name="YourTime" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="Entertainment" , YourTime
 https://hls.yourtime.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-asre-emrooz-tv-7697-300x225.jpg" group-title="General" , Asre Emrooz
+#EXTINF:0 tvg-id="" tvg-name="Asre Emrooz" tvg-country="IR" tvg-language="Persian" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-asre-emrooz-tv-7697-300x225.jpg" group-title="General" , Asre Emrooz
 https://2nbyjjx7y53k-hls-live.5centscdn.com/cls041017/5c3c8d0acf4b1b1ddb8819f851d7b192.sdp/chunks.m3u8
 
 #EXTINF:0 tvg-id="GemFilm.ir" tvg-name="Gem Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemFilm.png" group-title="Movies" , Gem Film
 https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
+
+#EXTINF:0 tvg-id="GemTV.ir" tvg-name="Gem TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemTv.png" group-title="Series" , Gem TV
+https://stream-live.gemonline.tv/live/gem/index.m3u8
+
+#EXTINF:0 tvg-id="GemSeries.ir" tvg-name="Gem Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemSeries.png" group-title="Series" , Gem Series
+https://stream-live.gemonline.tv/live/gemseries/index.m3u8
+
+#EXTINF:0 tvg-id="GemClassic.ir" tvg-name="Gem Classic" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/9KzCokk.png" group-title="Series" , Gem Classic
+https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
 
 #EXTINF:0 tvg-id="GemMaxx.ir" tvg-name="Gem Maxx" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemMaxx.png" group-title="Movies" , Gem Maxx
 https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8
 
 #EXTINF:0 tvg-id="GemDrama+.ir" tvg-name="Gem Drama" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemDrama.png" group-title="Series" , Gem Drama
 https://stream-live.gemonline.tv/live/gemdrama/index.m3u8
-
-#EXTINF:0 tvg-id="GemSeries.ir" tvg-name="Gem Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemSeries.png" group-title="Series" , Gem Series
-https://stream-live.gemonline.tv/live/gemseries/index.m3u8
-
-#EXTINF:0 tvg-id="GemTV.ir" tvg-name="Gem TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemTv.png" group-title="Series" , Gem TV
-https://stream-live.gemonline.tv/live/gem/index.m3u8
 
 #EXTINF:0 tvg-id="GemRiver.ir" tvg-name="Gem River" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XHP60L.png" group-title="Series" , Gem River
 https://stream-live.gemonline.tv/live/river/index.m3u8
