@@ -13,12 +13,6 @@ http://51.210.199.5/hls/stream.m3u8
 #EXTINF:0 tvg-id="AVASeries.ir" tvg-name="AVA Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-series.png" group-title="Series" , AVA Series
 http://51.210.199.4/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Grand Cinema" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/lYXBSkJ.png" group-title="Movies" , Grand Cinema
-http://51.210.227.150/hls/stream.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Grand Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/QJqsLPQ.jpg" group-title="Series" , Grand Series
-http://51.210.227.160/hls/stream.m3u8
-
 #EXTINF:0 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="Entertainment" , MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
