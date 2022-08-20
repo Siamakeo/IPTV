@@ -58,7 +58,7 @@ http://51.210.199.33/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Damac Persian" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/damac-persian-ae.png" group-title="Movie" , Damac Persian
 http://51.210.227.138/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Prima TV 1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prima.png" group-title="Movies" , Prima TV 1
+#EXTINF:0 tvg-id="" tvg-name="Family 24" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prima.png" group-title="Movies" , Family 24
 http://51.210.199.40/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="FXTV.ir" tvg-name="FX TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx-tv.png" group-title="Movies" , FX TV
@@ -144,9 +144,6 @@ https://stream-live.gemonline.tv/live/gemtravel/index.m3u8
 
 #EXTINF:0 tvg-id="Iraninternational.uk" tvg-name="Iraninternational" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/6qeC6rI.png" group-title="News" , Iraninternational
 https://live.playstop.me/LS-63503-4/chunklist_b2796000.m3u8
-
-#EXTINF:0 tvg-id="Iranintl.radio.uk" tvg-name="Iranintl.radio" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/radio/ii/iran-international-radio-uk.png" group-title="News" , Iranintl.radio
-http://51.210.199.46/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="ir.voanews.com" tvg-name="VOA PNN" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dBoqyM4.png" group-title="News" , VOA PNN
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_1080/chunklist.m3u8
