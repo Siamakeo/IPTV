@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg =""
+
 
 
 #EXTINF:0 tvg-id="manototv.com" tvg-name="Manoto HD" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment" , Manoto HD
@@ -187,7 +188,7 @@ https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/1955020115-123787468-prog_index.m3
 #EXTINF:0 tvg-id="NRK3.no" tvg-name="NRK 3" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk3.png" group-title="General" , NRK3
 https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/1955020115-123787468-prog_index.m3u8
 
-#EXTINF:0 tvg-id="tv2.no" tvg-name="tv2 - Nyhetsstrømmen" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://i.imgur.com/horCLMX.jpg" group-title="News", tv2 - Nyhetsstrømmen
+#EXTINF:0 tvg-id="TV2Nyhetskanalen.no" tvg-name="TV 2 Nyhetskanalen" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://i.imgur.com/horCLMX.jpg" group-title="News", TV 2 Nyhetskanalen
 https://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="EURONEWS ENGLISH" tvg-country="NO" tvg-language="ENGLISH" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="News", EURONEWS ENGLISH
