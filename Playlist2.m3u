@@ -97,4 +97,7 @@ http://51.210.199.40/hls/stream.m3u8
 #EXTINF:0 tvg-id="Iranintl.radio.uk" tvg-name="Iranintl.radio" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/radio/ii/iran-international-radio-uk.png" group-title="News" , Iranintl.radio
 http://51.210.199.46/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="T2TV.ir" tvg-name="Tapesh 2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-tapesh-2-1413.jpg" group-title="Music" , Tapesh 2
+http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
+
 
