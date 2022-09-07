@@ -164,9 +164,6 @@ https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="PMCROYALE.ir" tvg-name="PMC ROYALE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pmc-ae.png" group-title="Music" , PMC ROYALE
 http://51.210.199.29/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="T2TV.ir" tvg-name="Tapesh 2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-tapesh-2-1413.jpg" group-title="Music" , Tapesh 2
-http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
-
 #EXTINF:0 tvg-id="RadioJavan.ir" tvg-name="Radio Javan" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music" , Radio Javan
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1699797994_b2892000.m3u8
 
