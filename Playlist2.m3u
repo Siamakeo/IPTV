@@ -101,3 +101,18 @@ http://51.210.199.46/hls/stream.m3u8
 http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 
 
+#EXTINF:0 tvg-id="VOX2.ir" tvg-name="VOX2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-2.png" group-title="Movies" , VOX2
+http://51.210.199.9/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Didar TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/didar-global-tv-us.png" group-title="Movies" , Didar TV
+http://51.210.227.132/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Asre Emrooz" tvg-country="IR" tvg-language="Persian" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-asre-emrooz-tv-7697-300x225.jpg" group-title="General" , Asre Emrooz
+https://2nbyjjx7y53k-hls-live.5centscdn.com/cls041017/5c3c8d0acf4b1b1ddb8819f851d7b192.sdp/chunks.m3u8
+
+#EXTINF:0 tvg-id="EBCMusic.ir" tvg-name="EBC Music" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ebc-music-us.png" group-title="Music" , EBC Music
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+
+#EXTINF:0 tvg-id="Manototv.com" tvg-name="Manoto Backup" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/e1pnIr2.png" group-title="General" , Manoto Backup
+https://dh4wkqcyy8768.cloudfront.net/live_1500.m3u8
+
