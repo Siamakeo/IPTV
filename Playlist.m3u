@@ -9,7 +9,7 @@ https://dh4wkqcyy8768.cloudfront.net/live_2500.m3u8
 https://hls.247box.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="AVAFamily.ir" tvg-name="AVA Family" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-family.png" group-title="Movies" , AVA Family
-http://51.210.199.5/hls/stream.m3u8
+https://familyhls.avatv.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="AVASeries.ir" tvg-name="AVA Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-series.png" group-title="Series" , AVA Series
 http://51.210.199.4/hls/stream.m3u8
@@ -54,7 +54,7 @@ http://51.210.199.30/hls/stream.m3u8
 http://51.210.199.33/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Royal Citizen TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/damac-persian-ae.png" group-title="Movie" , Royal Citizen TV
-http://51.210.227.138/hls/stream.m3u8
+http://51.210.227.166/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Family 24" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family-24.png" group-title="Movies" , Family 24
 http://51.210.199.40/hls/stream.m3u8
@@ -69,7 +69,7 @@ http://51.254.225.26/hls/stream.m3u8
 http://51.210.227.135/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Farsi TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/KdcHNrV.png" group-title="Entertainment" , Farsi TV
-https://live.farsitv.de/live/stream_1080p/index.m3u8
+https://live.farsitv.us/live/stream_1080p/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="HIGHVISION" tvg-country="IR" tvg-language="Persian" tvg-logo="https://highvision.tv/wp-content/uploads/2018/11/0001.jpg" group-title="Entertainment" , HIGHVISION
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
@@ -84,7 +84,7 @@ https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
 https://nl.livekadeh.com/hls2/AMG_src.m3u8
 
 #EXTINF:0 tvg-id="Todaytv.com" tvg-name="Today TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/today-tv-us.png" group-title="Moveies", Today TV
-https://59d39900ebfb8.streamlock.net/8418/8418/chunklist_w769927905.m3u8
+http://51.210.227.162/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" , 4U TV
 http://51.210.227.153/hls/stream.m3u8
