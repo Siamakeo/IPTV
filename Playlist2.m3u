@@ -119,3 +119,7 @@ https://dh4wkqcyy8768.cloudfront.net/live_1500.m3u8
 #EXTINF:0 tvg-id="rtimetv.com" tvg-name="Royal Time TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ipZBJ3w.jpg" group-title="Entertainment", Royal Time TV
 https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/tracks-v1a1/mono.m3u8
 
+#EXTINF:0 tvg-id="negahtv.com" tvg-name="Negah tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dFOwxf3.png" group-title="Entertainment", Negah TV
+https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
+
+
