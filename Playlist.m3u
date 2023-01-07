@@ -53,7 +53,7 @@ http://51.210.199.30/hls/stream.m3u8
 #EXTINF:0 tvg-id="maahtv.ir" tvg-name="maahtv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/maah-tv-my.png" group-title="Movies" , maahtv
 http://51.210.199.33/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Royal Citizen TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/damac-persian-ae.png" group-title="Movie" , Royal Citizen TV
+#EXTINF:0 tvg-id="" tvg-name="Royal Citizen TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/royal-citizen-tv-ae.png" group-title="Movie" , Royal Citizen TV
 http://51.210.227.138/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Family 24" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family-24.png" group-title="Movies" , Family 24
