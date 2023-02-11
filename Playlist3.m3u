@@ -1,1 +1,9 @@
+#EXTM3U url-tvg =""
 
+
+
+#EXTINF:0 tvg-id="PersianaJUNIOR.fr" tvg-name="Persiana JUNIOR" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-junior-fr.png" group-title="Kids" , Persiana JUNIOR
+http://51.210.199.18/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Toonix" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toonix.png" group-title="Kids" , Toonix
+http://51.210.227.134/hls/stream.m3u8
