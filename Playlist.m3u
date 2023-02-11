@@ -47,8 +47,8 @@ http://51.210.199.2/hls/stream.m3u8
 #EXTINF:0 tvg-id="VOX1.ir" tvg-name="VOX1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-1.png" group-title="Movies" , VOX1
 http://51.210.199.8/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="ME2 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/me-2.png" group-title="Entertainment" , ME2 TV
-http://51.210.199.30/hls/stream.m3u8
+#EXTINF:0 tvg-id="" tvg-name="MTC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtc_us.png" group-title="Entertainment" , MTC
+http://51.210.227.128/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="maahtv.ir" tvg-name="maahtv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/maah-tv-my.png" group-title="Movies" , maahtv
 http://51.210.199.33/hls/stream.m3u8
@@ -77,7 +77,7 @@ https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="live.icc.bz" tvg-name="ICC+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/VaZxk65.jpg" group-title="Movies", ICC+
 http://51.210.227.156/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="AMG.ir" tvg-name="AMG" tvg-country="IR" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-2335.jpg" group-title="Movies" , AMG
+#EXTINF:0 tvg-id="AMG.ir" tvg-name="AMG" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Irmmzqi.png" group-title="Movies" , AMG
 https://nl.livekadeh.com/hls2/AMG_src.m3u8
 
 #EXTINF:0 tvg-id="Todaytv.com" tvg-name="Today TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/today-tv-us.png" group-title="Moveies", Today TV
@@ -107,7 +107,7 @@ http://51.210.227.130/hls/stream.m3u8
 #EXTINF:0 tvg-id="Avang.com" tvg-name="Avang" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/avang-tv-us.png" group-title="Music" , Avang
 http://51.210.227.149/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="PMC.ir" tvg-name="PMC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/PMC.png" group-title="Music" , PMC
+#EXTINF:0 tvg-id="PMC.ir" tvg-name="PMC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/YMtKPkF.png" group-title="Music" , PMC
 https://hls.pmchd.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="PMCROYALE.ir" tvg-name="PMC ROYALE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pmc-ae.png" group-title="Music" , PMC ROYALE
