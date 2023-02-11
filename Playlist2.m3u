@@ -155,4 +155,7 @@ https://stream-live.gemonline.tv/live/gemfood/index.m3u8
 #EXTINF:0 tvg-id="GemTravel.ir" tvg-name="Gem Travel" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemTravel.png" group-title="Entertainment" , Gem Travel
 https://stream-live.gemonline.tv/live/gemtravel/index.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="ME2 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/me-2.png" group-title="Entertainment" , ME2 TV
+http://51.210.199.30/hls/stream.m3u8
+
 
