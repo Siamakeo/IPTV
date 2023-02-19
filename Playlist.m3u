@@ -122,7 +122,7 @@ http://51.210.199.20/hls/stream.m3u8
 #EXTINF:0 tvg-id="MTV.no" tvg-name="MTV Nordic" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png" group-title="Music" , MTV Nordic
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
-#EXTINF:0 tvg-id="NRK1.no" tvg-name="NRK 1" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk1.png" group-title="Entertainment" , NRK1
+#EXTINF:0 tvg-id="NRK.no" tvg-name="NRK 1" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk1.png" group-title="Entertainment" , NRK1
 https://httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive0/21/0/hls/nrk_1/1035432803-1026273474-prog_index.m3u8
 
 #EXTINF:0 tvg-id="NRK2.no" tvg-name="NRK 2" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk2.png" group-title="Entertainment" , NRK2
