@@ -158,7 +158,10 @@ https://stream-live.gemonline.tv/live/gemtravel/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="ME2 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/me-2.png" group-title="Entertainment" , ME2 TV
 http://51.210.199.30/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="maahtv.ir" tvg-name="maahtv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/maah-tv-my.png" group-title="Movie" , maahtv
-http://51.210.199.33/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="Todaytv.com" tvg-name="Today TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/today-tv-us.png" group-title="Entertainment", Today TV
+http://51.210.227.162/hls/stream.m3u8
 
 
+#EXTINF:0 tvg-id="" tvg-name="Family 24" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family-24.png" group-title="Movie" , Family 24
+http://51.210.199.15/hls/stream.m3u8
