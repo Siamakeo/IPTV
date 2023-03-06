@@ -12,7 +12,7 @@ https://hls.247box.live/hls/stream.m3u8
 https://familyhls.avatv.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="AVASeries.ir" tvg-name="AVA Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-series.png" group-title="Serie" , AVA Series
-http://51.210.199.4/hls/stream.m3u8
+https://avaserieshls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="Entertainment" , MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
@@ -38,14 +38,20 @@ http://51.210.199.22/hls/stream.m3u8
 #EXTINF:0 tvg-id="PersianaFAMILY.fr" tvg-name="Persiana FAMILY" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-family-fr.png" group-title="Serie" , Persiana FAMILY
 http://51.210.199.19/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="PersianaScince.fr" tvg-name="Persiana Scince" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-science-fr.png" group-title="Scince" , Persiana Scince
+http://51.210.199.26/hls/stream.m3u8
+
 #EXTINF:0 tvg-id="SL1.ir" tvg-name="SL1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-1.png" group-title="Movie" , SL1
-http://51.210.199.3/hls/stream.m3u8
+https://slonehls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="SL2.ir" tvg-name="SL2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-2.png" group-title="Movie" , SL2
-http://51.210.199.2/hls/stream.m3u8
+https://sltwohls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="VOX1.ir" tvg-name="VOX1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-1.png" group-title="Movie" , VOX1
-http://51.210.199.8/hls/stream.m3u8
+https://hls.vox1.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="maahtv.ir" tvg-name="maahtv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/maah-tv-my.png" group-title="Movie" , maahtv
+https://hls.maahtv.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="MTC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtc_us.png" group-title="Entertainment" , MTC
 http://51.210.227.128/hls/stream.m3u8
@@ -53,14 +59,11 @@ http://51.210.227.128/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Royal Citizen TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/royal-citizen-tv-ae.png" group-title="Movie" , Royal Citizen TV
 http://51.210.227.138/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Family 24" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family-24.png" group-title="Movie" , Family 24
-http://51.210.199.15/hls/stream.m3u8
-
 #EXTINF:0 tvg-id="FXTV.ir" tvg-name="FX TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx-tv.png" group-title="Movie" , FX TV
-http://51.210.199.13/hls/stream.m3u8
+https://fxtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="Oxir TV" tvg-name="Oxir TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oxir.png" group-title="Movie" , Oxir TV
-http://51.254.225.26/hls/stream.m3u8
+https://hls.oxir.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="PersianFilm.ir" tvg-name="Persian Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persian-film.png" group-title="Movie" , Persian Film
 http://51.210.227.135/hls/stream.m3u8
@@ -72,19 +75,16 @@ https://live.farsitv.us/live/stream_1080p/index.m3u8
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="live.icc.bz" tvg-name="ICC+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/VaZxk65.jpg" group-title="Movie", ICC+
-http://51.210.227.156/hls/stream.m3u8
+https://icchls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="AMG.ir" tvg-name="AMG" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Irmmzqi.png" group-title="Movie" , AMG
 https://nl.livekadeh.com/hls2/AMG_src.m3u8
 
-#EXTINF:0 tvg-id="Todaytv.com" tvg-name="Today TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/today-tv-us.png" group-title="Entertainment", Today TV
-http://51.210.227.162/hls/stream.m3u8
-
 #EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" , 4U TV
-http://51.210.227.153/hls/stream.m3u8
+https://hls.4utv.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Bravo Farsi" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bravo-tv.png" group-title="Entertainment" , Bravo Farsi
-http://51.210.199.16/hls/stream.m3u8
+https://bravoohls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="khatereh.online" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/khatereh-tv-de.png" group-title="Entertainment", Khatereh TV
 https://live-par-2.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8
@@ -93,13 +93,13 @@ https://live-par-2.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8
 https://hls.yourtime.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="Iraninternational.uk" tvg-name="Iraninternational" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/6qeC6rI.png" group-title="News" , Iraninternational
-https://live.playstop.me/LS-63503-4/chunklist_b2796000.m3u8
+https://live.playstop.me/1816184091/chunklist_b2796000.m3u8
 
 #EXTINF:0 tvg-id="ir.voanews.com" tvg-name="VOA PNN" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dBoqyM4.png" group-title="News" , VOA PNN
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_1080/chunklist.m3u8
 
 #EXTINF:0 tvg-id="Navahang.ir" tvg-name="Navahang" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/navahang.png" group-title="Music" , Navahang
-http://51.210.227.130/hls/stream.m3u8
+https://hls.navahang.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="Avang.com" tvg-name="Avang" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/avang-tv-us.png" group-title="Music" , Avang
 http://51.210.227.149/hls/stream.m3u8
@@ -108,10 +108,10 @@ http://51.210.227.149/hls/stream.m3u8
 https://hls.pmchd.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="PMCROYALE.ir" tvg-name="PMC ROYALE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pmc-ae.png" group-title="Music" , PMC ROYALE
-http://51.210.199.29/hls/stream.m3u8
+https://rohls.pmc.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="RadioJavan.ir" tvg-name="Radio Javan" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music" , Radio Javan
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1699797994_b2892000.m3u8
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w586659670_b2892000.m3u8
 
 #EXTINF:0 tvg-id="PersianaMUSIC.fr" tvg-name="Persiana MUSIC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-music-fr.png" group-title="Music" , Persiana MUSIC
 http://51.210.199.24/hls/stream.m3u8
