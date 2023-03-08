@@ -54,7 +54,7 @@ https://hls.vox1.live/hls/stream.m3u8
 https://hls.maahtv.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="MTC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtc_us.png" group-title="Entertainment" , MTC
-http://51.210.227.128/hls/stream.m3u8
+https://mtchls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Royal Citizen TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/royal-citizen-tv-ae.png" group-title="Movie" , Royal Citizen TV
 http://51.210.227.138/hls/stream.m3u8
@@ -88,6 +88,9 @@ https://bravoohls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="khatereh.online" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/khatereh-tv-de.png" group-title="Entertainment", Khatereh TV
 https://live-par-2.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="Todaytv.com" tvg-name="Today TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/today-tv-us.png" group-title="Entertainment", Today TV
+https://todayhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="YourTime.ir" tvg-name="YourTime" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="Entertainment" , YourTime
 https://hls.yourtime.live/hls/stream.m3u8
@@ -139,7 +142,4 @@ https://rakuten-euronews-1-no.samsung.wurl.com/manifest/00652820d6946952c6e3002b
 
 #EXTINF:0 tvg-id="CanalMotor.no" tvg-name="Canal Motor" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motors-tv-no.png" group-title="Sport" , Canal Motor
 https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-id="PersianaScince.fr" tvg-name="Persiana Scince" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-science-fr.png" group-title="Scince" , Persiana Scince
-http://51.210.199.26/hls/stream.m3u8
 
