@@ -114,7 +114,7 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 https://hls.navahang.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="Avang.com" tvg-name="Avang" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/avang-tv-us.png" group-title="Music" , Avang
-http://51.210.227.149/hls/stream.m3u8
+https://hls.avang.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="PMC.ir" tvg-name="PMC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/YMtKPkF.png" group-title="Music" , PMC
 https://hls.pmchd.live/hls/stream.m3u8
