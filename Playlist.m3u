@@ -56,8 +56,8 @@ https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="SL2.ir" tvg-name="SL2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-2.png" group-title="Movie" , SL2
 https://sltwohls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="VOX1.ir" tvg-name="VOX1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-1.png" group-title="Movie" , VOX1
-https://hls.vox1.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Grand Cinema" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/lYXBSkJ.png" group-title="Movies" , Grand Cinema
+https://gcinemahls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="MaxChannelEntertainment.ir" tvg-name="Max Channel Entertainment" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/max-channel-entertainment.png" group-title="Movie" , Max Channel
 https://maxtvhls.wns.live/hls/stream.m3u8
