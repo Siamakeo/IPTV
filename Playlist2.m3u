@@ -165,3 +165,6 @@ http://51.210.227.162/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Family 24" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family-24.png" group-title="Movie" , Family 24
 http://51.210.199.15/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="VOX1.ir" tvg-name="VOX1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-1.png" group-title="Movie" , VOX1
+https://hls.vox1.live/hls/stream.m3u8
