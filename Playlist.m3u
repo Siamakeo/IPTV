@@ -77,6 +77,9 @@ http://51.210.227.138/hls/stream.m3u8
 #EXTINF:0 tvg-id="FXTV.ir" tvg-name="FX TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx-tv.png" group-title="Movie" , FX TV
 https://fxtvhls.wns.live/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="FX2 tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fx-tv.png" group-title="Movie" , FX" TV
+https://toonixhls.wns.live/hls/stream.m3u8
+
 #EXTINF:0 tvg-id="Oxir TV" tvg-name="Oxir TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oxir.png" group-title="Movie" , Oxir TV
 https://hls.oxir.live/hls/stream.m3u8
 
@@ -157,7 +160,3 @@ https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="PersianaJUNIOR.fr" tvg-name="Persiana JUNIOR" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/M3mnyjo.png" group-title="Kid" , Persiana JUNIOR
 https://persiana-junior.icdndhcp.com/hls/stream.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Toonix tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toonix.png" group-title="Kid" , Toonix TV
-https://toonixhls.wns.live/hls/stream.m3u8
-
