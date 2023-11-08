@@ -59,8 +59,8 @@ https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Grand Cinema" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/lYXBSkJ.png" group-title="Movies" , Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="MaxChannelEntertainment.ir" tvg-name="Max Channel Entertainment" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/max-channel-entertainment.png" group-title="Movie" , Max Channel
-https://maxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="Novin.ir" tvg-name="Max Channel Entertainment" tvg-country="IR" tvg-language="Persian" tvg-logo="https://yt3.googleusercontent.com/57D5OWcKkJmurGk3ZrmYxWHaKKtzS1Qh93G2zqPhlWVuNg8SoTeBoq3TvQ7-pD7iXEW4U2ATYQw=s176-c-k-c0x00ffffff-no-rj" group-title="Movie" , Novin TV
+https://novin-tv.icdndhcp.com/hls/test.m3u8
 
 #EXTINF:0 tvg-id="Metafilm.ir" tvg-name="Metafilm" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/meta-film-tv.png" group-title="Movie" , Metafilm
 https://metafilmhls.wns.live/hls/stream.m3u8
@@ -82,9 +82,6 @@ https://hls.oxir.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="PersianFilm.ir" tvg-name="Persian Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persian-film.png" group-title="Movie" , Persian Film
 https://pfilmhls.wns.live/hls/stream.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="Farsi TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/KdcHNrV.png" group-title="Movie" , Farsi TV
-https://live.farsitv.us/live/stream_1080p/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="HIGHVISION" tvg-country="IR" tvg-language="Persian" tvg-logo="https://highvision.tv/wp-content/uploads/2018/11/0001.jpg" group-title="Entertainment" , HIGHVISION
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
