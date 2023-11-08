@@ -168,3 +168,11 @@ http://51.210.199.15/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="VOX1.ir" tvg-name="VOX1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox-1.png" group-title="Movie" , VOX1
 https://hls.vox1.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="MaxChannelEntertainment.ir" tvg-name="Max Channel Entertainment" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/max-channel-entertainment.png" group-title="Movie" , Max Channel
+https://maxtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Farsi TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/KdcHNrV.png" group-title="Movie" , Farsi TV
+https://live.farsitv.us/live/stream_1080p/index.m3u8
+
+
