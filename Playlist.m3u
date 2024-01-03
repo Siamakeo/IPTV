@@ -113,6 +113,12 @@ https://live-par-2.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="ME2 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/me-2.png" group-title="Entertainment" , ME2 TV
 https://me2hls.wns.live/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="GemTV.ir" tvg-name="Gem TV+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-plus-ca.png" group-title="Series" , Gem TV+
+https://gg.hls2.xyz/live/IR%20-%20GEM%20TV%20Plus/chunks.m3u8
+
+#EXTINF:0 tvg-id="GemTV.ir" tvg-name="Gem Comedy" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem_ae.png" group-title="Series" , Gem Comedy
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Comedy/chunks.m3u8
+
 #EXTINF:0 tvg-id="Todaytv.com" tvg-name="Today TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/today-tv-us.png" group-title="Entertainment", Today TV
 https://todayhls.wns.live/hls/stream.m3u8
 
