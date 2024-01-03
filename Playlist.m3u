@@ -44,8 +44,11 @@ https://irhls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="PersianaFAMILY.fr" tvg-name="Persiana FAMILY" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-family-fr.png" group-title="Serie" , Persiana FAMILY
 https://familyhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="PersianaFAMILY.fr" tvg-name="Persiana TURKIYE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png" group-title="Serie" , Persiana TURKIYE
+#EXTINF:0 tvg-id="" tvg-name="Persiana TURKIYE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png" group-title="Serie" , Persiana TURKIYE
+https://turkhls.persiana.live/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="Persiana 4TURK" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/num/4-turk-fr.png" group-title="Serie" , Persiana 4TURK
+https://turkhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="PersianaScience.fr" tvg-name="Persiana SCIENCE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-science-fr.png" group-title="Science" , Persiana SCIENCE
 https://scihls.persiana.live/hls/stream.m3u8
@@ -62,8 +65,8 @@ https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Grand Cinema" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/lYXBSkJ.png" group-title="Movies" , Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="Novin.ir" tvg-name="Max Channel Entertainment" tvg-country="IR" tvg-language="Persian" tvg-logo="https://yt3.googleusercontent.com/57D5OWcKkJmurGk3ZrmYxWHaKKtzS1Qh93G2zqPhlWVuNg8SoTeBoq3TvQ7-pD7iXEW4U2ATYQw=s176-c-k-c0x00ffffff-no-rj" group-title="Movie" , Novin TV
-https://novin-tv.icdndhcp.com/hls/test.m3u8
+#EXTINF:0 tvg-id="Novin.ir" tvg-name="Novin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , Novin TV
+https://novin-tv.icdndhcp.com/hls/playlist.m3u8
 
 #EXTINF:0 tvg-id="Metafilm.ir" tvg-name="Metafilm" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/meta-film-tv.png" group-title="Movie" , Metafilm
 https://metafilmhls.wns.live/hls/stream.m3u8
@@ -95,8 +98,8 @@ https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="live.icc.bz" tvg-name="ICC+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/VaZxk65.jpg" group-title="Movie", ICC+
 https://icchls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="AMG.ir" tvg-name="AMG" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Irmmzqi.png" group-title="Movie" , AMG
-https://nl.livekadeh.com/hls2/AMG_src.m3u8
+#EXTINF:0 tvg-id="" tvg-name="NAMA TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nama-tv.png" group-title="Movie" , NAMA TV
+https://namahls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" , 4U TV
 https://hls.4utv.live/hls/stream.m3u8
@@ -136,6 +139,9 @@ https://rohls.pmc.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="RadioJavan.ir" tvg-name="Radio Javan" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music" , Radio Javan
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w586659670_b2892000.m3u8
+
+#EXTINF:0 tvg-id="T2TV.ir" tvg-name="Tapesh 2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-tapesh-2-1413.jpg" group-title="Music" , Tapesh 2
+https://t2hls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="PersianaMUSIC.fr" tvg-name="Persiana MUSIC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-music-fr.png" group-title="Music" , Persiana MUSIC
 https://musichls.persiana.live/hls/stream.m3u8
