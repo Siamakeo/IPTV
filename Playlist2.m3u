@@ -175,4 +175,13 @@ https://maxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Farsi TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/KdcHNrV.png" group-title="Movie" , Farsi TV
 https://live.farsitv.us/live/stream_1080p/index.m3u8
 
+#EXTINF:0 tvg-id="AMG.ir" tvg-name="AMG" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Irmmzqi.png" group-title="Movie" , AMG
+https://nl.livekadeh.com/hls2/AMG_src.m3u8
+
+
+
+
+
+
+
 
