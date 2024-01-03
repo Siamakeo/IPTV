@@ -48,7 +48,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 https://turkhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Persiana 4TURK" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/num/4-turk-fr.png" group-title="Serie" , Persiana 4TURK
-https://turkhls.persiana.live/hls/stream.m3u8
+https://divanhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="PersianaScience.fr" tvg-name="Persiana SCIENCE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-science-fr.png" group-title="Science" , Persiana SCIENCE
 https://scihls.persiana.live/hls/stream.m3u8
