@@ -40,7 +40,7 @@ https://turkhls.persiana.live/hls/stream.m3u8
 https://scihls.persiana.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="PersianaSports.fr" tvg-name="Persiana SPORTS" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-sports-fr.png" group-title="Sport" , Persiana SPORTS
-https://af.ayas.ir/hls2/persiana.m3u8
+https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e_output_0.m3u8?session=MBH2VGpqeWj6fidpERZ9Dd
 
 #EXTINF:0 tvg-id="SL1.ir" tvg-name="SL1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-1.png" group-title="Movie" , SL1
 https://slonehls.wns.live/hls/stream.m3u8
@@ -83,6 +83,9 @@ https://icchls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="NAMA TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nama-tv.png" group-title="Movie" , NAMA TV
 https://namahls.wns.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="arax TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arax-tv.png" group-title="Movie" , arax TV
+https://araxhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" , 4U TV
 https://hls.4utv.live/hls/stream.m3u8
