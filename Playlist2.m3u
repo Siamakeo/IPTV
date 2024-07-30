@@ -174,7 +174,8 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400
 #EXTINF:0 tvg-id="https://tv.vg.no/" tvg-name="VG TV" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vg_tv_no.png" group-title="News", VG TV
 https://vgtvlive-lh.akamaized.net/hls/live/2041467/vgtv/geoblocked-norway/20171122x149692_01@319948/master7000.m3u8
 
-
+#EXTINF:0 tvg-id="" tvg-name="NAMA TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nama-tv.png" group-title="Movie" , NAMA TV
+https://namahls.wns.live/hls/stream.m3u8
 
 
 
