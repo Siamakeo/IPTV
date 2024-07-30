@@ -63,7 +63,7 @@ https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="MTC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtc_us.png" group-title="Entertainment" , MTC
 https://mtchls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DXB ONE TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/royal-citizen-tv-ae.png" group-title="Movie" , DXB ONE TV
+#EXTINF:0 tvg-id="" tvg-name="DXB ONE TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dxb-one-ae.png" group-title="Movie" , DXB ONE TV
 http://51.210.227.138/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="FX.1 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png" group-title="Movie" , FX.1 TV
@@ -81,11 +81,15 @@ https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="live.icc.bz" tvg-name="ICC+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/VaZxk65.jpg" group-title="Movie", ICC+
 https://icchls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="NAMA TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nama-tv.png" group-title="Movie" , NAMA TV
-https://namahls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="arax TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arax-tv.png" group-title="Movie" , arax TV
 https://araxhls.wns.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Afra Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Mp9jCVC.png" group-title="Movie" , Afra Film
+https://cdn.northtelecom.org/AfraFilm.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Afra Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/fg847lc.png" group-title="Serie" , Afra Series
+https://cdn.northtelecom.org/AfraSeries.m3u8
 
 #EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" , 4U TV
 https://hls.4utv.live/hls/stream.m3u8
@@ -94,7 +98,7 @@ https://hls.4utv.live/hls/stream.m3u8
 https://bravoohls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="khatereh.online" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/khatereh-tv-de.png" group-title="Entertainment", Khatereh TV
-https://live-par-2.livepush.io/live/emkz_F4htvgZdfFg/tracks-v1a1/mono.m3u8
+https://2nbyjbrbd53k-hls-live.5centscdn.com/LIVEkh/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="CLASSIC TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/cc/classic-tv.png" group-title="Movie" , CLASSIC TV
 https://clshls.wns.live/hls/stream.m3u8
@@ -150,7 +154,7 @@ https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/1955020115-123787468-prog_index.m3
 
 
 #EXTINF:0 tvg-id="" tvg-name="EURONEWS ENGLISH" tvg-country="NO" tvg-language="ENGLISH" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="News", EURONEWS ENGLISH
-https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/e07029dde3c565d5d0ff74275935072f.m3u8
+https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/32f463ebb125922dd9112b6506d51d94.m3u8
 
 #EXTINF:0 tvg-id="CanalMotor.no" tvg-name="Canal Motor" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motors-tv-no.png" group-title="Sport" , Canal Motor
 https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
