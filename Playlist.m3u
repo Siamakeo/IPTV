@@ -86,10 +86,10 @@ https://icchls.wns.live/hls/stream.m3u8
 https://araxhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Afra Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Mp9jCVC.png" group-title="Movie" , Afra Film
-https://cdn.northtelecom.org/AfraFilm.m3u8
+https://afrafhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Afra Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/fg847lc.png" group-title="Serie" , Afra Series
-https://cdn.northtelecom.org/AfraSeries.m3u8
+https://afrashls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" , 4U TV
 https://hls.4utv.live/hls/stream.m3u8
