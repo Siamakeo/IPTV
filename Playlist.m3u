@@ -39,9 +39,6 @@ https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="PersianaScience.fr" tvg-name="Persiana SCIENCE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-science-fr.png" group-title="Science" , Persiana SCIENCE
 https://scihls.persiana.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="PersianaSports.fr" tvg-name="Persiana SPORTS" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/persiana-sports-fr.png" group-title="Sport" , Persiana SPORTS
-https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e_output_0.m3u8?session=MBH2VGpqeWj6fidpERZ9Dd
-
 #EXTINF:0 tvg-id="SL1.ir" tvg-name="SL1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-1.png" group-title="Movie" , SL1
 https://slonehls.wns.live/hls/stream.m3u8
 
@@ -66,8 +63,8 @@ https://mtchls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="DXB ONE TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dxb-one-ae.png" group-title="Movie" , DXB ONE TV
 http://51.210.227.138/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="FX.1 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png" group-title="Movie" , FX.1 TV
-https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Orange TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-tv.png" group-title="Movie" , Orange TV
+https://orangehls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="FX.2 tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-2.png" group-title="Movie" , FX.2 TV
 https://toonixhls.wns.live/hls/stream.m3u8
@@ -75,12 +72,8 @@ https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="Oxir TV" tvg-name="Oxir TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oxir.png" group-title="Movie" , Oxir TV
 https://hls.oxir.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="HIGHVISION" tvg-country="IR" tvg-language="Persian" tvg-logo="https://highvision.tv/wp-content/uploads/2018/11/0001.jpg" group-title="Entertainment" , HIGHVISION
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-
 #EXTINF:0 tvg-id="live.icc.bz" tvg-name="ICC+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/VaZxk65.jpg" group-title="Movie", ICC+
 https://icchls.wns.live/hls/stream.m3u8
-
 
 #EXTINF:0 tvg-id="" tvg-name="arax TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arax-tv.png" group-title="Movie" , arax TV
 https://araxhls.wns.live/hls/stream.m3u8
@@ -98,16 +91,13 @@ https://hls.4utv.live/hls/stream.m3u8
 https://bravoohls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="khatereh.online" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/khatereh-tv-de.png" group-title="Entertainment", Khatereh TV
-https://2nbyjbrbd53k-hls-live.5centscdn.com/LIVEkh/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
+https://castor.streamthatvideo.co:8081/khaterehtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="CLASSIC TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/cc/classic-tv.png" group-title="Movie" , CLASSIC TV
 https://clshls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="ME2 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/me-2.png" group-title="Entertainment" , ME2 TV
 https://me2hls.wns.live/hls/stream.m3u8
-
-#EXTINF:0 tvg-id="Todaytv.com" tvg-name="Today TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/today-tv-us.png" group-title="Entertainment", Today TV
-https://todayhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="YourTime.ir" tvg-name="YourTime" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="Entertainment" , YourTime
 https://hls.yourtime.live/hls/stream.m3u8
@@ -150,8 +140,6 @@ https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/1955020115-123787468-prog_index.m3
 
 #EXTINF:0 tvg-id="NRK3.no" tvg-name="NRK 3" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk3.png" group-title="Entertainment" , NRK3
 https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/1955020115-123787468-prog_index.m3u8
-
-
 
 #EXTINF:0 tvg-id="" tvg-name="EURONEWS ENGLISH" tvg-country="NO" tvg-language="ENGLISH" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="News", EURONEWS ENGLISH
 https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/32f463ebb125922dd9112b6506d51d94.m3u8
