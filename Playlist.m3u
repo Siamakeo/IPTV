@@ -60,11 +60,11 @@ https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="MTC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtc_us.png" group-title="Entertainment" , MTC
 https://mtchls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DXB ONE TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dxb-one-ae.png" group-title="Movie" , DXB ONE TV
-http://51.210.227.138/hls/stream.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="Orange TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-tv.png" group-title="Movie" , Orange TV
 https://orangehls.wns.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="FX.1 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png" group-title="Movie" , FX.1 TV
+https://fxtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="FX.2 tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-2.png" group-title="Movie" , FX.2 TV
 https://toonixhls.wns.live/hls/stream.m3u8
@@ -84,11 +84,17 @@ https://afrafhls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Afra Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/fg847lc.png" group-title="Serie" , Afra Series
 https://afrashls.wns.live/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="Sun Music" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-tv-my.png" group-title="Movie" , Sun Music
+https://hls.sunmusic.live/hls/stream.m3u8
+
 #EXTINF:0 tvg-id="4UTV.ir" tvg-name="4U TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" group-title="Entertainment" , 4U TV
 https://hls.4utv.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Bravo Farsi" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bravo-tv.png" group-title="Entertainment" , Bravo Farsi
 https://bravoohls.wns.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Net TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-tv-qa.png" group-title="Movie" , Net TV
+https://nethls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="khatereh.online" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/khatereh-tv-de.png" group-title="Entertainment", Khatereh TV
 https://castor.streamthatvideo.co:8081/khaterehtv/tracks-v1a1/mono.m3u8
@@ -121,7 +127,7 @@ https://hls.pmchd.live/hls/stream.m3u8
 https://rohls.pmc.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="RadioJavan.ir" tvg-name="Radio Javan" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music" , Radio Javan
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w586659670_b2892000.m3u8
+https://rjtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="T2TV.ir" tvg-name="Tapesh 2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tapesh-2-us.png" group-title="Music" , Tapesh 2
 https://t2hls.wns.live/hls/stream.m3u8
