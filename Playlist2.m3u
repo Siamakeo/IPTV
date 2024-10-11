@@ -180,6 +180,13 @@ https://namahls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="FX.1 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png" group-title="Movie" , FX.1 TV
 https://fxtvhls.wns.live/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="DXB ONE TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dxb-one-ae.png" group-title="Movie" , DXB ONE TV
+http://51.210.227.138/hls/stream.m3u8
+
+
+
+
+
 
 
 
