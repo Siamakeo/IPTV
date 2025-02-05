@@ -48,6 +48,18 @@ https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Grand Cinema" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/lYXBSkJ.png" group-title="Movies" , Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="DIGIMOVIE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/pNK19CJ.png" group-title="Movies" , DIGIMOVIE
+https://fastdehost.com/live/digimovie.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="KINGMOVIE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Rgu8Lot.png" group-title="Movies" , KINGMOVIE
+https://fastdehost.com/live/kingmovie.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="SerialBaran" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/serialbaran.jpg" group-title="Serie" , Serial BARAN
+https://fastdehost.com/live/serialbaran1.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Home Plus" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-plus.png" group-title="Movies" , Home+
+https://homeplushls.wns.live/hls/stream.m3u8
+
 #EXTINF:0 tvg-id="Novin.ir" tvg-name="Novin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , Novin TV
 https://novin-tv.icdndhcp.com/hls/playlist.m3u8
 
