@@ -60,7 +60,7 @@ https://fastdehost.com/live/serialbaran1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Home Plus" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-plus.png" group-title="Movies" , Home+
 https://homeplushls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="Novin.ir" tvg-name="Novin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , Novin TV
+#EXTINF:0 tvg-id="Novin.ir" tvg-name="Novin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/novintv.png" group-title="Movie" , Novin TV
 https://novin-tv.icdndhcp.com/hls/playlist.m3u8
 
 #EXTINF:0 tvg-id="Metafilm.ir" tvg-name="Metafilm" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/meta-film-tv.png" group-title="Movie" , Metafilm
