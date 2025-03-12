@@ -60,13 +60,13 @@ https://fastdehost.com/live/serialbaran1.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Home Plus" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-plus.png" group-title="Movies" , Home+
 https://homeplushls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="Novin.ir" tvg-name="Novin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/novintv.png" group-title="Movie" , Novin TV
-https://novin-tv.icdndhcp.com/hls/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="IRAN NAMA" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iran-nama-fr.png" group-title="Movie" , IRAN NAMA
+https://hls.ashena.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="Metafilm.ir" tvg-name="Metafilm" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/meta-film-tv.png" group-title="Movie" , Metafilm
 https://metafilmhls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="maahtv.ir" tvg-name="maahtv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/maah-tv-my.png" group-title="Movie" , maahtv
+#EXTINF:0 tvg-id="maahtv.ir" tvg-name="maahtv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/maah-tv-my.png" group-title="Movie" , maah TV
 https://hls.maahtv.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="MTC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtc_us.png" group-title="Entertainment" , MTC
@@ -160,7 +160,7 @@ https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/1955020115-123787468-prog_index.m3
 https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/1955020115-123787468-prog_index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="EURONEWS ENGLISH" tvg-country="NO" tvg-language="ENGLISH" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="News", EURONEWS ENGLISH
-https://rakuten-euronews-1-dk.samsung.wurl.tv/manifest/32f463ebb125922dd9112b6506d51d94.m3u8
+https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 
 #EXTINF:0 tvg-id="CanalMotor.no" tvg-name="Canal Motor" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motors-tv-no.png" group-title="Sport" , Canal Motor
 https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
