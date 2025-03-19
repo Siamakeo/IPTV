@@ -1,5 +1,8 @@
 #EXTM3U url-tvg ="https://www.nrk.no/tvanytime/default.aspx?p=xml"
 
+#EXTINF:0 tvg-id="manototv.com" tvg-name="Manoto HD" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment" , Manoto HD
+https://manoto.icdndhcp.com/hls/playlist.m3u8
+
 #EXTINF:0 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="Entertainment" , MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
@@ -56,6 +59,9 @@ https://fastdehost.com/live/kingmovie.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="SerialBaran" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/serialbaran.jpg" group-title="Serie" , Serial BARAN
 https://fastdehost.com/live/serialbaran1.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Novin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/novintv.png" group-title="Movies" , Novin TV
+https://novintv.icdndhcp.com/hls/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Home Plus" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-plus.png" group-title="Movies" , Home+
 https://homeplushls.wns.live/hls/stream.m3u8
@@ -123,8 +129,8 @@ https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="Iraninternational.uk" tvg-name="Iraninternational" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/6qeC6rI.png" group-title="News" , Iraninternational
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
-#EXTINF:0 tvg-id="ir.voanews.com" tvg-name="VOA PNN" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dBoqyM4.png" group-title="News" , VOA PNN
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
+*#EXTINF:0 tvg-id="ir.voanews.com" tvg-name="VOA PNN" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dBoqyM4.png" group-title="News" , VOA PNN
+*https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 
 #EXTINF:0 tvg-id="Navahang.ir" tvg-name="Navahang" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/navahang.png" group-title="Music" , Navahang
 https://hls.navahang.live/hls/stream.m3u8
