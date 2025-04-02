@@ -1,7 +1,7 @@
 #EXTM3U url-tvg ="https://www.nrk.no/tvanytime/default.aspx?p=xml"
 
 #EXTINF:0 tvg-id="manototv.com" tvg-name="Manoto HD" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment" , Manoto HD
-https://manoto.icdndhcp.com/hls/playlist.m3u8
+https://manotolive.icdndhcp.com/hls/playlist.m3u8
 
 #EXTINF:0 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="Entertainment" , MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
@@ -61,7 +61,7 @@ https://fastdehost.com/live/kingmovie.m3u8
 https://fastdehost.com/live/serialbaran1.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Novin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/novintv.png" group-title="Movies" , Novin TV
-https://novintv.icdndhcp.com/hls/playlist.m3u8
+https://novinhd.icdndhcp.com/hls/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Home Plus" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-plus.png" group-title="Movies" , Home+
 https://homeplushls.wns.live/hls/stream.m3u8
@@ -157,13 +157,13 @@ https://musichls.persiana.live/hls/stream.m3u8
 https://noshls.persiana.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="NRK.no" tvg-name="NRK 1" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk1.png" group-title="Entertainment" , NRK1
-https://httpcache0-47115-httpcache0.dna.ip-only.net/47115-cachelive0/21/0/hls/nrk_1/1035432803-1026273474-prog_index.m3u8
+https://nrk-live-no.akamaized.net/nrk1/sc-gaFEEA/m523_index.m3u8
 
 #EXTINF:0 tvg-id="NRK2.no" tvg-name="NRK 2" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk2.png" group-title="Entertainment" , NRK2
-https://nrk-nrk2.akamaized.net/22/0/hls/nrk_2/1955020115-123787468-prog_index.m3u8
+https://nrk-live-no.akamaized.net/nrk2/sc-gaFEEA/m534_index.m3u8
 
 #EXTINF:0 tvg-id="NRK3.no" tvg-name="NRK 3" tvg-country="NO" tvg-language="Norwegian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nrk3.png" group-title="Entertainment" , NRK3
-https://nrk-nrk3.akamaized.net/23/0/hls/nrk_3/1955020115-123787468-prog_index.m3u8
+https://nrk-live-no.akamaized.net/nrk3/sc-gaFEEA/m523_index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="EURONEWS ENGLISH" tvg-country="NO" tvg-language="ENGLISH" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/euronews_fr.png" group-title="News", EURONEWS ENGLISH
 https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
