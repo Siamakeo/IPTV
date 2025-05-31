@@ -114,14 +114,17 @@ https://bravoohls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Net TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-tv-qa.png" group-title="Movie" , Net TV
 https://nethls.wns.live/hls/stream.m3u8
 
+#EXTINF:0 tvg-id="rtimetv.com" tvg-name="Royal Time TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ipZBJ3w.jpg" group-title="Entertainment", Royal Time TV
+https://tixbolt.com/royaltv/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:0 tvg-id="khatereh.online" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/khatereh-tv-de.png" group-title="Entertainment", Khatereh TV
 https://castor.streamthatvideo.co:8081/khaterehtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="CLASSIC TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/cc/classic-tv.png" group-title="Movie" , CLASSIC TV
 https://clshls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="ME2 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/me-2.png" group-title="Entertainment" , ME2 TV
-https://me2hls.wns.live/hls/stream.m3u8
+*#EXTINF:0 tvg-id="" tvg-name="ME2 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/me-2.png" group-title="Entertainment" , ME2 TV
+*https://me2hls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="YourTime.ir" tvg-name="YourTime" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/kcFrMog.png" group-title="Entertainment" , YourTime
 https://hls.yourtime.live/hls/stream.m3u8
@@ -139,7 +142,7 @@ https://hls.navahang.live/hls/stream.m3u8
 https://hls.avang.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="PMC.ir" tvg-name="PMC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/YMtKPkF.png" group-title="Music" , PMC
-https://hls.pmchd.live/hls/stream.m3u8
+https://hls.pmc.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="PMCROYALE.ir" tvg-name="PMC ROYALE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pmc-ae.png" group-title="Music" , PMC ROYALE
 https://rohls.pmc.live/hls/stream.m3u8
