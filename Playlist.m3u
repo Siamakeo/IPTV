@@ -45,11 +45,20 @@ https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="24BOXTV.ir" tvg-name="24/7 BOX TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/num/24box.png"  group-title="Movie" , 24/7 BOX TV
 https://hls.247box.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Ekran Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , Ekran Movie
-https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+*#EXTINF:0 tvg-id="" tvg-name="Ekran Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , Ekran Movie
+*https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 
-#EXTINF:0 tvg-id="GemSeries.ir" tvg-name="Gem Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.gemonline.tv/assets/img/channel_cube/gemSeries.png" group-title="Series" , Gem Series
-https://ca-rt.onetv.app/gemseries/index-0.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Arvan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arvan-tv.png" group-title="Movie" , Arvan TV
+https://arvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Arko TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arko-tv.png" group-title="Movie" , Arko TV
+https://arkhls.wns.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Datis TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/dd/datis-tv.png" group-title="Movie" , Datis TV
+https://dathls.wns.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="GemSeries.ir" tvg-name="Gem Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gem-series-ca.png" group-title="Series" , Gem Series
+https://cdn-live.gemgroup.tv/live/series.m3u8
 
 #EXTINF:0 tvg-id="SL1.ir" tvg-name="SL1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-1.png" group-title="Movie" , SL1
 https://slonehls.wns.live/hls/stream.m3u8
@@ -60,14 +69,14 @@ https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Grand Cinema" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/lYXBSkJ.png" group-title="Movies" , Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="DIGIMOVIE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/pNK19CJ.png" group-title="Movies" , DIGIMOVIE
-https://fastdehost.com/live/digimovie.m3u8
+*#EXTINF:0 tvg-id="" tvg-name="DIGIMOVIE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/pNK19CJ.png" group-title="Movies" , DIGIMOVIE
+*https://fastdehost.com/live/digimovie.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="KINGMOVIE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Rgu8Lot.png" group-title="Movies" , KINGMOVIE
-https://fastdehost.com/live/kingmovie.m3u8
+*#EXTINF:0 tvg-id="" tvg-name="KINGMOVIE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Rgu8Lot.png" group-title="Movies" , KINGMOVIE
+*https://fastdehost.com/live/kingmovie.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="SerialBaran" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/serialbaran.jpg" group-title="Serie" , Serial BARAN
-https://fastdehost.com/live/serialbaran1.m3u8
+*#EXTINF:0 tvg-id="" tvg-name="SerialBaran" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/serialbaran.jpg" group-title="Serie" , Serial BARAN
+*https://fastdehost.com/live/serialbaran1.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Novin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/novintv.png" group-title="Movies" , Novin TV
 https://novinhd.icdndhcp.com/hls/playlist.m3u8
@@ -87,8 +96,14 @@ https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="MTC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mtc_us.png" group-title="Entertainment" , MTC
 https://mtchls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Orange TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-tv.png" group-title="Movie" , Orange TV
-https://orangehls.wns.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Goldstar" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gold-star.png" group-title="Movie" , Goldstar TV
+https://moviethls.wns.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="NEWFLIX" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newflix.png" group-title="Movie" , NEWFLIX
+https://newfhls.wns.live/hls/stream.m3u8
+
+*#EXTINF:0 tvg-id="" tvg-name="Orange TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-tv.png" group-title="Movie" , Orange TV
+*https://orangehls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="FX.1 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png" group-title="Movie" , FX.1 TV
 https://fxtvhls.wns.live/hls/stream.m3u8
@@ -126,8 +141,8 @@ https://nethls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="rtimetv.com" tvg-name="Royal Time TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/ipZBJ3w.jpg" group-title="Entertainment", Royal Time TV
 https://tixbolt.com/royaltv/tracks-v1a1/mono.ts.m3u8
 
-*#EXTINF:0 tvg-id="khatereh.online" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/khatereh-tv-de.png" group-title="Entertainment", Khatereh TV
-*https://castor.streamthatvideo.co:8081/khaterehtv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="khatereh.online" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/khatereh-tv-de.png" group-title="Entertainment", Khatereh TV
+https://stella.streamerr.co:3844/live/khaterehtvlive.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="CLASSIC TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/cc/classic-tv.png" group-title="Movie" , CLASSIC TV
 https://clshls.wns.live/hls/stream.m3u8
