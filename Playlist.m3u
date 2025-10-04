@@ -45,11 +45,11 @@ https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="24BOXTV.ir" tvg-name="24/7 BOX TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/num/24box.png"  group-title="Movie" , 24/7 BOX TV
 https://hls.247box.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Ekran Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , Ekran Movie
-https://crsply.cfpass1.workers.dev/?url=https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u83u8
+*#EXTINF:0 tvg-id="" tvg-name="Ekran Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , Ekran Movie
+*https://crsply.cfpass1.workers.dev/?url=https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u83u8
 
-#EXTINF:0 tvg-id="" tvg-name="T2 Movies" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , T2 Movies
-https://crsply.cfpass1.workers.dev/?url=https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+*#EXTINF:0 tvg-id="" tvg-name="T2 Movies" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , T2 Movies
+*https://crsply.cfpass1.workers.dev/?url=https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="TV 8+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/num/8plus-tv.png" group-title="Movie" , TV 8+
 https://arvhls.wns.live/hls/stream.m3u8
@@ -210,6 +210,7 @@ https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="PersianaJUNIOR.fr" tvg-name="Persiana JUNIOR" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-junior-fr.png" group-title="Kid" , Persiana JUNIOR
 https://junhls.persiana.live/hls/stream.m3u8
+
 
 
 
