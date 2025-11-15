@@ -1,7 +1,7 @@
 #EXTM3U url-tvg ="https://www.nrk.no/tvanytime/default.aspx?p=xml"
 
 #EXTINF:0 tvg-id="manototv.com" tvg-name="Manoto HD" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment" , Manoto HD
-https://spf-cors-bktv9.cfpass1.workers.dev/?url=https://m3u.iranvids.com/manoto/output.m3u8
+https://m3u.iranvids.com/manoto/output.m3u8
 
 #EXTINF:0 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="Entertainment" , MBC Persia
 https://hls.mbcpersia.live/hls/stream.m3u8
@@ -42,12 +42,12 @@ https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="PersianaScience.fr" tvg-name="Persiana SCIENCE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-science-fr.png" group-title="Science" , Persiana SCIENCE
 https://scihls.persiana.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="24BOXTV.ir" tvg-name="24/7 BOX TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/num/24box.png"  group-title="Movie" , 24/7 BOX TV
-https://hls.247box.live/hls/stream.m3u8
+*#EXTINF:0 tvg-id="24BOXTV.ir" tvg-name="24/7 BOX TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/num/24box.png"  group-title="Movie" , 24/7 BOX TV
+*https://hls.247box.live/hls/stream.m3u8
 
-*#EXTINF:0 tvg-id="" tvg-name="Ekran Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , Ekran Movie
-*https://crsply.cfpass1.workers.dev/?url=https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
-
+#EXTINF:0 tvg-id="" tvg-name="Ekran Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , Ekran Movie
+https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+ 
 *#EXTINF:0 tvg-id="" tvg-name="T2 Movies" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , T2 Movies
 *https://crsply.cfpass1.workers.dev/?url=https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 
@@ -175,11 +175,11 @@ https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="Avang.com" tvg-name="Avang" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/avang-tv-us.png" group-title="Music" , Avang
 https://hls.avang.live/hls/stream.m3u8
 
-*#EXTINF:0 tvg-id="PMC.ir" tvg-name="PMC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/YMtKPkF.png" group-title="Music" , PMC
-*https://hls.pmc.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="PMC.ir" tvg-name="PMC" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/YMtKPkF.png" group-title="Music" , PMC
+https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
 
-*#EXTINF:0 tvg-id="PMCROYALE.ir" tvg-name="PMC ROYALE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pmc-ae.png" group-title="Music" , PMC ROYALE
-*https://rohls.pmc.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="PMCROYALE.ir" tvg-name="PMC ROYALE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pmc-ae.png" group-title="Music" , PMC ROYALE
+https://pmcrohls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="RadioJavan.ir" tvg-name="Radio Javan" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music" , Radio Javan
 https://rjtvhls.wns.live/hls/stream.m3u8
@@ -210,6 +210,7 @@ https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="PersianaJUNIOR.fr" tvg-name="Persiana JUNIOR" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-junior-fr.png" group-title="Kid" , Persiana JUNIOR
 https://junhls.persiana.live/hls/stream.m3u8
+
 
 
 
