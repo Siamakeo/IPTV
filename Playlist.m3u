@@ -6,38 +6,39 @@
 #EXTINF:0 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="Entertainment" , MBC Persia
 https://hls.mbcpersia.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="AVAFamily.ir" tvg-name="AVA Family" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-family.png" group-title="Movie" , AVA Family
-https://familyhls.avatv.live/hls/stream.m3u8
-
-#EXTINF:0 tvg-id="AVASeries.ir" tvg-name="AVA Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-series.png" group-title="Serie" , AVA Series
-https://avaserieshls.wns.live/hls/stream.m3u8
-
-#EXTINF:0 tvg-id="PersianaKOREA.fr" tvg-name="Persiana KOREA" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-korea-fr.png" group-title="Serie" , Persiana KOREA
+#EXTINF:0 tvg-id="" tvg-name="Persiana KOREA" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-korea-fr.png" group-title="Serie" , Persiana KOREA
 https://korhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="Persianahd.fr" tvg-name="Persiana HD" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-hd-sa.png" group-title="Movie" , Persiana HD
+#EXTINF:0 tvg-id="" tvg-name="Persiana HD" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-hd-sa.png" group-title="Movie" , Persiana HD
 https://euhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="Persiana1.fr" tvg-name="Persiana ONE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-one-fr.png" group-title="Movie" , Persiana ONE
+#EXTINF:0 tvg-id="" tvg-name="Persiana SERIES" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png" group-title="Movie" , Persiana SERIES
 https://onehls.persiana.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="Persiana2.fr" tvg-name="Persiana TWO" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-two-fr.png" group-title="Movie" , Persiana TWO
+#EXTINF:0 tvg-id="" tvg-name="Persiana REALITY" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-reality-fr.png" group-title="Movie" , Persiana REALITY
 https://twohls.persiana.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="Persianalatino.fr" tvg-name="Persiana LATINO" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png" group-title="Movie" , Persiana LATINO
+#EXTINF:0 tvg-id="" tvg-name="Persiana CINEMA" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-cinema-fr.png" group-title="Movie" , Persiana CINEMA
+https://cinehls.persiana.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="Persiana LATINO" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-latino-fr.png" group-title="Movie" , Persiana LATINO
 https://latinohls.persiana.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="PersianaCOMEDY.fr" tvg-name="Persiana COMEDY" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-comedy-fr.png" group-title="Movie" , Persiana COMEDY
+#EXTINF:0 tvg-id="" tvg-name="Persiana COMEDY" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-comedy-fr.png" group-title="Movie" , Persiana COMEDY
 https://comedyhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="PersianaIRANIAN.fr" tvg-name="Persiana IRANIAN" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-iranian-fr.png" group-title="Movie" , Persiana IRANIAN
+#EXTINF:0 tvg-id="" tvg-name="Persiana IRANIAN" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-iranian-fr.png" group-title="Movie" , Persiana IRANIAN
 https://irhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="PersianaFAMILY.fr" tvg-name="Persiana FAMILY" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-family-fr.png" group-title="Serie" , Persiana FAMILY
+#EXTINF:0 tvg-id="" tvg-name="Persiana FAMILY" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-family-fr.png" group-title="Serie" , Persiana FAMILY
 https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Persiana TURKIYE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-turkiye-fr.png" group-title="Serie" , Persiana TURKIYE
 https://turkhls.persiana.live/hls/stream.m3u8
+
+
+#EXTINF:0 tvg-id="" tvg-name="Persiana FIGHT" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-fight-fr.png" group-title="" , Persiana FIGHT
+https://fighthls.persiana.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="PersianaScience.fr" tvg-name="Persiana SCIENCE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-science-fr.png" group-title="Science" , Persiana SCIENCE
 https://scihls.persiana.live/hls/stream.m3u8
@@ -50,6 +51,12 @@ https://scihls.persiana.live/hls/stream.m3u8
  
 *#EXTINF:0 tvg-id="" tvg-name="T2 Movies" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , T2 Movies
 *https://crsply.cfpass1.workers.dev/?url=https://still-mud-3642.nqanzvyuupxwcahtfq.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+
+#EXTINF:0 tvg-id="AVAFamily.ir" tvg-name="AVA Family" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-family.png" group-title="Movie" , AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+
+#EXTINF:0 tvg-id="AVASeries.ir" tvg-name="AVA Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-series.png" group-title="Serie" , AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="TV 8+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/num/8plus-tv.png" group-title="Movie" , TV 8+
 https://arvhls.wns.live/hls/stream.m3u8
@@ -82,7 +89,7 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 *https://fastdehost.com/live/serialbaran1.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Novin TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/novintv.png" group-title="Movies" , Novin TV
-https://novinhd.icdndhcp.com/hls/playlist.m3u8
+https://stream.novin.live/hls/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Home Plus" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-plus.png" group-title="Movies" , Home+
 https://homeplushls.wns.live/hls/stream.m3u8
@@ -210,6 +217,7 @@ https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="PersianaJUNIOR.fr" tvg-name="Persiana JUNIOR" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-junior-fr.png" group-title="Kid" , Persiana JUNIOR
 https://junhls.persiana.live/hls/stream.m3u8
+
 
 
 
