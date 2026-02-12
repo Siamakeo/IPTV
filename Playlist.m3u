@@ -21,7 +21,6 @@ https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Persiana CINEMA" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-cinema-fr.png" group-title="Movie" , Persiana CINEMA
 https://cinehls.persiana.live/hls/stream.m3u8
 
-
 #EXTINF:0 tvg-id="" tvg-name="Persiana PLUS" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-plus-fr.png" group-title="Movie" , Persiana PLUS
 https://euhls.persiana.live/hls/stream.m3u8
 
@@ -47,10 +46,11 @@ https://scihls.persiana.live/hls/stream.m3u8
 *https://hls.247box.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Ekran Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , Ekran Movies
-https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+*https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
+https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
 
 #EXTINF:0 tvg-id="" tvg-name="T2 Movies" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , T2 Movies
-https://ca-rt.onetv.app/T2Movies/index-0.m3u8
+https://t2hls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="AVAFamily.ir" tvg-name="AVA Family" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-family.png" group-title="Movie" , AVA Family
 https://familyhls.avatv.live/hls/stream.m3u8
@@ -217,6 +217,7 @@ https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="PersianaJUNIOR.fr" tvg-name="Persiana JUNIOR" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-junior-fr.png" group-title="Kid" , Persiana JUNIOR
 https://junhls.persiana.live/hls/stream.m3u8
+
 
 
 
