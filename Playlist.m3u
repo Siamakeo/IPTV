@@ -3,6 +3,9 @@
 *#EXTINF:0 tvg-id="manototv.com" tvg-name="Manoto HD" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment" , Manoto HD
 *https://ca-rt.onetv.app/manototv/index-0.m3u8
 
+#EXTINF:0 tvg-id="Iran National Revolution" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iran-national-revolution-tv-us.png" group-title="" , Iran National Revolution
+https://hls.irannrtv.live/hls/stream.m3u8
+
 #EXTINF:0 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" group-title="Entertainment" , MBC Persia
 https://hls.mbcpersia.live/hls/stream.m3u8
 
@@ -15,8 +18,8 @@ https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Persiana SERIES" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-series-fr.png" group-title="Movie" , Persiana SERIES
 https://onehls.persiana.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Persiana REALITY" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-reality-fr.png" group-title="Movie" , Persiana REALITY
-https://twohls.persiana.live/hls/stream.m3u8
+*#EXTINF:0 tvg-id="" tvg-name="Persiana REALITY" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-reality-fr.png" group-title="Movie" , Persiana REALITY
+*https://twohls.persiana.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Persiana CINEMA" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-cinema-fr.png" group-title="Movie" , Persiana CINEMA
 https://cinehls.persiana.live/hls/stream.m3u8
@@ -58,7 +61,7 @@ https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="AVASeries.ir" tvg-name="AVA Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/ava-series.png" group-title="Serie" , AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="TV 8+" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/num/8plus-tv.png" group-title="Movie" , TV 8+
+#EXTINF:0 tvg-id="" tvg-name="Royal TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/rr/royal-tv.png" group-title="Movie" , Royal TV
 https://arvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Arko TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arko-tv.png" group-title="Movie" , Arko TV
@@ -76,7 +79,7 @@ https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="SL2.ir" tvg-name="SL2" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sl-2.png" group-title="Movie" , SL2
 https://sltwohls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="Grand Cinema" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/lYXBSkJ.png" group-title="Movies" , Grand Cinema
+#EXTINF:0 tvg-id="" tvg-name="CINEX" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinex.png" group-title="Movies" , CINEX
 https://gcinemahls.wns.live/hls/stream.m3u8
 
 *#EXTINF:0 tvg-id="" tvg-name="DIGIMOVIE" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/pNK19CJ.png" group-title="Movies" , DIGIMOVIE
@@ -109,16 +112,16 @@ https://mtchls.wns.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Goldstar" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gold-star.png" group-title="Movie" , Goldstar TV
 https://moviethls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="NEWFLIX" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newflix.png" group-title="Movie" , NEWFLIX
-https://newfhls.wns.live/hls/stream.m3u8
+*#EXTINF:0 tvg-id="" tvg-name="NEWFLIX" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/nn/newflix.png" group-title="Movie" , NEWFLIX
+*https://newfhls.wns.live/hls/stream.m3u8
 
 *#EXTINF:0 tvg-id="" tvg-name="Orange TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/oo/orange-tv.png" group-title="Movie" , Orange TV
 *https://orangehls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="FX.1 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-1.png" group-title="Movie" , FX.1 TV
+#EXTINF:0 tvg-id="" tvg-name="FX MOVIES" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-movies-fr.png" group-title="Movie" , FX MOVIES
 https://fxtvhls.wns.live/hls/stream.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="FX.2 tv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-2.png" group-title="Movie" , FX.2 TV
+#EXTINF:0 tvg-id="" tvg-name="FX CARTOON" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fx-cartoon-fr.png" group-title="Movie" , FX CARTOON
 https://toonixhls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="Oxir TV" tvg-name="Oxir TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oxir.png" group-title="Movie" , Oxir TV
@@ -217,6 +220,7 @@ https://digicom.hls.iptvdc.com/topspeed/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-id="PersianaJUNIOR.fr" tvg-name="Persiana JUNIOR" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/pp/persiana-junior-fr.png" group-title="Kid" , Persiana JUNIOR
 https://junhls.persiana.live/hls/stream.m3u8
+
 
 
 
