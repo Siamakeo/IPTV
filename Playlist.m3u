@@ -48,9 +48,8 @@ https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/num/24box.png"  group-title="Movie" , 24/7 BOX TV
 https://hls.247box.live/hls/stream.m3u8
 
-*#EXTINF:0 tvg-id="" tvg-name="Ekran Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , Ekran Movies
-*https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
-*https://ca-rt.onetv.app/EkranMovies/index-0.m3u8?token=onetv202
+#EXTINF:0 tvg-id="" tvg-name="Ekran Movie" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , Ekran Movies
+https://spf-onetv-9i4j.cfcross.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 
 *#EXTINF:0 tvg-id="" tvg-name="T2 Movies" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="Movie" , T2 Movies
 *https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
@@ -142,11 +141,11 @@ https://panel.farsitv.us:19360/farsitvlive/1080p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="ARVAN TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arvan-tv.png" group-title="Movie" , ARVAN TV
 https://arvhls.wns.live/hls/stream.m3u8
 
-*#EXTINF:0 tvg-id="" tvg-name="Afra Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Mp9jCVC.png" group-title="Movie" , Afra Film
-*https://afrafhls.wns.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Afra Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Mp9jCVC.png" group-title="Movie" , Afra Film
+https://afrafhls.wns.live/hls/stream.m3u8
 
-*#EXTINF:0 tvg-id="" tvg-name="Afra Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/fg847lc.png" group-title="Serie" , Afra Series
-*https://afrashls.wns.live/hls/stream.m3u8
+#EXTINF:0 tvg-id="" tvg-name="Afra Series" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/fg847lc.png" group-title="Serie" , Afra Series
+https://afrashls.wns.live/hls/stream.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="Sun Music" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-music-tv-my.png" group-title="Movie" , Sun Music
 https://hls.sunmusic.live/hls/stream.m3u8
@@ -167,7 +166,7 @@ https://familyhls.4utv.live/hls/stream.m3u8
 *https://tixbolt.com/royaltv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 tvg-id="khatereh.online" tvg-name="Khatereh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/khatereh-tv-de.png" group-title="Entertainment", Khatereh TV
-https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
+https://radio.khatereh.online:5443/LiveApp/streams/jWF37YKCgZ0FSYTR863687974499636.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="CLASSIC TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat.com/logo/tv/cc/classic-tv.png" group-title="Movie" , CLASSIC TV
 https://clshls.wns.live/hls/stream.m3u8
@@ -181,8 +180,8 @@ https://live.yourtime.tv/hls/stream.m3u8
 #EXTINF:0 tvg-id="Iraninternational.uk" tvg-name="Iraninternational" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/6qeC6rI.png" group-title="News" , Iraninternational
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
-*#EXTINF:0 tvg-id="" tvg-name="Iranindtv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/Yg2yP1Nno5hLG1NR/small2-3MGFyWIPNGqMkZop.jpg" group-title="News" , Iran Independent TV
-*https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202
+#EXTINF:0 tvg-id="" tvg-name="Iranindtv" tvg-country="IR" tvg-language="Persian" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop/Yg2yP1Nno5hLG1NR/small2-3MGFyWIPNGqMkZop.jpg" group-title="News" , Iran Independent TV
+https://mediamtx.elitelatrade.com/live/stream/main_stream.m3u8
 
 #EXTINF:0 tvg-id="Navahang.ir" tvg-name="Navahang" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/navahang.png" group-title="Music" , Navahang
 https://hls.navahang.live/hls/stream.m3u8
